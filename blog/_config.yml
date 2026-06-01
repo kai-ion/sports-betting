@@ -1,0 +1,24 @@
+title: Sports Picks
+description: AI-powered NBA + WNBA prop predictions with quantitative edge scoring
+baseurl: "/sports-betting"
+url: "https://kai-ion.github.io"
+
+collections:
+  nba:
+    output: true
+    permalink: /nba/:title/
+  wnba:
+    output: true
+    permalink: /wnba/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "nba"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "wnba"
+    values:
+      layout: "post"
