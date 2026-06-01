@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-29",
+  "predictions": [
+    {
+      "home_team": "OKC",
+      "away_team": "SAS",
+      "home_projected": 114.4,
+      "away_projected": 112.6,
+      "projected_spread": -1.8,
+      "projected_total": 227.0,
+      "home_win_prob": 61.1,
+      "away_win_prob": 38.9,
+      "home_stats": {
+        "team": "OKC",
+        "gp": 14,
+        "wins": 11,
+        "losses": 3,
+        "win_pct": 0.786,
+        "pts_per_game": 116.4,
+        "reb_per_game": 42.0,
+        "ast_per_game": 26.1,
+        "fg_pct": 0.472,
+        "fg3_pct": 0.366,
+        "tov_per_game": 12.9,
+        "plus_minus": 8.2
+      },
+      "away_stats": {
+        "team": "SAS",
+        "gp": 17,
+        "wins": 11,
+        "losses": 6,
+        "win_pct": 0.647,
+        "pts_per_game": 115.5,
+        "reb_per_game": 47.7,
+        "ast_per_game": 25.4,
+        "fg_pct": 0.469,
+        "fg3_pct": 0.361,
+        "tov_per_game": 15.4,
+        "plus_minus": 10.4
+      },
+      "home_defense": {
+        "opp_pts": 108.2,
+        "opp_fg_pct": 0.446,
+        "opp_fg3_pct": 0.344,
+        "opp_tov": 17.1
+      },
+      "away_defense": {
+        "opp_pts": 105.1,
+        "opp_fg_pct": 0.411,
+        "opp_fg3_pct": 0.328,
+        "opp_tov": 13.8
+      },
+      "home_form": null,
+      "away_form": null,
+      "h2h": null,
+      "market_odds": {
+        "spread": "OKC -3.5",
+        "over_under": 212.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}

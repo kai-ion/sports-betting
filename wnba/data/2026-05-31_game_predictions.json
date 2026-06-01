@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-31",
+  "predictions": [
+    {
+      "home_team": "GS",
+      "away_team": "LV",
+      "home_projected": 89.9,
+      "away_projected": 84.1,
+      "projected_spread": -5.7,
+      "projected_total": 174.0,
+      "home_win_prob": 80.6,
+      "away_win_prob": 19.4,
+      "home_record": "5-2",
+      "away_record": "4-3",
+      "market_odds": {
+        "spread": "LV -2.5",
+        "over_under": 168.5,
+        "home_ml": "+120",
+        "away_ml": "-142",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}

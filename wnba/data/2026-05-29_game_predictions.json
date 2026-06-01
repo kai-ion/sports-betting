@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-29",
+  "predictions": [
+    {
+      "home_team": "NY",
+      "away_team": "PHX",
+      "home_projected": 89.9,
+      "away_projected": 84.8,
+      "projected_spread": -5.2,
+      "projected_total": 174.7,
+      "home_win_prob": 78.6,
+      "away_win_prob": 21.4,
+      "home_record": "4-4",
+      "away_record": "2-6",
+      "market_odds": {
+        "spread": "NY -5.5",
+        "over_under": 170.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "WSH",
+      "away_team": "LA",
+      "home_projected": 91.4,
+      "away_projected": 88.9,
+      "projected_spread": -2.5,
+      "projected_total": 180.3,
+      "home_win_prob": 65.1,
+      "away_win_prob": 34.9,
+      "home_record": "3-3",
+      "away_record": "3-3",
+      "market_odds": {
+        "spread": "WSH -2.5",
+        "over_under": 165.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "CHI",
+      "away_team": "MIN",
+      "home_projected": 85.5,
+      "away_projected": 89.2,
+      "projected_spread": 3.7,
+      "projected_total": 174.7,
+      "home_win_prob": 28.4,
+      "away_win_prob": 71.6,
+      "home_record": "3-4",
+      "away_record": "5-2",
+      "market_odds": {
+        "spread": "MIN -4.5",
+        "over_under": 172.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "POR",
+      "away_team": "ATL",
+      "home_projected": 84.8,
+      "away_projected": 84.4,
+      "projected_spread": -0.4,
+      "projected_total": 169.2,
+      "home_win_prob": 52.5,
+      "away_win_prob": 47.5,
+      "home_record": "5-3",
+      "away_record": "4-2",
+      "market_odds": {
+        "spread": "ATL -8.5",
+        "over_under": 163.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}

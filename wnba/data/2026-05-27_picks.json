@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-27",
+  "sport": "WNBA",
+  "picks": [
+    {
+      "player": "Natasha Howard",
+      "prop": "PRA",
+      "line": 25.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 32.4
+    },
+    {
+      "player": "Jordin Canada",
+      "prop": "Assists",
+      "line": 6.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 8.5
+    },
+    {
+      "player": "Kiki Iriafen",
+      "prop": "Rebounds",
+      "line": 10.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 12.2
+    },
+    {
+      "player": "Alyssa Thomas",
+      "prop": "Assists",
+      "line": 9.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 7.2
+    },
+    {
+      "player": "Natasha Howard",
+      "prop": "Points",
+      "line": 17.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 21.0
+    },
+    {
+      "player": "Kahleah Copper",
+      "prop": "Points",
+      "line": 21.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 18.5
+    },
+    {
+      "player": "Jordin Canada",
+      "prop": "P+R",
+      "line": 19.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 24.0
+    },
+    {
+      "player": "Kiki Iriafen",
+      "prop": "P+R",
+      "line": 29.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 26.0
+    },
+    {
+      "player": "Courtney Williams",
+      "prop": "Points",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 14.8
+    },
+    {
+      "player": "Breanna Stewart",
+      "prop": "Rebounds",
+      "line": 8.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 7.2
+    }
+  ],
+  "games": [
+    {
+      "home": {
+        "abbr": "NY",
+        "name": "New York Liberty"
+      },
+      "away": {
+        "abbr": "PHX",
+        "name": "Phoenix Mercury"
+      },
+      "odds": {
+        "spread": "NY -4.5",
+        "over_under": 169.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Sky"
+      },
+      "away": {
+        "abbr": "TOR",
+        "name": "Toronto Tempo"
+      },
+      "odds": {
+        "spread": "CHI -5.5",
+        "over_under": 171.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Lynx"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Dream"
+      },
+      "odds": {
+        "spread": "ATL -2.5",
+        "over_under": 165.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "POR",
+        "name": "Portland Fire"
+      },
+      "away": {
+        "abbr": "CON",
+        "name": "Connecticut Sun"
+      },
+      "odds": {
+        "spread": "POR -6.5",
+        "over_under": 166.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Storm"
+      },
+      "away": {
+        "abbr": "WSH",
+        "name": "Washington Mystics"
+      },
+      "odds": {
+        "spread": "WSH -3.5",
+        "over_under": 160.5
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "players_analyzed": 54
+}

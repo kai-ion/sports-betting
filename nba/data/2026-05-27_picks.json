@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-27",
+  "picks": [
+    {
+      "player": "Dylan Harper",
+      "prop": "PRA",
+      "line": 15.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 21.5
+    },
+    {
+      "player": "Dylan Harper",
+      "prop": "P+A",
+      "line": 11.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 17.0
+    },
+    {
+      "player": "Dylan Harper",
+      "prop": "P+R",
+      "line": 12.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 17.7
+    },
+    {
+      "player": "De'Aaron Fox",
+      "prop": "Points",
+      "line": 14.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 21.1
+    },
+    {
+      "player": "De'Aaron Fox",
+      "prop": "PRA",
+      "line": 24.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 30.8
+    },
+    {
+      "player": "De'Aaron Fox",
+      "prop": "P+R",
+      "line": 18.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 24.6
+    },
+    {
+      "player": "Luke Kornet",
+      "prop": "PRA",
+      "line": 5.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 14.0
+    },
+    {
+      "player": "Luke Kornet",
+      "prop": "P+R",
+      "line": 6.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 12.1
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "prop": "PRA",
+      "line": 42.0,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 35.8
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "prop": "P+A",
+      "line": 38.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 31.9
+    }
+  ],
+  "game_context": {
+    "games": [
+      {
+        "home_team": "SA",
+        "away_team": "OKC",
+        "status": "Scheduled",
+        "date": "2026-05-29T00:30Z",
+        "spread": "SA -3.5",
+        "over_under": 219.5,
+        "provider": "DraftKings"
+      }
+    ],
+    "team_defense": {
+      "OKC": {
+        "team": "OKC",
+        "games_played": 13,
+        "opp_pts_per_game": 107.5,
+        "opp_reb_per_game": 41.7,
+        "opp_ast_per_game": 23.8,
+        "opp_fg_pct": 0.445,
+        "opp_3p_pct": 0.342
+      }
+    }
+  },
+  "players_analyzed": 18
+}

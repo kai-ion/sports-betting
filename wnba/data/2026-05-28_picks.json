@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-28",
+  "sport": "WNBA",
+  "picks": [
+    {
+      "player": "Caitlin Clark",
+      "prop": "Assists",
+      "line": 9.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 10.5
+    },
+    {
+      "player": "Caitlin Clark",
+      "prop": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 38.5
+    },
+    {
+      "player": "Jessica Shepard",
+      "prop": "Rebounds",
+      "line": 11.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 12.5
+    },
+    {
+      "player": "Jessica Shepard",
+      "prop": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 29.5
+    },
+    {
+      "player": "Chelsea Gray",
+      "prop": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 25.0
+    },
+    {
+      "player": "Chennedy Carter",
+      "prop": "Points",
+      "line": 17.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 21.0
+    },
+    {
+      "player": "Dearica Hamby",
+      "prop": "Points",
+      "line": 22.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 19.5
+    },
+    {
+      "player": "Alyssa Thomas",
+      "prop": "Rebs+Asts",
+      "line": 18.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 16.0
+    },
+    {
+      "player": "NaLyssa Smith",
+      "prop": "Points",
+      "line": 9.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 12.5
+    },
+    {
+      "player": "Azzi Fudd",
+      "prop": "Points",
+      "line": 10.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 13.5
+    }
+  ],
+  "games": [
+    {
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Wings"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Aces"
+      },
+      "odds": {
+        "spread": "LV -5.5",
+        "over_under": 176.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "GS",
+        "name": "Golden State Valkyries"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indiana Fever"
+      },
+      "odds": {
+        "spread": "GS -1.5",
+        "over_under": 166.5
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "players_analyzed": 39
+}

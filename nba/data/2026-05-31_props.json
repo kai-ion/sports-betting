@@ -1,0 +1,2253 @@
+{
+  "date": "2026-05-31",
+  "fetch_time": "2026-05-31T11:24:22.769178",
+  "sources": [
+    "prizepicks",
+    "underdog"
+  ],
+  "total_props": 138,
+  "props": [
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 27.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 43.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 40.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 31.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 35.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 28.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 32.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Keldon Johnson",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Keldon Johnson",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Keldon Johnson",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Deuce McBride",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Julian Champagnie",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Julian Champagnie",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Julian Champagnie",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Landry Shamet",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Luke Kornet",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Luke Kornet",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 27.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 43.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 40.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 31.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 35.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 28.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 32.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "De'Aaron Fox",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Keldon Johnson",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Keldon Johnson",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Keldon Johnson",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Mitchell Robinson",
+      "team": "NYK",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Stephon Castle",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Deuce McBride",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Julian Champagnie",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Julian Champagnie",
+      "team": "SAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Julian Champagnie",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Landry Shamet",
+      "team": "NYK",
+      "position": "",
+      "stat": "Points",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Luke Kornet",
+      "team": "SAS",
+      "position": "",
+      "stat": "Points",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Luke Kornet",
+      "team": "SAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "source": "underdog"
+    }
+  ],
+  "players": {
+    "Victor Wembanyama": [
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 27.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 43.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 12.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 15.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 40.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 31.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 27.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 43.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 12.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 15.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 40.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 31.5,
+        "source": "underdog"
+      }
+    ],
+    "Jalen Brunson": [
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 25.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 35.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 6.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 9.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 28.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 32.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 25.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 35.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 6.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 9.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 28.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Jalen Brunson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 32.5,
+        "source": "underdog"
+      }
+    ],
+    "Karl-Anthony Towns": [
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 17.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 33.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 11.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 29.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 21.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 17.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 33.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 11.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 29.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 21.5,
+        "source": "underdog"
+      }
+    ],
+    "De'Aaron Fox": [
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 15.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 25.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 9.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 21.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 15.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 25.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 9.5,
+        "source": "underdog"
+      },
+      {
+        "player": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 21.5,
+        "source": "underdog"
+      }
+    ],
+    "Devin Vassell": [
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 13.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 19.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 13.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 19.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Devin Vassell",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 2.5,
+        "source": "underdog"
+      }
+    ],
+    "OG Anunoby": [
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 23.5,
+        "source": "underdog"
+      },
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 7.5,
+        "source": "underdog"
+      },
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 23.5,
+        "source": "underdog"
+      },
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "OG Anunoby",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 7.5,
+        "source": "underdog"
+      }
+    ],
+    "Mikal Bridges": [
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 14.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 20.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 14.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 20.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mikal Bridges",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 2.5,
+        "source": "underdog"
+      }
+    ],
+    "Josh Hart": [
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 11.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 24.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 7.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 12.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 19.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 11.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 24.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 7.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Assists",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 12.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Josh Hart",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 19.5,
+        "source": "underdog"
+      }
+    ],
+    "Dylan Harper": [
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 10.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 17.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 10.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 17.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Dylan Harper",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 2.5,
+        "source": "underdog"
+      }
+    ],
+    "Keldon Johnson": [
+      {
+        "player": "Keldon Johnson",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 8.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Keldon Johnson",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 12.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Keldon Johnson",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Keldon Johnson",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 8.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Keldon Johnson",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 12.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Keldon Johnson",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 3.5,
+        "source": "underdog"
+      }
+    ],
+    "Stephon Castle": [
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 29.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 6.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 11.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 22.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 24.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 29.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 4.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Assists",
+        "line": 6.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebs+Asts",
+        "line": 11.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs",
+        "line": 22.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Stephon Castle",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Asts",
+        "line": 24.5,
+        "source": "underdog"
+      }
+    ],
+    "Mitchell Robinson": [
+      {
+        "player": "Mitchell Robinson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mitchell Robinson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 8.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mitchell Robinson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mitchell Robinson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 3.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mitchell Robinson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 8.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Mitchell Robinson",
+        "team": "NYK",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 5.5,
+        "source": "underdog"
+      }
+    ],
+    "Deuce McBride": [
+      {
+        "player": "Deuce McBride",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Deuce McBride",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 5.5,
+        "source": "underdog"
+      }
+    ],
+    "Julian Champagnie": [
+      {
+        "player": "Julian Champagnie",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 9.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Julian Champagnie",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Julian Champagnie",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Julian Champagnie",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 9.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Julian Champagnie",
+        "team": "SAS",
+        "position": "",
+        "stat": "Pts+Rebs+Asts",
+        "line": 16.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Julian Champagnie",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 5.5,
+        "source": "underdog"
+      }
+    ],
+    "Landry Shamet": [
+      {
+        "player": "Landry Shamet",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 5.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Landry Shamet",
+        "team": "NYK",
+        "position": "",
+        "stat": "Points",
+        "line": 5.5,
+        "source": "underdog"
+      }
+    ],
+    "Luke Kornet": [
+      {
+        "player": "Luke Kornet",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Luke Kornet",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Luke Kornet",
+        "team": "SAS",
+        "position": "",
+        "stat": "Points",
+        "line": 2.5,
+        "source": "underdog"
+      },
+      {
+        "player": "Luke Kornet",
+        "team": "SAS",
+        "position": "",
+        "stat": "Rebounds",
+        "line": 2.5,
+        "source": "underdog"
+      }
+    ]
+  }
+}

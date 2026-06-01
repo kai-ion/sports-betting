@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-31",
+  "predictions": [
+    {
+      "home_team": "SA",
+      "away_team": "NY",
+      "home_projected": 118.4,
+      "away_projected": 113.5,
+      "projected_spread": -4.9,
+      "projected_total": 232.0,
+      "home_win_prob": 77.3,
+      "away_win_prob": 22.7,
+      "home_record": "62-20",
+      "away_record": "53-29",
+      "market_odds": {
+        "spread": "SA -5.5",
+        "over_under": 218.5,
+        "home_ml": "-205",
+        "away_ml": "+170",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}

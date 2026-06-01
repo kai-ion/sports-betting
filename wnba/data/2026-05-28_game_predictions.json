@@ -1,0 +1,43 @@
+{
+  "date": "2026-05-28",
+  "predictions": [
+    {
+      "home_team": "DAL",
+      "away_team": "LV",
+      "home_projected": 89.5,
+      "away_projected": 88.3,
+      "projected_spread": -1.2,
+      "projected_total": 177.8,
+      "home_win_prob": 57.4,
+      "away_win_prob": 42.6,
+      "home_record": "4-3",
+      "away_record": "4-2",
+      "market_odds": {
+        "spread": "LV -5.5",
+        "over_under": 176.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "GS",
+      "away_team": "IND",
+      "home_projected": 88.4,
+      "away_projected": 85.0,
+      "projected_spread": -3.4,
+      "projected_total": 173.4,
+      "home_win_prob": 70.1,
+      "away_win_prob": 29.9,
+      "home_record": "4-2",
+      "away_record": "4-2",
+      "market_odds": {
+        "spread": "GS -1.5",
+        "over_under": 166.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}

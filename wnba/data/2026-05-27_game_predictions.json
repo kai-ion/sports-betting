@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-27",
+  "predictions": [
+    {
+      "home_team": "NY",
+      "away_team": "PHX",
+      "home_projected": 90.1,
+      "away_projected": 86.6,
+      "projected_spread": -3.5,
+      "projected_total": 176.8,
+      "home_win_prob": 70.6,
+      "away_win_prob": 29.4,
+      "home_record": "3-4",
+      "away_record": "2-5",
+      "market_odds": {
+        "spread": "NY -4.5",
+        "over_under": 169.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "CHI",
+      "away_team": "TOR",
+      "home_projected": 88.5,
+      "away_projected": 84.5,
+      "projected_spread": -4.0,
+      "projected_total": 173.0,
+      "home_win_prob": 73.1,
+      "away_win_prob": 26.9,
+      "home_record": "3-3",
+      "away_record": "3-4",
+      "market_odds": {
+        "spread": "CHI -5.5",
+        "over_under": 172.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "MIN",
+      "away_team": "ATL",
+      "home_projected": 85.6,
+      "away_projected": 83.5,
+      "projected_spread": -2.1,
+      "projected_total": 169.1,
+      "home_win_prob": 62.8,
+      "away_win_prob": 37.2,
+      "home_record": "4-2",
+      "away_record": "4-1",
+      "market_odds": {
+        "spread": "ATL -2.5",
+        "over_under": 165.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "POR",
+      "away_team": "CON",
+      "home_projected": 91.5,
+      "away_projected": 81.4,
+      "projected_spread": -10.1,
+      "projected_total": 172.8,
+      "home_win_prob": 92.6,
+      "away_win_prob": 7.4,
+      "home_record": "4-3",
+      "away_record": "1-7",
+      "market_odds": {
+        "spread": "POR -6.5",
+        "over_under": 166.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "SEA",
+      "away_team": "WSH",
+      "home_projected": 88.3,
+      "away_projected": 82.7,
+      "projected_spread": -5.6,
+      "projected_total": 171.0,
+      "home_win_prob": 80.2,
+      "away_win_prob": 19.8,
+      "home_record": "3-4",
+      "away_record": "2-3",
+      "market_odds": {
+        "spread": "WSH -3.5",
+        "over_under": 160.5,
+        "home_ml": "",
+        "away_ml": "",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
