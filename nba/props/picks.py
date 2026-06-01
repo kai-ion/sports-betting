@@ -58,13 +58,25 @@ def _hit_rate_over(games, stat_name, line):
     return hits / len(games)
 
 
+ABBR_VARIANTS = {
+    "SA": ["SA", "SAS"], "GS": ["GS", "GSW"], "NY": ["NY", "NYK"],
+    "NO": ["NO", "NOP"], "UTAH": ["UTAH", "UTA"], "PHX": ["PHX", "PHO"],
+    "WSH": ["WSH", "WAS"], "SAS": ["SAS", "SA"], "GSW": ["GSW", "GS"],
+    "NYK": ["NYK", "NY"], "NOP": ["NOP", "NO"], "UTA": ["UTA", "UTAH"],
+    "WAS": ["WAS", "WSH"],
+}
+
+
 def compute_hit_rates(profile, stat_name, line, opponent=""):
     """Compute L5, L10, and H2H hit rates."""
     all_games = profile.get("recent_games", [])
 
     l10 = all_games[:10]
     l5 = all_games[:5]
-    h2h = [g for g in all_games if opponent and opponent in g.get("MATCHUP", "")] if opponent else []
+
+    # Match opponent across abbreviation variants
+    opp_variants = ABBR_VARIANTS.get(opponent, [opponent]) if opponent else []
+    h2h = [g for g in all_games if any(v in g.get("MATCHUP", "") for v in opp_variants)] if opp_variants else []
 
     l10_hr = _hit_rate_over(l10, stat_name, line)
     l5_hr = _hit_rate_over(l5, stat_name, line)

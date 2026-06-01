@@ -90,7 +90,7 @@ def get_player_game_log(espn_id, season=None):
     return games
 
 
-def compute_player_edge(name, lines):
+def compute_player_edge(name, lines, opponent=""):
     """Compute projections and edge scores for a player's props."""
     espn_id = find_espn_player_id(name)
     if not espn_id:
@@ -193,12 +193,14 @@ def compute_player_edge(name, lines):
 
         l10_hr = _hr(l10, stat_name, line)
         l5_hr = _hr(l5, stat_name, line)
-        # H2H not available from ESPN game log (no opponent filter in WNBA data)
-        h2h_hr = None
+        # H2H: filter games against this opponent
+        h2h_games = [g for g in games if opponent and opponent in g.get("opponent", "")] if opponent else []
+        h2h_hr = _hr(h2h_games, stat_name, line) if h2h_games else None
 
         if direction == "UNDER":
             l10_hr = (1 - l10_hr) if l10_hr is not None else None
             l5_hr = (1 - l5_hr) if l5_hr is not None else None
+            h2h_hr = (1 - h2h_hr) if h2h_hr is not None else None
 
         effective_hr = l10_hr if l10_hr is not None else 0.5
 
@@ -336,6 +338,15 @@ def main():
                 if p["player"] not in player_team_map:
                     player_team_map[p["player"]] = p["team"]
 
+    # Build team→opponent lookup from games
+    team_opponent = {}
+    for g in games:
+        away = g.get("away", {}).get("abbr", "")
+        home = g.get("home", {}).get("abbr", "")
+        if away and home:
+            team_opponent[away] = home
+            team_opponent[home] = away
+
     # Compute edges for each player
     player_names = list(players_lines.keys())
     print(f"Computing edges for {len(player_names)} players from ESPN game logs...")
@@ -343,9 +354,10 @@ def main():
     all_edges = []
     for name in player_names[:30]:
         time.sleep(0.3)
-        player_edges = compute_player_edge(name, players_lines[name])
+        team = player_team_map.get(name, "")
+        opponent = team_opponent.get(team, "")
+        player_edges = compute_player_edge(name, players_lines[name], opponent=opponent)
         if player_edges:
-            team = player_team_map.get(name, "")
             for e in player_edges:
                 e["team"] = team
             all_edges.extend(player_edges)
