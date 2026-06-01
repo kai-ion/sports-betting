@@ -214,8 +214,8 @@ def compute_player_edge(name, lines):
         trend_score = 10 if trend_aligned else 0
         score = round(edge_score + hr_score + cons_score + trend_score, 1)
 
-        # Skip weak edges
-        if score < 20:
+        # Skip weak edges — require minimum 10% edge
+        if score < 20 or edge_pct < 10:
             continue
 
         edges.append({
@@ -367,8 +367,22 @@ def main():
     for i, e in enumerate(all_edges[:15], 1):
         print(f"{i:<3} {e['player']:<22} {e['prop']:<10} {e['line']:<6} {e['pick']:<6} {e['projected']:<6} {e['edge_pct']:<6} {e['hit_rate']:<5} {e['score']}")
 
-    # Claude validates (send top 30 viable edges to stay within token limits)
-    viable_edges = [e for e in all_edges if e["score"] >= 30][:30]
+    # Balance check — if >70% lean one direction, raise threshold for the dominant side
+    viable_edges = [e for e in all_edges if e["score"] >= 30]
+    if viable_edges:
+        under_count = sum(1 for e in viable_edges if e["pick"] == "UNDER")
+        over_count = len(viable_edges) - under_count
+        total = len(viable_edges)
+        if under_count / total > 0.7:
+            min_edge_under = 20
+            viable_edges = [e for e in viable_edges if e["pick"] == "OVER" or e["edge_pct"] >= min_edge_under]
+            print(f"  Balance: {under_count}/{total} were UNDER — raised UNDER threshold to {min_edge_under}% edge")
+        elif over_count / total > 0.7:
+            min_edge_over = 20
+            viable_edges = [e for e in viable_edges if e["pick"] == "UNDER" or e["edge_pct"] >= min_edge_over]
+            print(f"  Balance: {over_count}/{total} were OVER — raised OVER threshold to {min_edge_over}% edge")
+
+    viable_edges = viable_edges[:30]
     print(f"\nClaude validating {len(viable_edges)} edges...")
     picks = get_claude_picks(viable_edges, games)
 

@@ -335,8 +335,24 @@ def main():
     for i, e in enumerate(ranked_edges[:15], 1):
         print(f"{i:<3} {e['player']:<22} {e['prop']:<12} {e['line']:<6} {e['pick']:<6} {e['projected']:<6} {e['edge_pct']:<6} {e['hit_rate']:<5} {e['score']}")
 
-    # 5. Claude validates (send top 30 viable edges to stay within token limits)
-    viable_edges = [e for e in ranked_edges if e["score"] >= 30][:30]
+    # 5. Filter — minimum 10% edge required
+    viable_edges = [e for e in ranked_edges if e["score"] >= 30 and e["edge_pct"] >= 10]
+
+    # Balance check — if >70% lean one direction, raise threshold for dominant side
+    if viable_edges:
+        under_count = sum(1 for e in viable_edges if e["pick"] == "UNDER")
+        over_count = len(viable_edges) - under_count
+        total = len(viable_edges)
+        if under_count / total > 0.7:
+            min_edge_under = 20
+            viable_edges = [e for e in viable_edges if e["pick"] == "OVER" or e["edge_pct"] >= min_edge_under]
+            print(f"  Balance: {under_count}/{total} were UNDER — raised UNDER threshold to {min_edge_under}% edge")
+        elif over_count / total > 0.7:
+            min_edge_over = 20
+            viable_edges = [e for e in viable_edges if e["pick"] == "UNDER" or e["edge_pct"] >= min_edge_over]
+            print(f"  Balance: {over_count}/{total} were OVER — raised OVER threshold to {min_edge_over}% edge")
+
+    viable_edges = viable_edges[:30]
     print(f"\nClaude validating {len(viable_edges)} edges...")
     picks = get_claude_picks(viable_edges, game_context)
 
