@@ -27,20 +27,25 @@ errors = PipelineErrors()
 
 
 def find_espn_player_id(name):
-    """Search ESPN for a WNBA player ID."""
-    try:
-        resp = requests.get(
-            f"https://site.api.espn.com/apis/common/v3/search?query={name}&type=player&sport=basketball&league=wnba&limit=1",
-            headers=HEADERS, timeout=10
-        )
-        if resp.status_code == 200:
-            items = resp.json().get("items", [])
-            if items:
-                return items[0].get("id", "")
-        elif resp.status_code >= 400:
-            errors.add(ErrorType.ESPN_TIMEOUT, f"{name}: HTTP {resp.status_code}")
-    except Exception as e:
-        errors.add(ErrorType.ESPN_TIMEOUT, f"{name}: {e}")
+    """Search ESPN for a WNBA player ID. Tries nickname resolution on failure."""
+    sys.path.insert(0, str(Path(__file__).parent.parent.parent / "common"))
+    from nicknames import resolve_name
+    search_name = resolve_name(name)
+
+    for attempt_name in [search_name, name] if search_name != name else [name]:
+        try:
+            resp = requests.get(
+                f"https://site.api.espn.com/apis/common/v3/search?query={attempt_name}&type=player&sport=basketball&league=wnba&limit=1",
+                headers=HEADERS, timeout=10
+            )
+            if resp.status_code == 200:
+                items = resp.json().get("items", [])
+                if items:
+                    return items[0].get("id", "")
+        except Exception as e:
+            errors.add(ErrorType.ESPN_TIMEOUT, f"{name}: {e}")
+            return None
+
     errors.add(ErrorType.PLAYER_NOT_FOUND, name)
     return None
 
@@ -386,11 +391,11 @@ def main():
         over_count = len(viable_edges) - under_count
         total = len(viable_edges)
         if under_count / total > 0.7:
-            min_edge_under = 20
+            min_edge_under = 15
             viable_edges = [e for e in viable_edges if e["pick"] == "OVER" or e["edge_pct"] >= min_edge_under]
             print(f"  Balance: {under_count}/{total} were UNDER — raised UNDER threshold to {min_edge_under}% edge")
         elif over_count / total > 0.7:
-            min_edge_over = 20
+            min_edge_over = 15
             viable_edges = [e for e in viable_edges if e["pick"] == "UNDER" or e["edge_pct"] >= min_edge_over]
             print(f"  Balance: {over_count}/{total} were OVER — raised OVER threshold to {min_edge_over}% edge")
 

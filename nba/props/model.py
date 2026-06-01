@@ -27,10 +27,15 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleW
 
 
 def _find_espn_player_id(name):
-    """Search ESPN for an NBA player ID."""
+    """Search ESPN for an NBA player ID. Tries nickname resolution on failure."""
+    import sys
+    sys.path.insert(0, str(Path(__file__).parent.parent.parent / "common"))
+    from nicknames import resolve_name
+
+    search_name = resolve_name(name)
     try:
         resp = requests.get(
-            f"https://site.api.espn.com/apis/common/v3/search?query={name}&type=player&sport=basketball&league=nba&limit=1",
+            f"https://site.api.espn.com/apis/common/v3/search?query={search_name}&type=player&sport=basketball&league=nba&limit=1",
             headers=HEADERS, timeout=10
         )
         if resp.status_code == 200:
@@ -39,6 +44,19 @@ def _find_espn_player_id(name):
                 return items[0].get("id", "")
     except Exception:
         pass
+    # If resolved name didn't work and it was different, try original
+    if search_name != name:
+        try:
+            resp = requests.get(
+                f"https://site.api.espn.com/apis/common/v3/search?query={name}&type=player&sport=basketball&league=nba&limit=1",
+                headers=HEADERS, timeout=10
+            )
+            if resp.status_code == 200:
+                items = resp.json().get("items", [])
+                if items:
+                    return items[0].get("id", "")
+        except Exception:
+            pass
     return None
 
 

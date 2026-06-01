@@ -356,11 +356,11 @@ def main():
         over_count = len(viable_edges) - under_count
         total = len(viable_edges)
         if under_count / total > 0.7:
-            min_edge_under = 20
+            min_edge_under = 15
             viable_edges = [e for e in viable_edges if e["pick"] == "OVER" or e["edge_pct"] >= min_edge_under]
             print(f"  Balance: {under_count}/{total} were UNDER — raised UNDER threshold to {min_edge_under}% edge")
         elif over_count / total > 0.7:
-            min_edge_over = 20
+            min_edge_over = 15
             viable_edges = [e for e in viable_edges if e["pick"] == "UNDER" or e["edge_pct"] >= min_edge_over]
             print(f"  Balance: {over_count}/{total} were OVER — raised OVER threshold to {min_edge_over}% edge")
 
