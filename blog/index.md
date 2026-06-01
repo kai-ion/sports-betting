@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Sports Picks
-
 AI-powered NBA + WNBA prop predictions using quantitative edge scoring with Claude validation.
 
 ## How It Works
