@@ -14,25 +14,28 @@ AI-powered NBA + WNBA prop predictions using quantitative edge scoring with Clau
 
 ## Today's Picks
 
+{% assign nba_sorted = site.nba | sort: "date" | reverse %}
+{% assign wnba_sorted = site.wnba | sort: "date" | reverse %}
+
 ### NBA
-{% for post in site.nba reversed limit:1 %}
+{% for post in nba_sorted limit:1 %}
 [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
 ### WNBA
-{% for post in site.wnba reversed limit:1 %}
+{% for post in wnba_sorted limit:1 %}
 [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
 ## Recent Reports
 
 ### NBA
-{% for post in site.nba reversed limit:7 %}
+{% for post in nba_sorted limit:7 %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
 ### WNBA
-{% for post in site.wnba reversed limit:7 %}
+{% for post in wnba_sorted limit:7 %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
