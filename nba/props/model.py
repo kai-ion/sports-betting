@@ -73,6 +73,13 @@ def _get_espn_game_log(espn_id):
             data = resp.json()
             labels = data.get("labels", [])
 
+            # Build event ID → opponent mapping from top-level events dict
+            events_lookup = data.get("events", {})
+            event_opponent = {}
+            for eid, einfo in events_lookup.items():
+                opp = einfo.get("opponent", {}).get("abbreviation", "")
+                event_opponent[eid] = opp
+
             idx = {}
             for stat in ["PTS", "REB", "AST", "MIN", "FGA", "FG%", "3PM"]:
                 if stat in labels:
@@ -85,9 +92,10 @@ def _get_espn_game_log(espn_id):
                         if len(stats) <= max(idx.values(), default=0):
                             continue
                         try:
+                            eid = event.get("eventId", "")
                             g = {
-                                "GAME_DATE": event.get("gameDate", ""),
-                                "MATCHUP": event.get("opponent", {}).get("abbreviation", ""),
+                                "GAME_DATE": events_lookup.get(eid, {}).get("gameDate", ""),
+                                "MATCHUP": event_opponent.get(eid, ""),
                                 "PTS": int(stats[idx["PTS"]]) if stats[idx.get("PTS", 0)].isdigit() else 0,
                                 "REB": int(stats[idx["REB"]]) if stats[idx.get("REB", 0)].isdigit() else 0,
                                 "AST": int(stats[idx["AST"]]) if stats[idx.get("AST", 0)].isdigit() else 0,
@@ -257,7 +265,7 @@ def build_player_profile(player_name, opponent="", is_home=False, season="2025-2
         "fga_trend": "UP" if l5_fga > season_fga * 1.1 else "DOWN" if l5_fga < season_fga * 0.9 else "STABLE",
     }
 
-    profile["recent_games"] = all_games[:10]
+    profile["recent_games"] = all_games
 
     return profile
 
