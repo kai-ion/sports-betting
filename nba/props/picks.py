@@ -294,13 +294,19 @@ def main():
         team = next((p["team"] for p in pp_props if p["player"] == player_name), "")
         opponent = ""
         is_home = False
+        # Match team against game odds using abbreviation variants
+        team_variants = ABBR_VARIANTS.get(team, [team])
         for g in game_odds:
-            if team == g.get("home_team", ""):
-                opponent = g.get("away_team", "")
+            home = g.get("home_team", "")
+            away = g.get("away_team", "")
+            if any(t == home or t in ABBR_VARIANTS.get(home, [home]) for t in team_variants):
+                opponent = away
                 is_home = True
-            elif team == g.get("away_team", ""):
-                opponent = g.get("home_team", "")
+                break
+            elif any(t == away or t in ABBR_VARIANTS.get(away, [away]) for t in team_variants):
+                opponent = home
                 is_home = False
+                break
 
         print(f"  {player_name} ({team} vs {opponent})...", end=" ")
         profile = build_player_profile(player_name, opponent=opponent, is_home=is_home)

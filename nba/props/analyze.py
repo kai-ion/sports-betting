@@ -16,11 +16,15 @@ import time
 from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
-from nba_api.stats.endpoints import (
-    playergamelog,
-    leaguedashteamstats,
-)
-from nba_api.stats.static import players as nba_players, teams as nba_teams
+try:
+    from nba_api.stats.endpoints import (
+        playergamelog,
+        leaguedashteamstats,
+    )
+    from nba_api.stats.static import players as nba_players, teams as nba_teams
+    HAS_NBA_API = True
+except ImportError:
+    HAS_NBA_API = False
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
@@ -85,7 +89,9 @@ def get_game_odds():
 
 
 def get_team_defense(team_abbr, season="2025-26", season_type="Playoffs"):
-    """Get what a team allows per game (opponent stats)."""
+    """Get what a team allows per game (opponent stats). Requires nba_api."""
+    if not HAS_NBA_API:
+        return None
     try:
         time.sleep(0.6)
         stats = leaguedashteamstats.LeagueDashTeamStats(
