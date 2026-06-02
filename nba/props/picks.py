@@ -425,7 +425,12 @@ def main():
             except (ValueError, TypeError, AttributeError):
                 pass
 
-            md += f"### {p['away_team']} @ {p['home_team']}\n\n"
+            md += f"### {p['away_team']} ({p.get('away_record','')}) @ {p['home_team']} ({p.get('home_record','')})\n\n"
+            md += f"| | {p['away_team']} | {p['home_team']} |\n|---|---|---|\n"
+            md += f"| Conf | {p.get('away_conf', '')} | {p.get('home_conf', '')} |\n"
+            md += f"| L10 | {p.get('away_l10', '')} | {p.get('home_l10', '')} |\n"
+            md += f"| Streak | {p.get('away_streak', '')} | {p.get('home_streak', '')} |\n"
+            md += f"| Home/Away | {p.get('away_away_record', '')} (away) | {p.get('home_home_record', '')} (home) |\n\n"
             md += f"| | Model | Market |\n|---|---|---|\n"
             md += f"| Winner | {p['home_team']} {p['home_win_prob']}% / {p['away_team']} {p['away_win_prob']}% | {p['home_team']} favored |\n"
             md += f"| Spread | {p['home_team']} {p['projected_spread']:+.1f} | {spread_market} |\n"

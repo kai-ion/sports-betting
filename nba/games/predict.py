@@ -88,19 +88,26 @@ def get_team_stats():
                 stats_list = team_entry.get("stats", [])
 
                 stats = {}
+                display_stats = {}
                 for s in stats_list:
                     name = s.get("name", "")
                     val = s.get("value", 0)
                     stats[name] = val
+                    display_stats[s.get("displayName", name)] = s.get("displayValue", str(val))
 
                 teams[abbr] = {
                     "name": team.get("displayName", ""),
+                    "conf": group.get("name", "").replace(" Conference", ""),
                     "wins": int(stats.get("wins", 0)),
                     "losses": int(stats.get("losses", 0)),
                     "win_pct": float(stats.get("winPercent", stats.get("leagueWinPercent", 0))),
                     "ppg": float(stats.get("avgPointsFor", 110)),
                     "opp_ppg": float(stats.get("avgPointsAgainst", 110)),
                     "point_diff": float(stats.get("differential", 0)),
+                    "l10": display_stats.get("Last Ten Games", ""),
+                    "streak": display_stats.get("streak", ""),
+                    "home_record": display_stats.get("Home", ""),
+                    "away_record": display_stats.get("Away", display_stats.get("Road", "")),
                 }
         return teams
     except Exception:
@@ -149,6 +156,14 @@ def predict_game(home_abbr, away_abbr, team_stats, odds):
         "away_win_prob": round((1 - home_win_prob) * 100, 1),
         "home_record": f"{home.get('wins', 0)}-{home.get('losses', 0)}",
         "away_record": f"{away.get('wins', 0)}-{away.get('losses', 0)}",
+        "home_conf": home.get("conf", ""),
+        "away_conf": away.get("conf", ""),
+        "home_l10": home.get("l10", ""),
+        "away_l10": away.get("l10", ""),
+        "home_streak": home.get("streak", ""),
+        "away_streak": away.get("streak", ""),
+        "home_home_record": home.get("home_record", ""),
+        "away_away_record": away.get("away_record", ""),
     }
 
 

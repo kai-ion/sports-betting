@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-02",
+  "predictions": [
+    {
+      "home_team": "ATL",
+      "away_team": "CON",
+      "home_projected": 89.3,
+      "away_projected": 76.4,
+      "projected_spread": -12.9,
+      "projected_total": 165.6,
+      "home_win_prob": 96.2,
+      "away_win_prob": 3.8,
+      "home_record": "5-2",
+      "away_record": "2-8",
+      "market_odds": {
+        "spread": "ATL -13.5",
+        "over_under": 160.5,
+        "home_ml": "-1200",
+        "away_ml": "+750",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "WSH",
+      "away_team": "CHI",
+      "home_projected": 87.0,
+      "away_projected": 84.8,
+      "projected_spread": -2.2,
+      "projected_total": 171.8,
+      "home_win_prob": 63.4,
+      "away_win_prob": 36.6,
+      "home_record": "3-4",
+      "away_record": "3-5",
+      "market_odds": {
+        "spread": "CHI -1.5",
+        "over_under": 160.5,
+        "home_ml": "+110",
+        "away_ml": "-130",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "GS",
+      "away_team": "POR",
+      "home_projected": 87.5,
+      "away_projected": 81.5,
+      "projected_spread": -5.9,
+      "projected_total": 169.0,
+      "home_win_prob": 81.4,
+      "away_win_prob": 18.6,
+      "home_record": "5-3",
+      "away_record": "6-4",
+      "market_odds": {
+        "spread": "GS -8.5",
+        "over_under": 160.5,
+        "home_ml": "-360",
+        "away_ml": "+285",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "LA",
+      "away_team": "LV",
+      "home_projected": 90.6,
+      "away_projected": 92.5,
+      "projected_spread": 1.9,
+      "projected_total": 183.1,
+      "home_win_prob": 38.3,
+      "away_win_prob": 61.7,
+      "home_record": "4-4",
+      "away_record": "5-3",
+      "market_odds": {
+        "spread": "LV -7.5",
+        "over_under": 174.5,
+        "home_ml": "+250",
+        "away_ml": "-310",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}

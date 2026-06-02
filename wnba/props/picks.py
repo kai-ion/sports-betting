@@ -441,9 +441,15 @@ def main():
         for p in game_preds:
             market = p.get("market_odds", {})
             md += f"### {p['away_team']} ({p.get('away_record','')}) @ {p['home_team']} ({p.get('home_record','')})\n\n"
-            md += f"| | Model | Market |\n|---|---|---|\n"
+            md += f"| | {p['away_team']} | {p['home_team']} |\n|---|---|---|\n"
+            md += f"| Conf | {p.get('away_conf', '')} | {p.get('home_conf', '')} |\n"
+            md += f"| L10 | {p.get('away_l10', '')} | {p.get('home_l10', '')} |\n"
+            md += f"| L5 | {p.get('away_l5', '')} | {p.get('home_l5', '')} |\n"
+            md += f"| Streak | {p.get('away_streak', '')} | {p.get('home_streak', '')} |\n"
+            md += f"| Home/Away | {p.get('away_away_record', '')} (away) | {p.get('home_home_record', '')} (home) |\n\n"
             away_ml = market.get('away_ml') or '—'
             home_ml = market.get('home_ml') or '—'
+            md += f"| | Model | Market |\n|---|---|---|\n"
             md += f"| Winner | {p['home_team']} {p['home_win_prob']}% / {p['away_team']} {p['away_win_prob']}% | ML: {away_ml} / {home_ml} |\n"
             md += f"| Spread | {p['home_team']} {p['projected_spread']:+.1f} | {market.get('spread', 'N/A')} |\n"
             md += f"| Total | {p['projected_total']} | {market.get('over_under', 'N/A')} |\n"
