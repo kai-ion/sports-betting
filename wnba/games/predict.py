@@ -104,7 +104,7 @@ def get_team_stats():
                     "win_pct": float(stats.get("winPercent", stats.get("leagueWinPercent", 0))),
                     "l10": display_stats.get("Last Ten Games", display_stats.get("Last 10", "")),
                     "l5": display_stats.get("Last Five Games", display_stats.get("Last 5", "")),
-                    "streak": display_stats.get("streak", ""),
+                    "streak": display_stats.get("Streak", display_stats.get("streak", "")),
                     "home_record": display_stats.get("Home", ""),
                     "away_record": display_stats.get("Away", display_stats.get("Road", "")),
                     "ppg": float(stats.get("avgPointsFor", 80)),

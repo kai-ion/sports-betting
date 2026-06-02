@@ -105,7 +105,7 @@ def get_team_stats():
                     "opp_ppg": float(stats.get("avgPointsAgainst", 110)),
                     "point_diff": float(stats.get("differential", 0)),
                     "l10": display_stats.get("Last Ten Games", ""),
-                    "streak": display_stats.get("streak", ""),
+                    "streak": display_stats.get("Streak", display_stats.get("streak", "")),
                     "home_record": display_stats.get("Home", ""),
                     "away_record": display_stats.get("Away", display_stats.get("Road", "")),
                 }
