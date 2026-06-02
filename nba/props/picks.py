@@ -434,6 +434,9 @@ def main():
             md += f"### {p['away_team']} ({p.get('away_record','')}) @ {p['home_team']} ({p.get('home_record','')})\n\n"
             md += f"| | {p['away_team']} | {p['home_team']} |\n|---|---|---|\n"
             md += f"| Conf | {p.get('away_conf', '')} | {p.get('home_conf', '')} |\n"
+            md += f"| Regular Season | {p.get('away_reg_record', '')} | {p.get('home_reg_record', '')} |\n"
+            if p.get('away_playoff_record') or p.get('home_playoff_record'):
+                md += f"| Playoffs | {p.get('away_playoff_record', '')} | {p.get('home_playoff_record', '')} |\n"
             md += f"| L10 | {p.get('away_l10', '')} | {p.get('home_l10', '')} |\n"
             md += f"| Streak | {p.get('away_streak', '')} | {p.get('home_streak', '')} |\n"
             md += f"| Home/Away | {p.get('away_away_record', '')} (away) | {p.get('home_home_record', '')} (home) |\n\n"

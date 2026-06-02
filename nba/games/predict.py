@@ -69,49 +69,94 @@ def get_upcoming_games():
         return []
 
 
+def _parse_standings(resp_data):
+    """Parse standings response into team dict."""
+    teams = {}
+    for group in resp_data.get("children", []):
+        for team_entry in group.get("standings", {}).get("entries", []):
+            team = team_entry.get("team", {})
+            abbr = team.get("abbreviation", "")
+            stats_list = team_entry.get("stats", [])
+
+            stats = {}
+            display_stats = {}
+            for s in stats_list:
+                name = s.get("name", "")
+                val = s.get("value", 0)
+                stats[name] = val
+                display_stats[s.get("displayName", name)] = s.get("displayValue", str(val))
+
+            teams[abbr] = {
+                "name": team.get("displayName", ""),
+                "conf": group.get("name", "").replace(" Conference", ""),
+                "wins": int(stats.get("wins", 0)),
+                "losses": int(stats.get("losses", 0)),
+                "win_pct": float(stats.get("winPercent", stats.get("leagueWinPercent", 0))),
+                "ppg": float(stats.get("avgPointsFor", 110)),
+                "opp_ppg": float(stats.get("avgPointsAgainst", 110)),
+                "point_diff": float(stats.get("differential", 0)),
+                "l10": display_stats.get("Last Ten Games", ""),
+                "streak": display_stats.get("Streak", display_stats.get("streak", "")),
+                "home_record": display_stats.get("Home", ""),
+                "away_record": display_stats.get("Away", display_stats.get("Road", "")),
+                "record": display_stats.get("Overall", f"{int(stats.get('wins',0))}-{int(stats.get('losses',0))}"),
+            }
+    return teams
+
+
 def get_team_stats():
-    """Get NBA team stats from ESPN standings."""
+    """Get NBA team stats — playoff stats preferred, regular season as context."""
+    teams = {}
+
+    # Get regular season stats
     try:
         resp = requests.get(
             "https://site.api.espn.com/apis/v2/sports/basketball/nba/standings",
             headers=HEADERS, timeout=10
         )
-        if resp.status_code != 200:
-            return {}
-
-        data = resp.json()
-        teams = {}
-        for group in data.get("children", []):
-            for team_entry in group.get("standings", {}).get("entries", []):
-                team = team_entry.get("team", {})
-                abbr = team.get("abbreviation", "")
-                stats_list = team_entry.get("stats", [])
-
-                stats = {}
-                display_stats = {}
-                for s in stats_list:
-                    name = s.get("name", "")
-                    val = s.get("value", 0)
-                    stats[name] = val
-                    display_stats[s.get("displayName", name)] = s.get("displayValue", str(val))
-
-                teams[abbr] = {
-                    "name": team.get("displayName", ""),
-                    "conf": group.get("name", "").replace(" Conference", ""),
-                    "wins": int(stats.get("wins", 0)),
-                    "losses": int(stats.get("losses", 0)),
-                    "win_pct": float(stats.get("winPercent", stats.get("leagueWinPercent", 0))),
-                    "ppg": float(stats.get("avgPointsFor", 110)),
-                    "opp_ppg": float(stats.get("avgPointsAgainst", 110)),
-                    "point_diff": float(stats.get("differential", 0)),
-                    "l10": display_stats.get("Last Ten Games", ""),
-                    "streak": display_stats.get("Streak", display_stats.get("streak", "")),
-                    "home_record": display_stats.get("Home", ""),
-                    "away_record": display_stats.get("Away", display_stats.get("Road", "")),
-                }
-        return teams
+        if resp.status_code == 200:
+            reg = _parse_standings(resp.json())
+            for abbr, data in reg.items():
+                teams[abbr] = data
+                teams[abbr]["reg_record"] = data["record"]
+                teams[abbr]["reg_ppg"] = data["ppg"]
+                teams[abbr]["reg_opp_ppg"] = data["opp_ppg"]
     except Exception:
+        pass
+
+    # Get playoff stats (overrides for active playoff teams)
+    try:
+        resp = requests.get(
+            "https://site.api.espn.com/apis/v2/sports/basketball/nba/standings?seasontype=3",
+            headers=HEADERS, timeout=10
+        )
+        if resp.status_code == 200:
+            playoff = _parse_standings(resp.json())
+            for abbr, data in playoff.items():
+                if abbr in teams:
+                    teams[abbr]["playoff_record"] = data["record"]
+                    teams[abbr]["playoff_ppg"] = data["ppg"]
+                    teams[abbr]["playoff_opp_ppg"] = data["opp_ppg"]
+                    teams[abbr]["playoff_streak"] = data["streak"]
+                    teams[abbr]["playoff_l10"] = data["l10"]
+                    teams[abbr]["playoff_home"] = data["home_record"]
+                    teams[abbr]["playoff_away"] = data["away_record"]
+                    # Use playoff stats for predictions (more recent/relevant)
+                    teams[abbr]["ppg"] = data["ppg"]
+                    teams[abbr]["opp_ppg"] = data["opp_ppg"]
+                    teams[abbr]["win_pct"] = data["win_pct"]
+                    teams[abbr]["streak"] = data["streak"]
+                    teams[abbr]["l10"] = data["l10"]
+                else:
+                    teams[abbr] = data
+                    teams[abbr]["playoff_record"] = data["record"]
+    except Exception:
+        pass
+
+    if not teams:
         return {}
+
+    return teams
 
 
 def predict_game(home_abbr, away_abbr, team_stats, odds):
@@ -164,6 +209,10 @@ def predict_game(home_abbr, away_abbr, team_stats, odds):
         "away_streak": away.get("streak", ""),
         "home_home_record": home.get("home_record", ""),
         "away_away_record": away.get("away_record", ""),
+        "home_reg_record": home.get("reg_record", ""),
+        "away_reg_record": away.get("reg_record", ""),
+        "home_playoff_record": home.get("playoff_record", ""),
+        "away_playoff_record": away.get("playoff_record", ""),
     }
 
 
