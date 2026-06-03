@@ -254,6 +254,28 @@ def main():
         if away and home:
             team_opponent[away] = home
             team_opponent[home] = away
+            for alias in ABBR_VARIANTS.get(away, []):
+                team_opponent[alias] = home
+            for alias in ABBR_VARIANTS.get(home, []):
+                team_opponent[alias] = away
+    # Also get opponents from Underdog game titles
+    try:
+        ud_resp = requests.get("https://api.underdogfantasy.com/beta/v5/over_under_lines",
+                               headers=HEADERS, timeout=10)
+        if ud_resp.status_code == 200:
+            ud_data = ud_resp.json()
+            ud_players = {p["id"]: p for p in ud_data.get("players", [])}
+            for g in ud_data.get("games", ud_data.get("matches", [])):
+                title = g.get("abbreviated_title", "")
+                if " @ " in title:
+                    parts = title.split(" @ ")
+                    a, h = parts[0].strip(), parts[1].strip()
+                    if a not in team_opponent:
+                        team_opponent[a] = h
+                    if h not in team_opponent:
+                        team_opponent[h] = a
+    except Exception:
+        pass
 
     # Compute edges for each player
     player_names = list(players_lines.keys())
