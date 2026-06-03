@@ -117,7 +117,7 @@ def get_claude_picks(top_edges, game_context, sport="NBA", lessons="", errors=No
 
     prompt = f"""You are a {sport} betting analyst. The model below has pre-computed quantitative edges for today's props.
 
-Your job: review ALL edges below and REMOVE ONLY those with a clear disqualifying reason (confirmed injury, guaranteed blowout, known minutes restriction). Keep everything else. Reorder by your confidence.
+Your job: return ALL edges below with a confidence score. You must return every single pick — do NOT remove any unless you have confirmed information about an injury or a player being ruled out. Reorder by confidence.
 {lessons}
 GAME CONTEXT:
 {json.dumps(game_context, indent=2)}
@@ -131,17 +131,17 @@ Each edge has:
 - hit_rate: % of recent games where player cleared this line
 - projected: model's weighted projection
 
-Return ALL picks that pass your filter as a JSON array. Only remove picks with a CLEAR reason — do not trim just to make the list shorter. Add your confidence (1-10):
+IMPORTANT: Return ALL picks in the JSON array. You MUST include every single edge listed above. Do not filter, do not remove, do not trim. Just reorder by confidence and add your confidence score (1-10):
 [
   {{"player": "Name", "prop": "Points", "line": 23.5, "pick": "OVER", "confidence": 9, "projected": 27.2, "score": 72.1}},
   ...
 ]
 
 Rules:
-- Trust the model's math — keep most picks. Only cut if there's a real disqualifier.
-- Blowout risk (spread > 10) reduces star minutes — lower confidence but don't remove unless spread > 14
-- Combo props (PRA, P+R) amplify edges — keep them
-- Return ONLY the JSON array."""
+- You MUST return every pick. Do not remove any.
+- Lower confidence for blowout risk (spread > 10) but still include them.
+- Combo props amplify edges — give them higher confidence.
+- Return ONLY the JSON array with ALL picks included."""
 
     body = json.dumps({
         "anthropic_version": "bedrock-2023-05-31",
@@ -158,9 +158,23 @@ Rules:
             errors.add(ErrorType.BEDROCK_FAILED, str(e)[:100])
         return top_edges
 
-    json_match = re.search(r'\[.*\]', text, re.DOTALL)
+    json_match = re.search(r'\[.*?\]', text, re.DOTALL)
     if json_match:
-        return json.loads(json_match.group())
+        try:
+            return json.loads(json_match.group())
+        except json.JSONDecodeError:
+            # Try finding the last complete object in the array
+            try:
+                partial = json_match.group()
+                last_brace = partial.rfind("}")
+                if last_brace > 0:
+                    fixed = partial[:last_brace + 1] + "]"
+                    return json.loads(fixed)
+            except json.JSONDecodeError:
+                pass
+            if errors:
+                errors.add(ErrorType.BEDROCK_EMPTY, "Claude returned malformed JSON")
+            return top_edges
     if errors:
         errors.add(ErrorType.BEDROCK_EMPTY, "Claude response had no JSON array")
     return top_edges
