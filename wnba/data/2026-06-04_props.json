@@ -1,0 +1,7951 @@
+{
+  "date": "2026-06-04",
+  "sport": "WNBA",
+  "games": [
+    {
+      "home": {
+        "abbr": "NY",
+        "name": "New York Liberty"
+      },
+      "away": {
+        "abbr": "TOR",
+        "name": "Toronto Tempo"
+      },
+      "odds": {},
+      "status": "Final"
+    },
+    {
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Storm"
+      },
+      "away": {
+        "abbr": "PHX",
+        "name": "Phoenix Mercury"
+      },
+      "odds": {},
+      "status": "Final"
+    }
+  ],
+  "total_props": 853,
+  "props": [
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 44.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 39.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 35.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 33.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 28.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 27.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 27.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 26.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 26.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 25.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 25.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 23.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 23.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 22.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 22.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 22.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 22.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 20.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 16.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 12.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebs+Asts",
+      "line": 11.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 10.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebounds",
+      "line": 8.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 6.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sophie Cunningham",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jordin Canada",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Naz Hillmon",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.0,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Angel Reese",
+      "team": "ATL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "C-F",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Allisha Gray",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rhyne Howard",
+      "team": "ATL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "start_time": "2026-06-04T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 23.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 20.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 20.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 18.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 16.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 16.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 16.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 15.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 13.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nia Coffey",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.0,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Janelle Sala\u00fcn",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "start_time": "2026-06-04T21:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "team": "CON",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 23.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "team": "CON",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 17.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "team": "CON",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "team": "CON",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "team": "CON",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "team": "CON",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "team": "CON",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Brittney Griner",
+      "team": "CON",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leila Lacan",
+      "team": "CON",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-05T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 32.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 26.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 23.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 22.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 21.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 15.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 15.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 10.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebs+Asts",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebs+Asts",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "PDX",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "PDX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 32.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 27.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 27.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 25.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 23.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 21.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 20.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 20.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 16.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 16.0,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 15.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 11.0,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-06-05T22:00:00.000-04:00",
+      "source": "prizepicks"
+    }
+  ],
+  "players": {
+    "Caitlin Clark": {
+      "Pts+Rebs+Asts": 33.5,
+      "Pts+Asts": 34.5,
+      "Pts+Rebs": 29.5,
+      "Points": 20.5,
+      "Rebs+Asts": 15.5,
+      "Assists": 9.5,
+      "Rebounds": 4.5
+    },
+    "Angel Reese": {
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Rebs": 29.5,
+      "Pts+Asts": 19.5,
+      "Points": 16.5,
+      "Rebs+Asts": 18.5,
+      "Rebounds": 13.5,
+      "Assists": 4.5
+    },
+    "Aliyah Boston": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Points": 17.5,
+      "Pts+Asts": 19.5,
+      "Rebs+Asts": 14.5,
+      "Rebounds": 8.0,
+      "Assists": 3.5
+    },
+    "Allisha Gray": {
+      "Pts+Rebs": 29.5,
+      "Pts+Rebs+Asts": 29.5,
+      "Points": 22.5,
+      "Pts+Asts": 24.5,
+      "Rebs+Asts": 9.5,
+      "Rebounds": 4.5,
+      "Assists": 3.5
+    },
+    "Rhyne Howard": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 24.5,
+      "Points": 17.5,
+      "Rebs+Asts": 10.5,
+      "Assists": 4.5,
+      "Rebounds": 4.5
+    },
+    "Kelsey Mitchell": {
+      "Pts+Asts": 24.5,
+      "Points": 23.5,
+      "Pts+Rebs+Asts": 23.5,
+      "Assists": 3.5
+    },
+    "Naz Hillmon": {
+      "Pts+Rebs+Asts": 19.5,
+      "Pts+Rebs": 15.5,
+      "Points": 11.5,
+      "Rebounds": 7.5
+    },
+    "Jordin Canada": {
+      "Pts+Asts": 19.5,
+      "Pts+Rebs+Asts": 20.5,
+      "Points": 11.5,
+      "Assists": 7.5
+    },
+    "Sophie Cunningham": {
+      "Points": 9.5,
+      "Pts+Rebs+Asts": 13.5
+    },
+    "Courtney Williams": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 24.5,
+      "Points": 17.5,
+      "Rebs+Asts": 11.5,
+      "Rebounds": 6.5,
+      "Assists": 4.5
+    },
+    "Natasha Howard": {
+      "Pts+Rebs+Asts": 26.0,
+      "Pts+Rebs": 24.5,
+      "Pts+Asts": 19.5,
+      "Points": 17.5,
+      "Rebs+Asts": 13.5,
+      "Rebounds": 8.5,
+      "Assists": 4.5
+    },
+    "Olivia Miles": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 19.5,
+      "Points": 17.5,
+      "Rebs+Asts": 12.5,
+      "Assists": 7.5,
+      "Rebounds": 5.5
+    },
+    "Gabby Williams": {
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 19.5,
+      "Points": 17.5,
+      "Rebs+Asts": 10.5,
+      "Rebounds": 4.5,
+      "Assists": 4.5
+    },
+    "Veronica Burton": {
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 19.5,
+      "Points": 14.5,
+      "Rebs+Asts": 9.5,
+      "Assists": 6.5,
+      "Rebounds": 4.5
+    },
+    "Janelle Sala\u00fcn": {
+      "Pts+Rebs": 19.5,
+      "Points": 12.5,
+      "Pts+Rebs+Asts": 17.5,
+      "Rebounds": 5.5
+    },
+    "Kayla Thornton": {
+      "Pts+Rebs": 19.5,
+      "Points": 14.5,
+      "Pts+Rebs+Asts": 17.0,
+      "Rebounds": 6.5
+    },
+    "Kayla McBride": {
+      "Points": 14.5,
+      "Pts+Rebs+Asts": 17.5
+    },
+    "Nia Coffey": {
+      "Pts+Rebs": 19.5,
+      "Pts+Rebs+Asts": 17.5,
+      "Points": 9.0,
+      "Rebounds": 7.5
+    },
+    "Cecilia Zandalasini": {
+      "Points": 9.5,
+      "Pts+Rebs+Asts": 13.5
+    },
+    "Skylar Diggins": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 19.5,
+      "Points": 17.5,
+      "Rebs+Asts": 11.5,
+      "Assists": 6.5,
+      "Rebounds": 4.5
+    },
+    "Kamilla Cardoso": {
+      "Pts+Rebs": 24.5,
+      "Points": 14.5,
+      "Rebounds": 10.5
+    },
+    "Leila Lacan": {
+      "Pts+Asts": 19.5,
+      "Points": 14.5,
+      "Assists": 6.5
+    },
+    "Brittney Griner": {
+      "Pts+Rebs": 19.5,
+      "Points": 14.5,
+      "Rebounds": 6.5
+    },
+    "Aneesah Morrow": {
+      "Pts+Rebs": 24.5,
+      "Points": 19.5,
+      "Rebounds": 11.5
+    },
+    "Alyssa Thomas": {
+      "Pts+Rebs+Asts": 32.5,
+      "Pts+Rebs": 29.5,
+      "Pts+Asts": 23.5,
+      "Points": 17.5,
+      "Rebs+Asts": 18.5,
+      "Assists": 8.5,
+      "Rebounds": 9.5
+    },
+    "Kahleah Copper": {
+      "Pts+Rebs+Asts": 28.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 24.5,
+      "Points": 20.5,
+      "Rebs+Asts": 6.5,
+      "Rebounds": 4.5,
+      "Assists": 2.5
+    },
+    "Bridget Carleton": {
+      "Pts+Rebs": 19.5,
+      "Pts+Rebs+Asts": 19.5,
+      "Points": 14.5,
+      "Pts+Asts": 19.5,
+      "Rebs+Asts": 6.5,
+      "Rebounds": 4.5,
+      "Assists": 2.5
+    },
+    "Carla Leite": {
+      "Pts+Asts": 19.5,
+      "Points": 14.5,
+      "Assists": 6.5
+    },
+    "Jessica Shepard": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Rebs": 24.5,
+      "Pts+Asts": 19.5,
+      "Rebs+Asts": 20.5,
+      "Points": 14.5,
+      "Rebounds": 12.5,
+      "Assists": 6.5
+    },
+    "Paige Bueckers": {
+      "Pts+Asts": 29.5,
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Rebs": 24.5,
+      "Points": 21.5,
+      "Rebs+Asts": 9.5,
+      "Assists": 6.5,
+      "Rebounds": 4.5
+    },
+    "Dearica Hamby": {
+      "Pts+Rebs": 29.5,
+      "Pts+Rebs+Asts": 29.5,
+      "Points": 19.5,
+      "Pts+Asts": 24.5,
+      "Rebs+Asts": 11.5,
+      "Rebounds": 9.5,
+      "Assists": 5.5
+    },
+    "Nneka Ogwumike": {
+      "Pts+Rebs": 23.5,
+      "Points": 17.5,
+      "Rebounds": 8.5
+    },
+    "Erica Wheeler": {
+      "Pts+Asts": 18.5,
+      "Points": 14.5,
+      "Assists": 7.5
+    },
+    "Azzi Fudd": {
+      "Points": 17.5
+    }
+  }
+}

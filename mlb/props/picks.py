@@ -319,15 +319,50 @@ def rank_all_edges(players_lines, player_team_map, games):
             if stat_name in pitcher_props:
                 # Pitcher prop
                 profile = get_pitcher_profile(player_name)
-                if stat_name == "Pitcher Strikeouts" and profile:
+                if not profile:
+                    continue
+
+                if stat_name == "Pitcher Strikeouts":
                     result = compute_pitcher_k_edge(profile, line)
-                elif stat_name == "Earned Runs Allowed" and profile:
-                    result = compute_batter_edge(
-                        {"recent_games": [{"earned_runs": g.get("earned_runs", 0)} for g in profile.get("recent_starts", [])],
-                         "season": {"earned_runs": profile.get("season", {}).get("earned_runs", 0), "games": profile.get("season", {}).get("games_started", 1)},
-                         "l5": {}, "l10": {}},
-                        "RBIs", line  # Reuse batter edge logic for ER
-                    )
+                elif stat_name in ("Earned Runs Allowed", "Hits Allowed", "Pitching Outs"):
+                    # Use game log for ER/Hits/Outs like strikeouts
+                    recent = profile.get("recent_starts", [])
+                    if not recent:
+                        continue
+                    key_map = {
+                        "Earned Runs Allowed": "earned_runs",
+                        "Hits Allowed": "hits",
+                        "Pitching Outs": "ip",
+                    }
+                    key = key_map[stat_name]
+                    game_vals = [g.get(key, 0) for g in recent]
+                    # For pitching outs, convert IP to outs (6.0 IP = 18 outs)
+                    if stat_name == "Pitching Outs":
+                        game_vals = [int(v) * 3 + int((v % 1) * 10) for v in game_vals]
+
+                    l5_avg = sum(game_vals[:5]) / max(len(game_vals[:5]), 1)
+                    l10_avg = sum(game_vals[:10]) / max(len(game_vals[:10]), 1)
+                    projection = l5_avg * 0.50 + l10_avg * 0.50
+
+                    l5_hit = sum(1 for v in game_vals[:5] if v > line) / max(len(game_vals[:5]), 1)
+                    l10_hit = sum(1 for v in game_vals[:10] if v > line) / max(len(game_vals[:10]), 1)
+
+                    edge = projection - line
+                    direction = "OVER" if edge > 0 else "UNDER"
+                    if direction == "UNDER":
+                        l5_hit = 1 - l5_hit
+                        l10_hit = 1 - l10_hit
+
+                    import statistics as _stats
+                    std = _stats.stdev(game_vals[:10]) if len(game_vals) >= 3 else 1.5
+                    result = {
+                        "projection": round(projection, 1),
+                        "edge": round(edge, 1),
+                        "direction": direction,
+                        "l5_hr": round(l5_hit * 100),
+                        "l10_hr": round(l10_hit * 100),
+                        "std": std,
+                    }
 
             elif stat_name in batter_props:
                 # Batter prop — use specialized functions for HR and HRR
