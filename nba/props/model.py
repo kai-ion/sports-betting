@@ -81,7 +81,7 @@ def _get_espn_game_log(espn_id):
                 event_opponent[eid] = opp
 
             idx = {}
-            for stat in ["PTS", "REB", "AST", "MIN", "FGA", "FG%", "3PM"]:
+            for stat in ["PTS", "REB", "AST", "MIN", "FGA", "FG%", "3PT", "3PM"]:
                 if stat in labels:
                     idx[stat] = labels.index(stat)
 
@@ -99,7 +99,7 @@ def _get_espn_game_log(espn_id):
                                 "PTS": int(stats[idx["PTS"]]) if stats[idx.get("PTS", 0)].isdigit() else 0,
                                 "REB": int(stats[idx["REB"]]) if stats[idx.get("REB", 0)].isdigit() else 0,
                                 "AST": int(stats[idx["AST"]]) if stats[idx.get("AST", 0)].isdigit() else 0,
-                                "FG3": int(stats[idx["3PM"]]) if "3PM" in idx and stats[idx["3PM"]].isdigit() else 0,
+                                "FG3": int(stats[idx["3PT"]].split("-")[0]) if "3PT" in idx and stats[idx["3PT"]] else (int(stats[idx["3PM"]]) if "3PM" in idx and stats[idx["3PM"]].isdigit() else 0),
                                 "MIN": int(stats[idx["MIN"]]) if stats[idx.get("MIN", 0)].isdigit() else 0,
                                 "FGA": int(stats[idx["FGA"]]) if "FGA" in idx and stats[idx["FGA"]].isdigit() else 0,
                             }

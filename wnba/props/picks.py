@@ -69,7 +69,7 @@ def get_player_game_log(espn_id):
             reb_idx = labels.index("REB") if "REB" in labels else 2
             ast_idx = labels.index("AST") if "AST" in labels else 3
             min_idx = labels.index("MIN") if "MIN" in labels else 0
-            fg3_idx = labels.index("3PM") if "3PM" in labels else None
+            fg3_idx = labels.index("3PM") if "3PM" in labels else (labels.index("3PT") if "3PT" in labels else None)
 
             # Get opponent info from top-level events
             events_lookup = data.get("events", {})
@@ -91,7 +91,7 @@ def get_player_game_log(espn_id):
                                     "pts": int(stats[pts_idx]) if stats[pts_idx].isdigit() else 0,
                                     "reb": int(stats[reb_idx]) if stats[reb_idx].isdigit() else 0,
                                     "ast": int(stats[ast_idx]) if stats[ast_idx].isdigit() else 0,
-                                    "fg3": int(stats[fg3_idx]) if fg3_idx and fg3_idx < len(stats) and stats[fg3_idx].isdigit() else 0,
+                                    "fg3": int(stats[fg3_idx].split("-")[0]) if fg3_idx and fg3_idx < len(stats) and stats[fg3_idx] else 0,
                                 })
                             except (ValueError, IndexError):
                                 continue
