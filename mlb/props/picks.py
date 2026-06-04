@@ -345,6 +345,10 @@ def rank_all_edges(players_lines, player_team_map, games):
             if not result:
                 continue
 
+            # Skip binary 0.5 lines for HR/SB/Walks — these are just "yes/no" with trivial UNDER edges
+            if line == 0.5 and stat_name in ["Home Runs", "Stolen Bases", "Walks", "Runs", "RBIs"]:
+                continue
+
             edge_pct = abs(result["edge"]) / max(line, 0.5) * 100
             if edge_pct < 10:
                 continue
