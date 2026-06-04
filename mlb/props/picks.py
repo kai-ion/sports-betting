@@ -539,8 +539,12 @@ def main():
     for g in games:
         away_p = g["away"].get("probable_pitcher", "TBD")
         home_p = g["home"].get("probable_pitcher", "TBD")
-        spread = g["odds"].get("spread", "N/A")
-        ou = g["odds"].get("over_under", "N/A")
+        spread = g["odds"].get("spread") or ""
+        ou = g["odds"].get("over_under") or ""
+        status = g.get("status", "")
+        if not spread and not ou and status != "Scheduled":
+            spread = "In Progress"
+            ou = "—"
         md += f"| {g['away']['abbr']} | {g['home']['abbr']} | {away_p} vs {home_p} | {spread} | {ou} |\n"
     md += "\n"
 

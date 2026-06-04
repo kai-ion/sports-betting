@@ -240,9 +240,13 @@ def generate_game_predictions_md(game_preds, game_context, errors=None):
             if isinstance(g, dict):
                 away = g.get("away_team", g.get("away", {}).get("abbr", ""))
                 home = g.get("home_team", g.get("home", {}).get("abbr", ""))
-                spread = g.get("spread", g.get("odds", {}).get("spread", "N/A"))
-                ou = g.get("over_under", g.get("odds", {}).get("over_under", "N/A"))
-                md += f"- {away} @ {home} | {spread} | O/U: {ou}\n"
+                spread = g.get("spread", g.get("odds", {}).get("spread", ""))
+                ou = g.get("over_under", g.get("odds", {}).get("over_under", ""))
+                status = g.get("status", "")
+                if not spread and not ou and status != "Scheduled":
+                    md += f"- {away} @ {home} | In Progress\n"
+                else:
+                    md += f"- {away} @ {home} | {spread or 'TBD'} | O/U: {ou or 'TBD'}\n"
         md += "\n"
 
     return md
