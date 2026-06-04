@@ -111,6 +111,8 @@ def fetch_props(sport, max_pages=4):
 
     players = len(set(p["player"] for p in all_props))
     print(f"  Found {len(all_props)} {sport.upper()} props ({players} players)")
+    if not all_props:
+        print(f"  WARNING: No props returned from BettingPros for {sport.upper()}")
     return all_props
 
 

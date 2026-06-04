@@ -335,7 +335,7 @@ def main():
     if game_pred_file.exists():
         with open(game_pred_file) as f:
             game_preds = json.load(f).get("predictions", [])
-    md += generate_game_predictions_md(game_preds, games)
+    md += generate_game_predictions_md(game_preds, games, errors)
 
     # Build team→game mapping
     team_to_game = {}

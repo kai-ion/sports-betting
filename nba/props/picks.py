@@ -222,7 +222,7 @@ def main():
     if game_pred_file.exists():
         with open(game_pred_file) as f:
             game_preds = json.load(f).get("predictions", [])
-    md += generate_game_predictions_md(game_preds, game_context)
+    md += generate_game_predictions_md(game_preds, game_context, errors)
 
     # Build team→game mapping for picks table
     player_teams = {}

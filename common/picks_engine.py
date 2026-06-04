@@ -180,9 +180,12 @@ Rules:
     return top_edges
 
 
-def generate_game_predictions_md(game_preds, game_context):
+def generate_game_predictions_md(game_preds, game_context, errors=None):
     """Generate the game predictions markdown section."""
     md = "## Game Predictions\n\n"
+
+    if not game_preds and errors:
+        errors.add(ErrorType.PREDICTIONS_EMPTY, "No game predictions available (ESPN may not have games posted yet)")
 
     if game_preds:
         for p in game_preds:
