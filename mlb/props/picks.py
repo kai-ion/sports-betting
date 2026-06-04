@@ -20,7 +20,7 @@ from picks_engine import (
 )
 from errors import PipelineErrors, ErrorType
 
-from fetch import fetch_prizepicks_mlb, fetch_underdog_mlb, get_games, organize_by_player
+from fetch import fetch_bettingpros, get_games, organize_by_player
 from model import get_pitcher_profile, get_batter_profile
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -305,9 +305,9 @@ def rank_all_edges(players_lines, player_team_map, games):
         team_pitcher[away] = {"opponent": home, "facing_pitcher": home_pitcher}
         team_pitcher[home] = {"opponent": away, "facing_pitcher": away_pitcher}
 
-    pitcher_props = ["Pitcher Strikeouts", "Pitching Outs", "Earned Runs Allowed", "Hits Allowed"]
+    pitcher_props = ["Pitcher Strikeouts", "Outs Recorded", "Earned Runs", "Hits Allowed"]
     batter_props = ["Hits", "Total Bases", "Home Runs", "Runs", "RBIs", "Stolen Bases",
-                    "Walks", "Hits+Runs+RBIs", "Batter Strikeouts"]
+                    "Walks", "Hits+Runs+RBIs"]
 
     for player_name, lines in players_lines.items():
         team = player_team_map.get(player_name, "")
@@ -324,15 +324,15 @@ def rank_all_edges(players_lines, player_team_map, games):
 
                 if stat_name == "Pitcher Strikeouts":
                     result = compute_pitcher_k_edge(profile, line)
-                elif stat_name in ("Earned Runs Allowed", "Hits Allowed", "Pitching Outs"):
+                elif stat_name in ("Earned Runs", "Hits Allowed", "Outs Recorded"):
                     # Use game log for ER/Hits/Outs like strikeouts
                     recent = profile.get("recent_starts", [])
                     if not recent:
                         continue
                     key_map = {
-                        "Earned Runs Allowed": "earned_runs",
+                        "Earned Runs": "earned_runs",
                         "Hits Allowed": "hits",
-                        "Pitching Outs": "ip",
+                        "Outs Recorded": "ip",
                     }
                     key = key_map[stat_name]
                     game_vals = [g.get(key, 0) for g in recent]
@@ -429,19 +429,17 @@ def main():
 
     date_str = datetime.now().strftime("%Y-%m-%d")
 
-    # Fetch props
-    pp_props, _ = fetch_prizepicks_mlb()
-    ud_props = fetch_underdog_mlb()
-    all_props = pp_props + ud_props
+    # Fetch props from BettingPros (real sportsbook consensus lines)
+    all_props = fetch_bettingpros("mlb")
     games = get_games()
 
     if not all_props:
-        errors.add(ErrorType.PROPS_EMPTY, "No MLB props from any source")
+        errors.add(ErrorType.PROPS_EMPTY, "No MLB props from BettingPros")
         print("No MLB props available.")
         return
 
-    # Filter: only keep meaningful lines (drop all 0.5 batter lines, keep pitcher props + batter 1.5+)
-    pitcher_stats = {"Pitcher Strikeouts", "Pitching Outs", "Earned Runs Allowed", "Hits Allowed"}
+    # Filter: keep pitcher props + batter lines >= 1.5 (skip trivial 0.5s)
+    pitcher_stats = {"Pitcher Strikeouts", "Outs Recorded", "Earned Runs", "Hits Allowed"}
     filtered_props = []
     for p in all_props:
         if p["stat"] in pitcher_stats:
@@ -456,9 +454,19 @@ def main():
             if p["player"] not in player_team_map:
                 player_team_map[p["player"]] = p["team"]
 
+    # Build BP projections lookup for enrichment
+    bp_lookup = {}
+    for p in all_props:
+        if p.get("bp_projection"):
+            bp_lookup[(p["player"], p["stat"])] = {
+                "bp_proj": p["bp_projection"],
+                "bp_side": p["bp_side"],
+                "bp_ev": p["bp_ev"],
+                "bp_rating": p["bp_rating"],
+            }
+
     # Cap at 60 players to manage API calls
     if len(players_lines) > 60:
-        # Prioritize: pitchers first, then batters with most prop types
         pitcher_players = {name for name, lines in players_lines.items() if any(s in pitcher_stats for s in lines)}
         batter_players = sorted(
             [(name, len(lines)) for name, lines in players_lines.items() if name not in pitcher_players],

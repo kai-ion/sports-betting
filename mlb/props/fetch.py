@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-MLB Props Fetcher — pulls player props from Underdog Fantasy + PrizePicks.
+MLB Props Fetcher — pulls player props from BettingPros (real sportsbook lines).
+BettingPros aggregates DraftKings, FanDuel, BetMGM, Caesars, etc.
 """
 
 import requests
@@ -11,150 +12,97 @@ from collections import defaultdict
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
-PRIZEPICKS_LEAGUE_ID = 2  # MLB
 
-TARGET_STATS = [
-    "Hits+Runs+RBIs", "Total Bases", "Hits", "Runs", "RBIs",
-    "Home Runs", "Stolen Bases", "Walks",
-    "Pitcher Strikeouts", "Pitching Outs", "Earned Runs Allowed",
-    "Hits Allowed",
-]
-
-# Underdog stat mapping
-UNDERDOG_STAT_MAP = {
-    "hits_runs_rbis": "Hits+Runs+RBIs",
-    "total_bases": "Total Bases",
-    "hits": "Hits",
-    "runs": "Runs",
-    "rbis": "RBIs",
-    "home_runs": "Home Runs",
-    "stolen_bases": "Stolen Bases",
-    "walks": "Walks",
-    "pitcher_strikeouts": "Pitcher Strikeouts",
-    "strikeouts": "Pitcher Strikeouts",
-    "period_1_strikeouts": "Pitcher Strikeouts",
-    "pitching_outs": "Pitching Outs",
-    "pitch_outs": "Pitching Outs",
-    "earned_runs_allowed": "Earned Runs Allowed",
-    "hits_allowed": "Hits Allowed",
-    "batter_strikeouts": "Batter Strikeouts",
-    "singles": "Singles",
-    "doubles": "Doubles",
+# BettingPros market IDs for MLB
+MLB_MARKETS = {
+    285: "Pitcher Strikeouts",
+    287: "Hits",
+    288: "Runs",
+    289: "RBIs",
+    290: "Earned Runs",
+    293: "Total Bases",
+    294: "Stolen Bases",
+    299: "Home Runs",
+    403: "Hits+Runs+RBIs",
+    404: "Hits Allowed",
+    405: "Outs Recorded",
 }
 
+NBA_MARKETS = {
+    136: "Points",
+    142: "Rebounds",
+    147: "Assists",
+    151: "Pts+Rebs+Asts",
+    152: "Pts+Rebs",
+    156: "Pts+Asts",
+    157: "Rebs+Asts",
+    160: "3-Pointers Made",
+}
 
-def fetch_prizepicks_mlb():
-    """Fetch MLB player props from PrizePicks."""
-    print("Fetching PrizePicks MLB props...")
-    try:
-        resp = requests.get(
-            f"https://api.prizepicks.com/projections?league_id={PRIZEPICKS_LEAGUE_ID}&per_page=500",
-            headers=HEADERS, timeout=15
-        )
-        if resp.status_code != 200:
-            print(f"  PrizePicks error: {resp.status_code}")
-            return [], {}
-
-        data = resp.json()
-        projections = data.get("data", [])
-        included = data.get("included", [])
-
-        players = {}
-        for item in included:
-            if item.get("type") == "new_player":
-                pid = item["id"]
-                attrs = item.get("attributes", {})
-                players[pid] = {
-                    "name": attrs.get("display_name", ""),
-                    "team": attrs.get("team", ""),
-                    "position": attrs.get("position", ""),
-                }
-
-        props = []
-        for p in projections:
-            attrs = p.get("attributes", {})
-            stat_type = attrs.get("stat_type", "")
-            if stat_type not in TARGET_STATS:
-                continue
-
-            player_rel = p.get("relationships", {}).get("new_player", {}).get("data", {})
-            player_id = player_rel.get("id", "")
-            player_info = players.get(player_id, {})
-
-            props.append({
-                "player": player_info.get("name", ""),
-                "team": player_info.get("team", ""),
-                "position": player_info.get("position", ""),
-                "stat": stat_type,
-                "line": float(attrs.get("line_score", 0)),
-                "source": "prizepicks",
-            })
-
-        print(f"  Found {len(props)} MLB props ({len(set(p['player'] for p in props))} players)")
-        return props, players
-    except Exception as e:
-        print(f"  PrizePicks error: {e}")
-        return [], {}
+WNBA_MARKETS = NBA_MARKETS  # Same market IDs
 
 
-def fetch_underdog_mlb():
-    """Fetch MLB player props from Underdog Fantasy."""
-    print("Fetching Underdog Fantasy MLB props...")
-    try:
-        resp = requests.get(
-            "https://api.underdogfantasy.com/beta/v5/over_under_lines",
-            headers=HEADERS, timeout=15
-        )
-        if resp.status_code != 200:
-            print(f"  Underdog error: {resp.status_code}")
-            return []
+def fetch_bettingpros(sport="mlb", limit=200):
+    """Fetch player props from BettingPros API with consensus sportsbook lines."""
+    print(f"Fetching BettingPros {sport.upper()} props...")
 
-        data = resp.json()
-        lines = data.get("over_under_lines", [])
-        players_data = {p["id"]: p for p in data.get("players", [])}
-        appearances = {a["id"]: a for a in data.get("appearances", [])}
+    all_props = []
+    page = 1
+    total_pages = 1
 
-        # Build team UUID → abbreviation map from games
-        team_map = {}
-        for game in data.get("games", data.get("matches", [])):
-            title = game.get("abbreviated_title", "")
-            if " @ " in title:
-                away_abbr, home_abbr = title.split(" @ ")
-                team_map[game.get("away_team_id", "")] = away_abbr.strip()
-                team_map[game.get("home_team_id", "")] = home_abbr.strip()
+    while page <= total_pages and page <= 4:  # Cap at 4 pages
+        url = f"https://api.bettingpros.com/v3/props?sport={sport}&limit={limit}&page={page}"
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=15)
+            if resp.status_code != 200:
+                print(f"  Error: {resp.status_code}")
+                break
 
-        props = []
-        for line in lines:
-            over_under = line.get("over_under", {})
-            stat_key = over_under.get("appearance_stat", {}).get("stat", "")
-            if stat_key not in UNDERDOG_STAT_MAP:
-                continue
+            data = resp.json()
+            props = data.get("props", [])
+            pagination = data.get("_pagination", {})
+            total_pages = pagination.get("total_pages", 1)
 
-            appearance_id = over_under.get("appearance_stat", {}).get("appearance_id", "")
-            appearance = appearances.get(appearance_id, {})
-            player_id = appearance.get("player_id", "")
-            player = players_data.get(player_id, {})
+            for p in props:
+                participant = p.get("participant", {})
+                player_info = participant.get("player", {})
+                over = p.get("over", {})
+                under = p.get("under", {})
+                projection = p.get("projection", {})
 
-            if player.get("sport_id") != "MLB":
-                continue
+                market_id = p.get("market_id")
+                if sport == "mlb":
+                    stat_name = MLB_MARKETS.get(market_id)
+                elif sport in ("nba", "wnba"):
+                    stat_name = NBA_MARKETS.get(market_id)
+                else:
+                    stat_name = None
 
-            team_id = player.get("team_id", "")
-            team_abbr = team_map.get(team_id, team_id)
+                if not stat_name:
+                    continue
 
-            props.append({
-                "player": f"{player.get('first_name', '')} {player.get('last_name', '')}".strip(),
-                "team": team_abbr,
-                "position": player.get("position", ""),
-                "stat": UNDERDOG_STAT_MAP[stat_key],
-                "line": float(line.get("stat_value", 0)),
-                "source": "underdog",
-            })
+                all_props.append({
+                    "player": participant.get("name", ""),
+                    "team": player_info.get("team", ""),
+                    "position": player_info.get("position", ""),
+                    "stat": stat_name,
+                    "line": over.get("consensus_line", over.get("line", 0)),
+                    "over_odds": over.get("consensus_odds", over.get("odds")),
+                    "under_odds": under.get("consensus_odds", under.get("odds")),
+                    "bp_projection": projection.get("value"),
+                    "bp_side": projection.get("recommended_side"),
+                    "bp_ev": projection.get("expected_value"),
+                    "bp_rating": projection.get("bet_rating"),
+                    "source": "bettingpros",
+                })
 
-        print(f"  Found {len(props)} MLB props from Underdog ({len(set(p['player'] for p in props))} players)")
-        return props
-    except Exception as e:
-        print(f"  Underdog error: {e}")
-        return []
+            page += 1
+        except Exception as e:
+            print(f"  Error on page {page}: {e}")
+            break
+
+    print(f"  Found {len(all_props)} props ({len(set(p['player'] for p in all_props))} players)")
+    return all_props
 
 
 def get_games():
@@ -177,11 +125,12 @@ def get_games():
 
                 home = away = {}
                 for c in competitors:
+                    probables = c.get("probables", [])
                     team_data = {
                         "abbr": c.get("team", {}).get("abbreviation", ""),
                         "name": c.get("team", {}).get("displayName", ""),
                         "record": c.get("records", [{}])[0].get("summary", "") if c.get("records") else "",
-                        "probable_pitcher": c.get("probables", [{}])[0].get("athlete", {}).get("displayName", "") if c.get("probables") else "",
+                        "probable_pitcher": probables[0].get("athlete", {}).get("displayName", "") if probables else "",
                     }
                     if c.get("homeAway") == "home":
                         home = team_data
@@ -214,14 +163,16 @@ def organize_by_player(props):
     """Group props by player with median lines."""
     player_lines = defaultdict(lambda: defaultdict(list))
     for p in props:
-        player_lines[p["player"]][p["stat"]].append(p["line"])
+        player_lines[p["player"]][p["stat"]].append(p)
 
     organized = {}
     for player, stats in player_lines.items():
         organized[player] = {}
-        for stat, lines in stats.items():
-            sorted_lines = sorted(lines)
-            organized[player][stat] = sorted_lines[len(sorted_lines) // 2]
+        for stat, prop_list in stats.items():
+            # Use median line
+            sorted_props = sorted(prop_list, key=lambda x: x["line"])
+            median = sorted_props[len(sorted_props) // 2]
+            organized[player][stat] = median["line"]
 
     return organized
 
@@ -229,19 +180,15 @@ def organize_by_player(props):
 def main():
     print(f"=== MLB Props Fetcher — {datetime.now().strftime('%Y-%m-%d %H:%M')} ===\n")
 
-    # Try PrizePicks first, fallback to Underdog
-    pp_props, _ = fetch_prizepicks_mlb()
-    ud_props = fetch_underdog_mlb()
-    props = pp_props + ud_props
-
+    props = fetch_bettingpros("mlb")
     games = get_games()
 
     if not props:
         print("No MLB props available today.")
         return
 
-    # Display
     by_player = organize_by_player(props)
+
     print(f"\n{'='*80}")
     print(f"  MLB PLAYER PROPS — {datetime.now().strftime('%Y-%m-%d')}")
     print(f"  {len(props)} props across {len(by_player)} players | {len(games)} games")
@@ -258,15 +205,17 @@ def main():
             print(f"    {g['away']['abbr']} ({away_p}) @ {g['home']['abbr']} ({home_p}) | {spread} | O/U: {ou}")
     print()
 
-    # Save (only player lines summary, not all raw props)
+    # Save
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     date_str = datetime.now().strftime("%Y-%m-%d")
     output = {
         "date": date_str,
         "sport": "MLB",
+        "source": "bettingpros",
         "games": games,
         "total_props": len(props),
         "players": by_player,
+        "props_with_projections": [p for p in props if p.get("bp_projection")],
     }
     with open(DATA_DIR / f"{date_str}_props.json", "w") as f:
         json.dump(output, f, indent=2)
