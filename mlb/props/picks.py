@@ -400,12 +400,32 @@ def main():
         print("No MLB props available.")
         return
 
-    players_lines = organize_by_player(all_props)
-    player_team_map = {}
+    # Filter: only keep meaningful lines (drop all 0.5 batter lines, keep pitcher props + batter 1.5+)
+    pitcher_stats = {"Pitcher Strikeouts", "Pitching Outs", "Earned Runs Allowed", "Hits Allowed"}
+    filtered_props = []
     for p in all_props:
+        if p["stat"] in pitcher_stats:
+            filtered_props.append(p)
+        elif p["line"] >= 1.5:
+            filtered_props.append(p)
+
+    players_lines = organize_by_player(filtered_props)
+    player_team_map = {}
+    for p in filtered_props:
         if p.get("player") and p.get("team"):
             if p["player"] not in player_team_map:
                 player_team_map[p["player"]] = p["team"]
+
+    # Cap at 60 players to manage API calls
+    if len(players_lines) > 60:
+        # Prioritize: pitchers first, then batters with most prop types
+        pitcher_players = {name for name, lines in players_lines.items() if any(s in pitcher_stats for s in lines)}
+        batter_players = sorted(
+            [(name, len(lines)) for name, lines in players_lines.items() if name not in pitcher_players],
+            key=lambda x: -x[1]
+        )
+        keep = pitcher_players | {name for name, _ in batter_players[:60 - len(pitcher_players)]}
+        players_lines = {name: lines for name, lines in players_lines.items() if name in keep}
 
     print(f"\n{len(players_lines)} players with lines, {len(games)} games")
     print(f"Computing edges...")
@@ -468,8 +488,6 @@ def main():
     md += "| Away | Home | Pitchers | Spread | O/U |\n"
     md += "|------|------|----------|--------|-----|\n"
     for g in games:
-        if g["status"] != "Scheduled":
-            continue
         away_p = g["away"].get("probable_pitcher", "TBD")
         home_p = g["home"].get("probable_pitcher", "TBD")
         spread = g["odds"].get("spread", "N/A")
@@ -480,12 +498,24 @@ def main():
     # Picks section
     team_to_game = {}
     for g in games:
-        if g["status"] == "Scheduled":
-            away = g["away"]["abbr"]
-            home = g["home"]["abbr"]
-            matchup = f"{away} @ {home}"
-            team_to_game[away] = matchup
-            team_to_game[home] = matchup
+        away = g["away"]["abbr"]
+        home = g["home"]["abbr"]
+        matchup = f"{away} @ {home}"
+        team_to_game[away] = matchup
+        team_to_game[home] = matchup
+    # Also get from Underdog games for teams ESPN didn't list
+    try:
+        ud_resp = requests.get("https://api.underdogfantasy.com/beta/v5/over_under_lines",
+                               headers=HEADERS, timeout=10)
+        if ud_resp.status_code == 200:
+            for g in ud_resp.json().get("games", ud_resp.json().get("matches", [])):
+                title = g.get("abbreviated_title", "")
+                if " @ " in title:
+                    parts = title.split(" @ ")
+                    team_to_game[parts[0].strip()] = title
+                    team_to_game[parts[1].strip()] = title
+    except Exception:
+        pass
 
     md += generate_picks_table_md(picks, viable_edges, team_to_game, player_team_map, errors)
     md += errors.to_markdown()

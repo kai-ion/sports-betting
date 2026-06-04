@@ -255,7 +255,7 @@ def main():
             print(f"    {g['away']['abbr']} ({away_p}) @ {g['home']['abbr']} ({home_p}) | {spread} | O/U: {ou}")
     print()
 
-    # Save
+    # Save (only player lines summary, not all raw props)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     date_str = datetime.now().strftime("%Y-%m-%d")
     output = {
@@ -263,7 +263,6 @@ def main():
         "sport": "MLB",
         "games": games,
         "total_props": len(props),
-        "props": props,
         "players": by_player,
     }
     with open(DATA_DIR / f"{date_str}_props.json", "w") as f:
