@@ -345,12 +345,17 @@ def rank_all_edges(players_lines, player_team_map, games):
             if not result:
                 continue
 
-            # Skip binary 0.5 lines for HR/SB/Walks — these are just "yes/no" with trivial UNDER edges
-            if line == 0.5 and stat_name in ["Home Runs", "Stolen Bases", "Walks", "Runs", "RBIs"]:
+            # Skip binary 0.5 lines — these are just "yes/no" with trivial UNDER edges
+            if line == 0.5:
                 continue
 
             edge_pct = abs(result["edge"]) / max(line, 0.5) * 100
-            if edge_pct < 10:
+            if edge_pct < 15:
+                continue
+
+            # For UNDER picks on low lines (1.5), require very high hit rate
+            # Otherwise every batter with <1.5 avg is UNDER which isn't useful
+            if result["direction"] == "UNDER" and line <= 1.5 and result["l10_hr"] < 70:
                 continue
 
             effective_hr = result["l10_hr"] / 100
@@ -448,7 +453,8 @@ def main():
         print(f"{i:<3} {e['player']:<22} {e['prop']:<18} {e['line']:<6} {e['pick']:<6} {e['projected']:<6} {e['edge_pct']:<6} {e['score']}")
 
     # Filter and send to Claude
-    viable_edges = balance_and_filter(ranked_edges)
+    # MLB needs stricter balance — lines are set high so UNDERs dominate
+    viable_edges = balance_and_filter(ranked_edges, min_edge=15, balance_threshold=0.6, balance_min_edge=25)
     print(f"\nClaude validating {len(viable_edges)} edges...")
 
     game_context = {"games": [{"away": g["away"]["abbr"], "home": g["home"]["abbr"],
