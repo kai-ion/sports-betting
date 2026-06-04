@@ -382,16 +382,23 @@ def rank_all_edges(players_lines, player_team_map, games):
                     h2h_data = get_batter_vs_pitcher(player_name, facing_pitcher_name)
                     if h2h_data and h2h_data["at_bats"] >= 3:
                         ab = h2h_data["at_bats"]
+                        h2h_hr_val = None
+
                         if stat_name == "Hits":
-                            h2h_rate = h2h_data["hits"] / ab
-                            h2h_hr_val = round((1 - h2h_rate) * 100 if result["direction"] == "UNDER" else h2h_rate * 100)
+                            h2h_per_ab = h2h_data["hits"] / ab
+                            h2h_hr_val = round(h2h_per_ab * 100 if result["direction"] == "OVER" else (1 - h2h_per_ab) * 100)
                         elif stat_name == "Home Runs":
-                            h2h_rate = h2h_data["home_runs"] / ab
-                            h2h_hr_val = round(h2h_rate * 100 if result["direction"] == "OVER" else (1 - h2h_rate) * 100)
-                        elif stat_name == "Pitcher Strikeouts":
-                            h2h_hr_val = None
-                        else:
-                            h2h_hr_val = None
+                            h2h_per_ab = h2h_data["home_runs"] / ab
+                            h2h_hr_val = round(h2h_per_ab * 100 if result["direction"] == "OVER" else (1 - h2h_per_ab) * 100)
+                        elif stat_name == "Total Bases":
+                            # Estimate TB from hits + HR (HR = 4 bases, other hits ~1.5 avg)
+                            est_tb_per_ab = (h2h_data["hits"] * 1.5 + h2h_data["home_runs"] * 2.5) / ab
+                            h2h_hr_val = round(est_tb_per_ab * 100 if result["direction"] == "OVER" else max(0, 100 - est_tb_per_ab * 100))
+                        elif stat_name in ("Hits+Runs+RBIs", "RBIs", "Runs"):
+                            # Use hits + RBI as proxy
+                            hrr_per_ab = (h2h_data["hits"] + h2h_data["rbi"]) / ab
+                            h2h_hr_val = round(hrr_per_ab * 100 if result["direction"] == "OVER" else max(0, 100 - hrr_per_ab * 100))
+
                         if h2h_hr_val is not None:
                             result["h2h_hr"] = h2h_hr_val
 
