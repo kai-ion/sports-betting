@@ -222,22 +222,21 @@ def main():
     print(f"=== WNBA Props Picks — {datetime.now().strftime('%Y-%m-%d %H:%M')} ===\n")
 
     date_str = datetime.now().strftime("%Y-%m-%d")
-    props_file = DATA_DIR / f"{date_str}_props.json"
-    if not props_file.exists():
-        from fetch import fetch_prizepicks_wnba, get_games, organize_by_player
-        props, _ = fetch_prizepicks_wnba()
-        games = get_games()
-        if not props:
-            errors.add(ErrorType.PROPS_EMPTY, "No WNBA props from any source")
-            print("No WNBA props available.")
-            return
-        players_lines = organize_by_player(props)
-    else:
-        with open(props_file) as f:
-            data = json.load(f)
-        players_lines = data.get("players", {})
-        games = data.get("games", [])
-        props = data.get("props", [])
+
+    # Fetch from BettingPros (real sportsbook consensus lines)
+    from bettingpros import fetch_props
+    from bettingpros import organize_by_player as bp_organize
+    from fetch import get_games
+
+    props = fetch_props("wnba")
+    games = get_games()
+
+    if not props:
+        errors.add(ErrorType.PROPS_EMPTY, "No WNBA props from BettingPros")
+        print("No WNBA props available.")
+        return
+
+    players_lines = bp_organize(props)
 
     # Build player→team and team→opponent lookups
     player_team_map = {}

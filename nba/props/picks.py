@@ -20,9 +20,11 @@ from picks_engine import (
 from errors import PipelineErrors, ErrorType
 from nicknames import resolve_name
 
-from fetch import fetch_prizepicks_nba
 from model import build_player_profile, project_stats
 from analyze import get_game_odds, get_team_defense
+
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "common"))
+from bettingpros import fetch_props, organize_by_player
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 REGION = os.environ.get("AWS_REGION", "us-east-1")
@@ -114,25 +116,15 @@ def main():
     game_odds = get_game_odds()
     game_context = {"games": game_odds}
 
-    # 2. Get props
+    # 2. Get props from BettingPros (real sportsbook consensus lines)
     print("Fetching props...")
-    pp_props, _ = fetch_prizepicks_nba()
+    pp_props = fetch_props("nba")
     if not pp_props:
-        errors.add(ErrorType.PROPS_EMPTY, "No NBA props from any source")
+        errors.add(ErrorType.PROPS_EMPTY, "No NBA props from BettingPros")
         print("No props available.")
         return
 
-    # Group by player — use the MEDIAN line
-    player_lines_all = defaultdict(lambda: defaultdict(list))
-    for p in pp_props:
-        player_lines_all[p["player"]][p["stat"]].append(p["line"])
-
-    by_player = defaultdict(dict)
-    for player, stats in player_lines_all.items():
-        for stat, lines in stats.items():
-            sorted_lines = sorted(lines)
-            median_line = sorted_lines[len(sorted_lines) // 2]
-            by_player[player][stat] = median_line
+    by_player = organize_by_player(pp_props)
 
     # 3. Build profiles and projections
     print("Building player profiles...")
