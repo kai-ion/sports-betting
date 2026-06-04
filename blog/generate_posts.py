@@ -7,9 +7,11 @@ from datetime import datetime
 REPO_ROOT = Path(__file__).parent.parent
 NBA_REPORTS = REPO_ROOT / "nba" / "reports"
 WNBA_REPORTS = REPO_ROOT / "wnba" / "reports"
+MLB_REPORTS = REPO_ROOT / "mlb" / "reports"
 BLOG_DIR = Path(__file__).parent
 NBA_DIR = BLOG_DIR / "_nba"
 WNBA_DIR = BLOG_DIR / "_wnba"
+MLB_DIR = BLOG_DIR / "_mlb"
 
 
 def generate_posts(reports_dir, output_dir, sport):
@@ -49,6 +51,7 @@ def main():
     print("Generating blog posts...")
     generate_posts(NBA_REPORTS, NBA_DIR, "NBA")
     generate_posts(WNBA_REPORTS, WNBA_DIR, "WNBA")
+    generate_posts(MLB_REPORTS, MLB_DIR, "MLB")
     print("Done!")
 
 

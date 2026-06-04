@@ -267,10 +267,15 @@ def generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, err
     md = "## Player Props Picks\n\n"
     for game in sorted(by_game.keys()):
         game_picks = by_game[game]
+        # Sort within game: OVERs first, then UNDERs
+        overs = [(i, pick, team) for i, pick, team in game_picks if pick.get("pick") == "OVER"]
+        unders = [(i, pick, team) for i, pick, team in game_picks if pick.get("pick") == "UNDER"]
+        game_picks_sorted = overs + unders
+
         md += f"### {game}\n\n"
         md += "| # | Player | Team | Prop | Line | Pick | Proj | Edge% | L5 HR | L10 HR | H2H | Conf |\n"
         md += "|---|--------|------|------|------|------|------|-------|-------|--------|-----|------|\n"
-        for i, pick, team in game_picks:
+        for i, pick, team in game_picks_sorted:
             edge_data = edge_lookup.get((pick["player"], pick["prop"]), {})
             edge_pct = edge_data.get("edge_pct", pick.get("edge_pct", ""))
             l5 = edge_data.get("l5_hr", pick.get("l5_hr"))
@@ -280,7 +285,7 @@ def generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, err
             l5_s = f"{l5}%" if l5 is not None else "—"
             l10_s = f"{l10}%" if l10 is not None else "—"
             h2h_s = f"{h2h}%" if h2h is not None else "—"
-            md += f"| {i} | {pick['player']} | {team} | {pick['prop']} | {pick['line']} | {pick['pick']} | {pick.get('projected', '')} | {edge_s} | {l5_s} | {l10_s} | {h2h_s} | {pick.get('confidence', '')}/10 |\n"
+            md += f"| {i} | {pick['player']} | {team} | {pick['prop']} | {pick['line']} | **{pick['pick']}** | {pick.get('projected', '')} | {edge_s} | {l5_s} | {l10_s} | {h2h_s} | {pick.get('confidence', '')}/10 |\n"
         md += "\n"
 
     return md
