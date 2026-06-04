@@ -324,6 +324,72 @@ def _get_batter_from_mlb_api(name):
         return None
 
 
+def get_batter_vs_pitcher(batter_name, pitcher_name):
+    """Get batter's career stats against a specific pitcher."""
+    cached = _get_cached(f"{batter_name}_vs_{pitcher_name}", "h2h")
+    if cached:
+        return cached
+
+    try:
+        # Get batter ID
+        resp = requests.get(
+            f"https://statsapi.mlb.com/api/v1/people/search?names={batter_name}&sportIds=1",
+            headers=HEADERS, timeout=10
+        )
+        if resp.status_code != 200:
+            return None
+        batter_people = resp.json().get("people", [])
+        if not batter_people:
+            return None
+        batter_id = batter_people[0]["id"]
+
+        # Get pitcher ID
+        time.sleep(0.3)
+        resp2 = requests.get(
+            f"https://statsapi.mlb.com/api/v1/people/search?names={pitcher_name}&sportIds=1",
+            headers=HEADERS, timeout=10
+        )
+        if resp2.status_code != 200:
+            return None
+        pitcher_people = resp2.json().get("people", [])
+        if not pitcher_people:
+            return None
+        pitcher_id = pitcher_people[0]["id"]
+
+        # Get batter vs pitcher stats
+        time.sleep(0.3)
+        resp3 = requests.get(
+            f"https://statsapi.mlb.com/api/v1/people/{batter_id}/stats?stats=vsPlayer&opposingPlayerId={pitcher_id}&group=hitting",
+            headers=HEADERS, timeout=10
+        )
+        if resp3.status_code != 200:
+            return None
+
+        splits = resp3.json().get("stats", [{}])[0].get("splits", [])
+        if not splits:
+            return None
+
+        s = splits[0].get("stat", {})
+        ab = int(s.get("atBats", 0))
+        if ab < 3:
+            return None  # Too small sample
+
+        result = {
+            "at_bats": ab,
+            "hits": int(s.get("hits", 0)),
+            "home_runs": int(s.get("homeRuns", 0)),
+            "strikeouts": int(s.get("strikeOuts", 0)),
+            "walks": int(s.get("baseOnBalls", 0)),
+            "avg": s.get("avg", ""),
+            "ops": s.get("ops", ""),
+            "rbi": int(s.get("rbi", 0)),
+        }
+        _save_cache(f"{batter_name}_vs_{pitcher_name}", "h2h", result)
+        return result
+    except Exception:
+        return None
+
+
 if __name__ == "__main__":
     print("Testing MLB model...")
     p = get_pitcher_profile("Gerrit Cole")
@@ -336,3 +402,6 @@ if __name__ == "__main__":
         print(f"Batter: {b['name']} ({b['bats']})")
         print(f"  AVG: {b['season'].get('avg')}, HR: {b['season'].get('home_runs')}")
         print(f"  L5 hits/game: {b['l5'].get('hits')}")
+    h2h = get_batter_vs_pitcher("Aaron Judge", "Slade Cecconi")
+    if h2h:
+        print(f"  vs Cecconi: {h2h['hits']}/{h2h['at_bats']} ({h2h['avg']}), {h2h['home_runs']} HR")

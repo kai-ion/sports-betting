@@ -21,7 +21,7 @@ from picks_engine import (
 from errors import PipelineErrors, ErrorType
 
 from fetch import fetch_bettingpros, get_games, organize_by_player
-from model import get_pitcher_profile, get_batter_profile
+from model import get_pitcher_profile, get_batter_profile, get_batter_vs_pitcher
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
@@ -377,6 +377,24 @@ def rank_all_edges(players_lines, player_team_map, games):
                 elif profile:
                     result = compute_batter_edge(profile, stat_name, line)
 
+                # H2H: batter vs facing pitcher
+                if result and facing_pitcher_name:
+                    h2h_data = get_batter_vs_pitcher(player_name, facing_pitcher_name)
+                    if h2h_data and h2h_data["at_bats"] >= 3:
+                        ab = h2h_data["at_bats"]
+                        if stat_name == "Hits":
+                            h2h_rate = h2h_data["hits"] / ab
+                            h2h_hr_val = round((1 - h2h_rate) * 100 if result["direction"] == "UNDER" else h2h_rate * 100)
+                        elif stat_name == "Home Runs":
+                            h2h_rate = h2h_data["home_runs"] / ab
+                            h2h_hr_val = round(h2h_rate * 100 if result["direction"] == "OVER" else (1 - h2h_rate) * 100)
+                        elif stat_name == "Pitcher Strikeouts":
+                            h2h_hr_val = None
+                        else:
+                            h2h_hr_val = None
+                        if h2h_hr_val is not None:
+                            result["h2h_hr"] = h2h_hr_val
+
             if not result:
                 continue
 
@@ -416,7 +434,7 @@ def rank_all_edges(players_lines, player_team_map, games):
                 "hit_rate": result["l10_hr"],
                 "l5_hr": result["l5_hr"],
                 "l10_hr": result["l10_hr"],
-                "h2h_hr": None,
+                "h2h_hr": result.get("h2h_hr"),
                 "score": score,
             })
 
