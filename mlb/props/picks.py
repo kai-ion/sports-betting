@@ -559,18 +559,22 @@ def main():
 
     # Games section
     md += "## Today's Games\n\n"
-    md += "| Away | Home | Pitchers | Spread | O/U |\n"
-    md += "|------|------|----------|--------|-----|\n"
+    md += "| Away | Home | Pitchers | ML | Total Runs |\n"
+    md += "|------|------|----------|-----|------------|\n"
     for g in games:
         away_p = g["away"].get("probable_pitcher", "TBD")
         home_p = g["home"].get("probable_pitcher", "TBD")
-        spread = g["odds"].get("spread") or ""
+        away_ml = g["odds"].get("away_ml") or ""
+        home_ml = g["odds"].get("home_ml") or ""
         ou = g["odds"].get("over_under") or ""
         status = g.get("status", "")
-        if not spread and not ou and status != "Scheduled":
-            spread = "In Progress"
-            ou = "—"
-        md += f"| {g['away']['abbr']} | {g['home']['abbr']} | {away_p} vs {home_p} | {spread} | {ou} |\n"
+        if not away_ml and not ou and status != "Scheduled":
+            ml_str = "In Progress"
+            ou_str = "—"
+        else:
+            ml_str = f"{g['away']['abbr']} {away_ml} / {g['home']['abbr']} {home_ml}" if away_ml else "TBD"
+            ou_str = f"O/U {ou} runs" if ou else "TBD"
+        md += f"| {g['away']['abbr']} | {g['home']['abbr']} | {away_p} vs {home_p} | {ml_str} | {ou_str} |\n"
     md += "\n"
 
     # Picks section
