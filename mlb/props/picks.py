@@ -559,9 +559,11 @@ def main():
 
     # Games section
     md += "## Today's Games\n\n"
-    md += "| Away | Home | Pitchers | ML | Total Runs |\n"
-    md += "|------|------|----------|-----|------------|\n"
+    md += "| Matchup | Pitchers | Favorite | Total Runs |\n"
+    md += "|---------|----------|----------|------------|\n"
     for g in games:
+        away = g["away"]["abbr"]
+        home = g["home"]["abbr"]
         away_p = g["away"].get("probable_pitcher", "TBD")
         home_p = g["home"].get("probable_pitcher", "TBD")
         away_ml = g["odds"].get("away_ml") or ""
@@ -569,12 +571,21 @@ def main():
         ou = g["odds"].get("over_under") or ""
         status = g.get("status", "")
         if not away_ml and not ou and status != "Scheduled":
-            ml_str = "In Progress"
+            fav_str = "In Progress"
             ou_str = "—"
         else:
-            ml_str = f"{g['away']['abbr']} {away_ml} / {g['home']['abbr']} {home_ml}" if away_ml else "TBD"
+            # Determine favorite from ML
+            try:
+                away_num = int(away_ml)
+                home_num = int(home_ml)
+                if away_num < home_num:
+                    fav_str = f"**{away}** ({away_ml})"
+                else:
+                    fav_str = f"**{home}** ({home_ml})"
+            except (ValueError, TypeError):
+                fav_str = "TBD"
             ou_str = f"O/U {ou} runs" if ou else "TBD"
-        md += f"| {g['away']['abbr']} | {g['home']['abbr']} | {away_p} vs {home_p} | {ml_str} | {ou_str} |\n"
+        md += f"| {away} @ {home} | {away_p} vs {home_p} | {fav_str} | {ou_str} |\n"
     md += "\n"
 
     # Picks section
