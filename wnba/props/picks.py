@@ -360,6 +360,12 @@ def main():
     except Exception:
         pass
 
+    # Expand team_to_game with abbreviation variants
+    for team, game in list(team_to_game.items()):
+        for alias in ABBR_VARIANTS.get(team, []):
+            if alias not in team_to_game:
+                team_to_game[alias] = game
+
     player_teams = {e["player"]: e.get("team", "") for e in viable_edges}
     md += generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, errors)
     md += errors.to_markdown()
