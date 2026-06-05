@@ -24,9 +24,10 @@ ABBR_VARIANTS = {
     "NO": ["NO", "NOP"], "UTAH": ["UTAH", "UTA"], "PHX": ["PHX", "PHO"],
     "WSH": ["WSH", "WAS"], "SAS": ["SAS", "SA"], "GSW": ["GSW", "GS"],
     "NYK": ["NYK", "NY"], "NOP": ["NOP", "NO"], "UTA": ["UTA", "UTAH"],
-    "WAS": ["WAS", "WSH"],
+    "WAS": ["WAS", "WSH"], "PHO": ["PHO", "PHX"],
     # WNBA
     "GSV": ["GSV", "GS"], "LVA": ["LVA", "LV"], "LV": ["LV", "LVA"],
+    "CON": ["CON", "CONN"], "CONN": ["CONN", "CON"],
 }
 
 
