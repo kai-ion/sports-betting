@@ -223,16 +223,27 @@ def main():
 
     date_str = datetime.now().strftime("%Y-%m-%d")
 
-    # Fetch from BettingPros (real sportsbook consensus lines)
+    # Fetch from BettingPros (real sportsbook consensus lines), fallback to Underdog
     from bettingpros import fetch_props
     from bettingpros import organize_by_player as bp_organize
-    from fetch import get_games
+    from fetch import get_games, fetch_prizepicks_wnba, fetch_underdog_wnba
 
     props = fetch_props("wnba")
     games = get_games()
 
+    # If BettingPros has low coverage, supplement with Underdog
+    if len(props) < 30:
+        print(f"  BettingPros only has {len(props)} props, supplementing with Underdog...")
+        ud_props = fetch_underdog_wnba()
+        # Only add Underdog props for players NOT already in BettingPros
+        bp_players = {p["player"] for p in props}
+        for p in ud_props:
+            if p["player"] not in bp_players:
+                props.append(p)
+        print(f"  Total after supplement: {len(props)} props")
+
     if not props:
-        errors.add(ErrorType.PROPS_EMPTY, "No WNBA props from BettingPros")
+        errors.add(ErrorType.PROPS_EMPTY, "No WNBA props from any source")
         print("No WNBA props available.")
         return
 

@@ -116,11 +116,26 @@ def main():
     game_odds = get_game_odds()
     game_context = {"games": game_odds}
 
-    # 2. Get props from BettingPros (real sportsbook consensus lines)
+    # 2. Get props from BettingPros (real sportsbook consensus lines), fallback to Underdog
     print("Fetching props...")
     pp_props = fetch_props("nba")
+
+    # If BettingPros has low coverage, supplement with Underdog
+    if len(pp_props) < 30:
+        print(f"  BettingPros only has {len(pp_props)} props, supplementing with Underdog...")
+        try:
+            from fetch import fetch_underdog_nba
+            ud_props = fetch_underdog_nba()
+            bp_players = {p["player"] for p in pp_props}
+            for p in ud_props:
+                if p["player"] not in bp_players:
+                    pp_props.append(p)
+            print(f"  Total after supplement: {len(pp_props)} props")
+        except Exception:
+            pass
+
     if not pp_props:
-        errors.add(ErrorType.PROPS_EMPTY, "No NBA props from BettingPros")
+        errors.add(ErrorType.PROPS_EMPTY, "No NBA props from any source")
         print("No props available.")
         return
 
