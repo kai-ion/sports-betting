@@ -547,7 +547,8 @@ def main():
         "date": date_str,
         "sport": "MLB",
         "picks": picks,
-        "ranked_edges": ranked_edges[:20],
+        # Persist every edge backing a pick so regenerated reports keep full stats.
+        "ranked_edges": viable_edges,
         "games": game_context,
         "players_analyzed": len(players_lines),
     }
@@ -610,7 +611,8 @@ def main():
     except Exception:
         pass
 
-    md += generate_picks_table_md(picks, viable_edges, team_to_game, player_team_map, errors)
+    md += generate_picks_table_md(picks, viable_edges, team_to_game, player_team_map, errors,
+                                  league="mlb", sport="baseball")
     md += errors.to_markdown()
 
     REPORTS_DIR = DATA_DIR.parent / "reports"

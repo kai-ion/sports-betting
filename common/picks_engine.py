@@ -7,6 +7,7 @@ import boto3
 import json
 import os
 import re
+import requests
 from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
@@ -15,6 +16,41 @@ from botocore.config import Config
 from errors import PipelineErrors, ErrorType
 
 MODEL_ID = os.environ.get("MODEL_ID", "us.anthropic.claude-opus-4-6-v1")
+_ESPN_HEADERS = {"User-Agent": "Mozilla/5.0"}
+_espn_team_cache = {}
+
+
+def lookup_espn_team(player_name, league="wnba", sport="basketball"):
+    """Resolve a player's current team abbreviation from ESPN.
+
+    Fallback for props that arrive without a team (e.g. Underdog feed gaps),
+    so they can still be matched to a game instead of bucketing into Unknown.
+    Returns "" on any failure. Cached per (player, league).
+    """
+    key = (player_name, league)
+    if key in _espn_team_cache:
+        return _espn_team_cache[key]
+    team = ""
+    try:
+        r = requests.get(
+            f"https://site.api.espn.com/apis/common/v3/search"
+            f"?query={player_name}&type=player&sport={sport}&league={league}&limit=1",
+            headers=_ESPN_HEADERS, timeout=10,
+        )
+        items = r.json().get("items", []) if r.status_code == 200 else []
+        if items:
+            pid = items[0].get("id", "")
+            r2 = requests.get(
+                f"https://site.api.espn.com/apis/common/v3/sports/{sport}/{league}/athletes/{pid}",
+                headers=_ESPN_HEADERS, timeout=10,
+            )
+            if r2.status_code == 200:
+                ath = r2.json().get("athlete", {})
+                team = ath.get("team", {}).get("abbreviation", "") or ""
+    except Exception:
+        team = ""
+    _espn_team_cache[key] = team
+    return team
 REGION = os.environ.get("AWS_REGION", "us-east-1")
 
 # ESPN → Underdog abbreviation variants (both directions)
@@ -29,6 +65,7 @@ ABBR_VARIANTS = {
     "GSV": ["GSV", "GS"], "LVA": ["LVA", "LV"], "LV": ["LV", "LVA"],
     "CON": ["CON", "CONN"], "CONN": ["CONN", "CON"],
     "POR": ["POR", "PDX"], "PDX": ["PDX", "POR"],
+    "LA": ["LA", "LAS"], "LAS": ["LAS", "LA"],
 }
 
 
@@ -256,14 +293,24 @@ def generate_game_predictions_md(game_preds, game_context, errors=None):
     return md
 
 
-def generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, errors=None):
+def generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, errors=None,
+                            league="wnba", sport="basketball"):
     """Generate the player props picks markdown section grouped by game."""
     edge_lookup = {(e["player"], e["prop"]): e for e in viable_edges}
 
     by_game = defaultdict(list)
     for i, pick in enumerate(picks, 1):
         team = player_teams.get(pick["player"], "")
+        # Backfill a missing team from ESPN so the pick can map to a game
+        if not team:
+            team = lookup_espn_team(pick["player"], league=league, sport=sport)
         game = team_to_game.get(team, "Unknown")
+        # If the backfilled abbr differs from the games feed, try its variants
+        if game == "Unknown" and team:
+            for alias in ABBR_VARIANTS.get(team, []):
+                if alias in team_to_game:
+                    game = team_to_game[alias]
+                    break
         if game == "Unknown" and team and errors:
             errors.add(ErrorType.TEAM_UNKNOWN, f"{team} ({pick['player']})")
         by_game[game].append((i, pick, team))

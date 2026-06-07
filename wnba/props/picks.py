@@ -330,7 +330,9 @@ def main():
         "date": date_str,
         "sport": "WNBA",
         "picks": picks,
-        "ranked_edges": all_edges[:20],
+        # Persist every edge backing a pick (not just top-20) so reports
+        # regenerated from JSON keep full stats. Falls back to top-20 padding.
+        "ranked_edges": viable_edges,
         "games": games,
         "players_analyzed": len(player_names),
     }
@@ -378,7 +380,8 @@ def main():
                 team_to_game[alias] = game
 
     player_teams = {e["player"]: e.get("team", "") for e in viable_edges}
-    md += generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, errors)
+    md += generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, errors,
+                                  league="wnba", sport="basketball")
     md += errors.to_markdown()
 
     REPORTS_DIR = DATA_DIR.parent / "reports"

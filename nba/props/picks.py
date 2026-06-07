@@ -221,7 +221,8 @@ def main():
     output = {
         "date": date_str,
         "picks": picks,
-        "ranked_edges": ranked_edges[:20],
+        # Persist every edge backing a pick so regenerated reports keep full stats.
+        "ranked_edges": viable_edges,
         "game_context": game_context,
         "players_analyzed": len(players_data),
     }
@@ -259,7 +260,8 @@ def main():
             if home in variants:
                 team_to_game[alias] = matchup
 
-    md += generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, errors)
+    md += generate_picks_table_md(picks, viable_edges, team_to_game, player_teams, errors,
+                                  league="nba", sport="basketball")
     md += errors.to_markdown()
 
     REPORTS_DIR = DATA_DIR.parent / "reports"
