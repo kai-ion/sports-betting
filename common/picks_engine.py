@@ -28,6 +28,7 @@ ABBR_VARIANTS = {
     # WNBA
     "GSV": ["GSV", "GS"], "LVA": ["LVA", "LV"], "LV": ["LV", "LVA"],
     "CON": ["CON", "CONN"], "CONN": ["CONN", "CON"],
+    "POR": ["POR", "PDX"], "PDX": ["PDX", "POR"],
 }
 
 
@@ -197,7 +198,9 @@ def generate_game_predictions_md(game_preds, game_context, errors=None):
             md += f"### {p['away_team']} ({p.get('away_record','')}) @ {p['home_team']} ({p.get('home_record','')})\n\n"
             md += f"| | {p['away_team']} | {p['home_team']} |\n|---|---|---|\n"
             md += f"| Conf | {p.get('away_conf', '')} | {p.get('home_conf', '')} |\n"
-            md += f"| Regular Season | {p.get('away_reg_record', '')} | {p.get('home_reg_record', '')} |\n"
+            away_reg = p.get('away_reg_record') or p.get('away_record', '')
+            home_reg = p.get('home_reg_record') or p.get('home_record', '')
+            md += f"| Regular Season | {away_reg} | {home_reg} |\n"
             if p.get('away_playoff_record') or p.get('home_playoff_record'):
                 md += f"| Playoffs | {p.get('away_playoff_record', '')} | {p.get('home_playoff_record', '')} |\n"
             if p.get('away_l5') or p.get('home_l5'):
