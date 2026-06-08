@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-08",
   "predictions": [
     {
       "home_team": "NY",
@@ -27,8 +27,8 @@
       "market_odds": {
         "spread": "NY -2.5",
         "over_under": 215.5,
-        "home_ml": "-135",
-        "away_ml": "+114",
+        "home_ml": "-130",
+        "away_ml": "+110",
         "provider": "DraftKings"
       }
     }

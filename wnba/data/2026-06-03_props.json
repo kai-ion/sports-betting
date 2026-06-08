@@ -2598,11 +2598,11 @@
       "source": "underdog"
     },
     {
-      "player": "Flau'jae Johnson",
-      "team": "SEA",
+      "player": "Natasha Mack",
+      "team": "PHX",
       "position": "",
       "stat": "Points",
-      "line": 12.5,
+      "line": 7.5,
       "source": "underdog"
     },
     {
@@ -2614,11 +2614,11 @@
       "source": "underdog"
     },
     {
-      "player": "Natasha Mack",
-      "team": "PHX",
+      "player": "Flau'jae Johnson",
+      "team": "SEA",
       "position": "",
       "stat": "Points",
-      "line": 7.5,
+      "line": 12.5,
       "source": "underdog"
     },
     {
@@ -2638,16 +2638,16 @@
       "source": "underdog"
     },
     {
-      "player": "Natisha Hiedeman",
-      "team": "SEA",
+      "player": "Natasha Mack",
+      "team": "PHX",
       "position": "",
       "stat": "Points",
       "line": 9.5,
       "source": "underdog"
     },
     {
-      "player": "Natasha Mack",
-      "team": "PHX",
+      "player": "Natisha Hiedeman",
+      "team": "SEA",
       "position": "",
       "stat": "Points",
       "line": 9.5,
@@ -2662,16 +2662,16 @@
       "source": "underdog"
     },
     {
-      "player": "Natasha Mack",
-      "team": "PHX",
+      "player": "Flau'jae Johnson",
+      "team": "SEA",
       "position": "",
       "stat": "Points",
       "line": 14.5,
       "source": "underdog"
     },
     {
-      "player": "Flau'jae Johnson",
-      "team": "SEA",
+      "player": "Natasha Mack",
+      "team": "PHX",
       "position": "",
       "stat": "Points",
       "line": 14.5,
@@ -2686,6 +2686,14 @@
       "source": "underdog"
     },
     {
+      "player": "Natisha Hiedeman",
+      "team": "SEA",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
       "player": "Flau'jae Johnson",
       "team": "SEA",
       "position": "",
@@ -2694,15 +2702,7 @@
       "source": "underdog"
     },
     {
-      "player": "Natisha Hiedeman",
-      "team": "SEA",
-      "position": "",
-      "stat": "Points",
-      "line": 17.5,
-      "source": "underdog"
-    },
-    {
-      "player": "Natisha Hiedeman",
+      "player": "Flau'jae Johnson",
       "team": "SEA",
       "position": "",
       "stat": "Points",
@@ -2710,7 +2710,7 @@
       "source": "underdog"
     },
     {
-      "player": "Flau'jae Johnson",
+      "player": "Natisha Hiedeman",
       "team": "SEA",
       "position": "",
       "stat": "Points",
@@ -2771,6 +2771,14 @@
       "position": "",
       "stat": "3-Pointers Made",
       "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Awa Fam",
+      "team": "SEA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
       "source": "underdog"
     },
     {
@@ -2790,14 +2798,6 @@
       "source": "underdog"
     },
     {
-      "player": "Awa Fam",
-      "team": "SEA",
-      "position": "",
-      "stat": "Rebounds",
-      "line": 5.5,
-      "source": "underdog"
-    },
-    {
       "player": "Natasha Mack",
       "team": "PHX",
       "position": "",
@@ -2806,7 +2806,7 @@
       "source": "underdog"
     },
     {
-      "player": "Natisha Hiedeman",
+      "player": "Flau'jae Johnson",
       "team": "SEA",
       "position": "",
       "stat": "Rebounds",
@@ -2814,7 +2814,7 @@
       "source": "underdog"
     },
     {
-      "player": "Flau'jae Johnson",
+      "player": "Natisha Hiedeman",
       "team": "SEA",
       "position": "",
       "stat": "Rebounds",
@@ -2894,16 +2894,16 @@
       "source": "underdog"
     },
     {
-      "player": "Awa Fam",
-      "team": "SEA",
+      "player": "Natasha Mack",
+      "team": "PHX",
       "position": "",
       "stat": "Rebounds",
       "line": 9.5,
       "source": "underdog"
     },
     {
-      "player": "Natasha Mack",
-      "team": "PHX",
+      "player": "Awa Fam",
+      "team": "SEA",
       "position": "",
       "stat": "Rebounds",
       "line": 9.5,
@@ -3054,14 +3054,6 @@
       "source": "underdog"
     },
     {
-      "player": "Flau'jae Johnson",
-      "team": "SEA",
-      "position": "",
-      "stat": "Pts+Rebs",
-      "line": 17.5,
-      "source": "underdog"
-    },
-    {
       "player": "Natasha Mack",
       "team": "PHX",
       "position": "",
@@ -3078,6 +3070,14 @@
       "source": "underdog"
     },
     {
+      "player": "Flau'jae Johnson",
+      "team": "SEA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
       "player": "Natasha Mack",
       "team": "PHX",
       "position": "",
@@ -3123,6 +3123,14 @@
       "position": "",
       "stat": "Pts+Rebs",
       "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Flau'jae Johnson",
+      "team": "SEA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
       "source": "underdog"
     },
     {
@@ -3135,14 +3143,6 @@
     },
     {
       "player": "Natisha Hiedeman",
-      "team": "SEA",
-      "position": "",
-      "stat": "Pts+Rebs",
-      "line": 24.5,
-      "source": "underdog"
-    },
-    {
-      "player": "Flau'jae Johnson",
       "team": "SEA",
       "position": "",
       "stat": "Pts+Rebs",
@@ -5973,10 +5973,9 @@
       "Points": 14.5,
       "Rebounds": 7.5
     },
-    "Flau'jae Johnson": {
-      "Points": 14.5,
-      "3-Pointers Made": 1.5,
-      "Rebounds": 6.5,
+    "Natasha Mack": {
+      "Points": 9.5,
+      "Rebounds": 10.5,
       "Pts+Rebs": 19.5
     },
     "Natisha Hiedeman": {
@@ -5988,9 +5987,10 @@
       "Pts+Asts": 19.5,
       "Pts+Rebs": 19.5
     },
-    "Natasha Mack": {
-      "Points": 9.5,
-      "Rebounds": 10.5,
+    "Flau'jae Johnson": {
+      "Points": 14.5,
+      "3-Pointers Made": 1.5,
+      "Rebounds": 6.5,
       "Pts+Rebs": 19.5
     },
     "Caitlin Clark": {

@@ -1,0 +1,771 @@
+{
+  "date": "2026-06-06",
+  "sport": "MLB",
+  "picks": [
+    {
+      "player": "Ben Rice",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 3.3,
+      "score": 100
+    },
+    {
+      "player": "Yandy Diaz",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 3.2,
+      "score": 90
+    },
+    {
+      "player": "CJ Abrams",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 2.9,
+      "score": 90
+    },
+    {
+      "player": "Spencer Horwitz",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 0.7,
+      "score": 100
+    },
+    {
+      "player": "Sam Antonacci",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 0.9,
+      "score": 100
+    },
+    {
+      "player": "Andrew Benintendi",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 0.7,
+      "score": 90
+    },
+    {
+      "player": "Andrew Benintendi",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 0.9,
+      "score": 90
+    },
+    {
+      "player": "Luinder Avila",
+      "prop": "Outs Recorded",
+      "line": 14.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 2.2,
+      "score": 90
+    },
+    {
+      "player": "Will Warren",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 4.9,
+      "score": 90
+    },
+    {
+      "player": "Nolan McLean",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 5.8,
+      "score": 90
+    },
+    {
+      "player": "Nick Kurtz",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 0.8,
+      "score": 90.0
+    },
+    {
+      "player": "Ketel Marte",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 0.8,
+      "score": 90
+    },
+    {
+      "player": "Sam Antonacci",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.1,
+      "score": 90.0
+    },
+    {
+      "player": "Corbin Carroll",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.0,
+      "score": 90.0
+    },
+    {
+      "player": "Kody Clemens",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.2,
+      "score": 90
+    },
+    {
+      "player": "Jacob Misiorowski",
+      "prop": "Hits Allowed",
+      "line": 4.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 3.3,
+      "score": 90
+    },
+    {
+      "player": "Shane McClanahan",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 4.7,
+      "score": 90
+    },
+    {
+      "player": "Kyle Bradish",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 5.0,
+      "score": 90
+    },
+    {
+      "player": "Griffin Canning",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 4.4,
+      "score": 90
+    },
+    {
+      "player": "Jack Leiter",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 5.1,
+      "score": 90
+    },
+    {
+      "player": "Sal Frelick",
+      "prop": "Hits+Runs+RBIs",
+      "line": 2.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.6,
+      "score": 90
+    },
+    {
+      "player": "Yoshinobu Yamamoto",
+      "prop": "Outs Recorded",
+      "line": 18.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 6.4,
+      "score": 90
+    },
+    {
+      "player": "Yoshinobu Yamamoto",
+      "prop": "Pitcher Strikeouts",
+      "line": 7.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 5.8,
+      "score": 90.0
+    },
+    {
+      "player": "Christian Walker",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 2.0,
+      "score": 90.0
+    },
+    {
+      "player": "Jack Kochanowicz",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 5.5,
+      "score": 90
+    },
+    {
+      "player": "Julio Rodriguez",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 0.7,
+      "score": 100
+    },
+    {
+      "player": "Bryce Miller",
+      "prop": "Outs Recorded",
+      "line": 16.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 4.5,
+      "score": 90
+    },
+    {
+      "player": "Brandon Lowe",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 2.5,
+      "score": 90.0
+    },
+    {
+      "player": "Spencer Miles",
+      "prop": "Pitcher Strikeouts",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 6.2,
+      "score": 90
+    },
+    {
+      "player": "Jake Bauers",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 1.9,
+      "score": 90.0
+    }
+  ],
+  "ranked_edges": [
+    {
+      "player": "Sam Antonacci",
+      "team": "CWS",
+      "opponent": "",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.9,
+      "edge": -0.6,
+      "edge_pct": 40.0,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 100
+    },
+    {
+      "player": "Ben Rice",
+      "team": "NYY",
+      "opponent": "BOS",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 3.3,
+      "edge": 1.8,
+      "edge_pct": 120.0,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": 0,
+      "score": 100
+    },
+    {
+      "player": "Spencer Horwitz",
+      "team": "PIT",
+      "opponent": "ATL",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.7,
+      "edge": -0.8,
+      "edge_pct": 53.3,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": 0,
+      "score": 100
+    },
+    {
+      "player": "Julio Rodriguez",
+      "team": "SEA",
+      "opponent": "",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.7,
+      "edge": -0.8,
+      "edge_pct": 53.3,
+      "hit_rate": 90,
+      "l5_hr": 100,
+      "l10_hr": 90,
+      "h2h_hr": null,
+      "score": 100
+    },
+    {
+      "player": "Jake Bauers",
+      "team": "MIL",
+      "opponent": "COL",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.9,
+      "edge": 0.4,
+      "edge_pct": 26.7,
+      "hit_rate": 30,
+      "l5_hr": 40,
+      "l10_hr": 30,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Will Warren",
+      "team": "NYY",
+      "opponent": "BOS",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 4.9,
+      "edge": -12.6,
+      "edge_pct": 72.0,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Spencer Miles",
+      "team": "TOR",
+      "opponent": "BAL",
+      "prop": "Pitcher Strikeouts",
+      "line": 3.5,
+      "pick": "OVER",
+      "projected": 6.2,
+      "edge": 2.7,
+      "edge_pct": 77.1,
+      "hit_rate": 0,
+      "l5_hr": 0,
+      "l10_hr": 0,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Brandon Lowe",
+      "team": "PIT",
+      "opponent": "ATL",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.5,
+      "edge": 1.0,
+      "edge_pct": 66.7,
+      "hit_rate": 30,
+      "l5_hr": 40,
+      "l10_hr": 30,
+      "h2h_hr": 0,
+      "score": 90.0
+    },
+    {
+      "player": "Nolan McLean",
+      "team": "NYM",
+      "opponent": "SD",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.8,
+      "edge": -11.7,
+      "edge_pct": 66.9,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Jacob Misiorowski",
+      "team": "MIL",
+      "opponent": "COL",
+      "prop": "Hits Allowed",
+      "line": 4.5,
+      "pick": "UNDER",
+      "projected": 3.3,
+      "edge": -1.2,
+      "edge_pct": 26.7,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Luinder Avila",
+      "team": "KC",
+      "opponent": "MIN",
+      "prop": "Outs Recorded",
+      "line": 14.5,
+      "pick": "UNDER",
+      "projected": 2.2,
+      "edge": -12.3,
+      "edge_pct": 84.8,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Sam Antonacci",
+      "team": "CWS",
+      "opponent": "",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.1,
+      "edge": -0.4,
+      "edge_pct": 26.7,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Bryce Miller",
+      "team": "SEA",
+      "opponent": "",
+      "prop": "Outs Recorded",
+      "line": 16.5,
+      "pick": "UNDER",
+      "projected": 4.5,
+      "edge": -12.0,
+      "edge_pct": 72.7,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Nick Kurtz",
+      "team": "ATH",
+      "opponent": "HOU",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.8,
+      "edge": -0.7,
+      "edge_pct": 46.7,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Yandy Diaz",
+      "team": "TB",
+      "opponent": "MIA",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 3.2,
+      "edge": 1.7,
+      "edge_pct": 113.3,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Kyle Bradish",
+      "team": "BAL",
+      "opponent": "TOR",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.0,
+      "edge": -12.5,
+      "edge_pct": 71.4,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Shane McClanahan",
+      "team": "TB",
+      "opponent": "MIA",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "projected": 4.7,
+      "edge": -10.8,
+      "edge_pct": 69.7,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Corbin Carroll",
+      "team": "ARI",
+      "opponent": "WSH",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.0,
+      "edge": -0.5,
+      "edge_pct": 33.3,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Kody Clemens",
+      "team": "MIN",
+      "opponent": "KC",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.2,
+      "edge": -0.3,
+      "edge_pct": 20.0,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Griffin Canning",
+      "team": "SD",
+      "opponent": "NYM",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "projected": 4.4,
+      "edge": -11.1,
+      "edge_pct": 71.6,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    }
+  ],
+  "games": {
+    "games": [
+      {
+        "away": "KC",
+        "home": "MIN",
+        "odds": {
+          "spread": "MIN -149",
+          "over_under": 8.5,
+          "home_ml": "-149",
+          "away_ml": "+124"
+        },
+        "away_pitcher": "Luinder Avila",
+        "home_pitcher": "Joe Ryan"
+      },
+      {
+        "away": "CIN",
+        "home": "STL",
+        "odds": {
+          "spread": "STL -126",
+          "over_under": 9.0,
+          "home_ml": "-126",
+          "away_ml": "+105"
+        },
+        "away_pitcher": "Nick Lodolo",
+        "home_pitcher": "Matthew Liberatore"
+      },
+      {
+        "away": "SF",
+        "home": "CHC",
+        "odds": {
+          "spread": "CHC -157",
+          "over_under": 7.5,
+          "home_ml": "-157",
+          "away_ml": "+130"
+        },
+        "away_pitcher": "Landen Roupp",
+        "home_pitcher": "Ben Brown"
+      },
+      {
+        "away": "BAL",
+        "home": "TOR",
+        "odds": {
+          "spread": "TOR -115",
+          "over_under": 8.5,
+          "home_ml": "-115",
+          "away_ml": "-105"
+        },
+        "away_pitcher": "Kyle Bradish",
+        "home_pitcher": "Braydon Fisher"
+      },
+      {
+        "away": "CHW",
+        "home": "PHI",
+        "odds": {
+          "spread": "PHI -141",
+          "over_under": 10.0,
+          "home_ml": "-141",
+          "away_ml": "+117"
+        },
+        "away_pitcher": "Brandon Eisert",
+        "home_pitcher": "Andrew Painter"
+      },
+      {
+        "away": "PIT",
+        "home": "ATL",
+        "odds": {
+          "spread": "ATL -117",
+          "over_under": 8.0,
+          "home_ml": "-117",
+          "away_ml": "-103"
+        },
+        "away_pitcher": "Braxton Ashcraft",
+        "home_pitcher": "Spencer Strider"
+      },
+      {
+        "away": "TB",
+        "home": "MIA",
+        "odds": {
+          "spread": "TB -131",
+          "over_under": 7.5,
+          "home_ml": "+109",
+          "away_ml": "-131"
+        },
+        "away_pitcher": "Shane McClanahan",
+        "home_pitcher": "Lake Bachar"
+      },
+      {
+        "away": "ATH",
+        "home": "HOU",
+        "odds": {
+          "spread": "HOU -130",
+          "over_under": 9.5,
+          "home_ml": "-130",
+          "away_ml": "+108"
+        },
+        "away_pitcher": "Kade Morris",
+        "home_pitcher": "Tatsuya Imai"
+      },
+      {
+        "away": "WSH",
+        "home": "ARI",
+        "odds": {
+          "spread": "ARI -156",
+          "over_under": 9.0,
+          "home_ml": "-156",
+          "away_ml": "+129"
+        },
+        "away_pitcher": "Zack Littell",
+        "home_pitcher": "Eduardo Rodriguez"
+      },
+      {
+        "away": "BOS",
+        "home": "NYY",
+        "odds": {
+          "spread": "NYY -120",
+          "over_under": 8.5,
+          "home_ml": "-120",
+          "away_ml": "-101"
+        },
+        "away_pitcher": "Ranger Suarez",
+        "home_pitcher": "Will Warren"
+      },
+      {
+        "away": "CLE",
+        "home": "TEX",
+        "odds": {
+          "spread": "TEX -122",
+          "over_under": 7.5,
+          "home_ml": "-122",
+          "away_ml": "+101"
+        },
+        "away_pitcher": "Tanner Bibee",
+        "home_pitcher": "Jack Leiter"
+      },
+      {
+        "away": "MIL",
+        "home": "COL",
+        "odds": {
+          "spread": "MIL -273",
+          "over_under": 10.5,
+          "home_ml": "+219",
+          "away_ml": "-273"
+        },
+        "away_pitcher": "Jacob Misiorowski",
+        "home_pitcher": ""
+      },
+      {
+        "away": "LAA",
+        "home": "LAD",
+        "odds": {
+          "spread": "LAD -375",
+          "over_under": 8.5,
+          "home_ml": "-375",
+          "away_ml": "+291"
+        },
+        "away_pitcher": "Jack Kochanowicz",
+        "home_pitcher": "Yoshinobu Yamamoto"
+      },
+      {
+        "away": "NYM",
+        "home": "SD",
+        "odds": {
+          "spread": "NYM -125",
+          "over_under": 7.5,
+          "home_ml": "+104",
+          "away_ml": "-125"
+        },
+        "away_pitcher": "Nolan McLean",
+        "home_pitcher": "Griffin Canning"
+      }
+    ]
+  },
+  "players_analyzed": 60
+}

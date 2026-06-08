@@ -1,4 +1,92 @@
 {
   "date": "2026-06-05",
-  "predictions": []
+  "predictions": [
+    {
+      "home_team": "CHI",
+      "away_team": "CON",
+      "home_projected": 87.3,
+      "away_projected": 80.7,
+      "projected_spread": -6.6,
+      "projected_total": 168.1,
+      "home_win_prob": 83.9,
+      "away_win_prob": 16.1,
+      "home_record": "3-6",
+      "away_record": "2-9",
+      "home_conf": "Eastern",
+      "away_conf": "Eastern",
+      "home_l10": "3-6",
+      "away_l10": "2-8",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "L5",
+      "away_streak": "L1",
+      "home_home_record": "0-4",
+      "away_away_record": "1-6",
+      "market_odds": {
+        "spread": "CHI -6.5",
+        "over_under": 164.5,
+        "home_ml": "-265",
+        "away_ml": "+215",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "LA",
+      "away_team": "DAL",
+      "home_projected": 86.2,
+      "away_projected": 90.3,
+      "projected_spread": 4.2,
+      "projected_total": 176.5,
+      "home_win_prob": 25.9,
+      "away_win_prob": 74.1,
+      "home_record": "4-5",
+      "away_record": "6-3",
+      "home_conf": "Western",
+      "away_conf": "Western",
+      "home_l10": "4-5",
+      "away_l10": "6-3",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "L2",
+      "away_streak": "W3",
+      "home_home_record": "1-4",
+      "away_away_record": "3-1",
+      "market_odds": {
+        "spread": "DAL -1.5",
+        "over_under": 178.5,
+        "home_ml": "+105",
+        "away_ml": "-125",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "POR",
+      "away_team": "PHX",
+      "home_projected": 87.2,
+      "away_projected": 83.3,
+      "projected_spread": -3.9,
+      "projected_total": 170.5,
+      "home_win_prob": 72.6,
+      "away_win_prob": 27.4,
+      "home_record": "6-5",
+      "away_record": "3-8",
+      "home_conf": "Western",
+      "away_conf": "Western",
+      "home_l10": "6-4",
+      "away_l10": "2-8",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "L1",
+      "away_streak": "W1",
+      "home_home_record": "4-3",
+      "away_away_record": "2-4",
+      "market_odds": {
+        "spread": "POR -2.5",
+        "over_under": 161.5,
+        "home_ml": "-148",
+        "away_ml": "+124",
+        "provider": "DraftKings"
+      }
+    }
+  ]
 }

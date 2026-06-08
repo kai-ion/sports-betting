@@ -11,15 +11,6 @@
       "score": 90.0
     },
     {
-      "player": "Devin Vassell",
-      "prop": "Points",
-      "line": 13.5,
-      "pick": "UNDER",
-      "confidence": 8,
-      "projected": 10.5,
-      "score": 87.3
-    },
-    {
       "player": "Victor Wembanyama",
       "prop": "Rebs+Asts",
       "line": 14.5,
@@ -27,6 +18,15 @@
       "confidence": 8,
       "projected": 11.3,
       "score": 83.0
+    },
+    {
+      "player": "Mitchell Robinson",
+      "prop": "Pts+Rebs",
+      "line": 8.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 11.6,
+      "score": 80.0
     },
     {
       "player": "Victor Wembanyama",
@@ -38,13 +38,13 @@
       "score": 80.7
     },
     {
-      "player": "Mitchell Robinson",
-      "prop": "Pts+Rebs",
-      "line": 8.5,
-      "pick": "OVER",
+      "player": "Stephon Castle",
+      "prop": "Pts+Rebs+Asts",
+      "line": 27.5,
+      "pick": "UNDER",
       "confidence": 7,
-      "projected": 11.6,
-      "score": 80.0
+      "projected": 22.1,
+      "score": 83.0
     },
     {
       "player": "Jose Alvarado",
@@ -56,21 +56,21 @@
       "score": 70.0
     },
     {
-      "player": "Stephon Castle",
+      "player": "Victor Wembanyama",
       "prop": "Pts+Rebs+Asts",
-      "line": 27.5,
+      "line": 42.5,
       "pick": "UNDER",
-      "confidence": 6,
-      "projected": 22.1,
-      "score": 83.0
+      "confidence": 7,
+      "projected": 34.6,
+      "score": 70.7
     },
     {
       "player": "Victor Wembanyama",
-      "prop": "Pts+Rebs+Asts",
-      "line": 41.5,
+      "prop": "Pts+Asts",
+      "line": 30.5,
       "pick": "UNDER",
       "confidence": 6,
-      "projected": 34.6,
+      "projected": 25.3,
       "score": 70.7
     },
     {
@@ -90,6 +90,15 @@
       "confidence": 6,
       "projected": 12.3,
       "score": 60.3
+    },
+    {
+      "player": "Jalen Brunson",
+      "prop": "Points",
+      "line": 25.5,
+      "pick": "UNDER",
+      "confidence": 5,
+      "projected": 20.2,
+      "score": 68.0
     },
     {
       "player": "Stephon Castle",
@@ -114,17 +123,8 @@
       "prop": "Pts+Asts",
       "line": 32.5,
       "pick": "UNDER",
-      "confidence": 5,
-      "projected": 25.7,
-      "score": 58.0
-    },
-    {
-      "player": "Jalen Brunson",
-      "prop": "Points",
-      "line": 26.5,
-      "pick": "UNDER",
       "confidence": 4,
-      "projected": 20.2,
+      "projected": 25.7,
       "score": 58.0
     },
     {
@@ -155,24 +155,6 @@
       "consistency": "HIGH",
       "trend": "HOT",
       "score": 90.0
-    },
-    {
-      "player": "Devin Vassell",
-      "team": "SAS",
-      "opponent": "NY",
-      "prop": "Points",
-      "line": 13.5,
-      "pick": "UNDER",
-      "projected": 10.5,
-      "edge": -3.0,
-      "edge_pct": 22.2,
-      "hit_rate": 70,
-      "l5_hr": 80,
-      "l10_hr": 70,
-      "h2h_hr": 67,
-      "consistency": "HIGH",
-      "trend": "COLD",
-      "score": 87.3
     },
     {
       "player": "Victor Wembanyama",
@@ -269,15 +251,33 @@
       "team": "SAS",
       "opponent": "NY",
       "prop": "Pts+Rebs+Asts",
-      "line": 41.5,
+      "line": 42.5,
       "pick": "UNDER",
       "projected": 34.6,
-      "edge": -6.9,
-      "edge_pct": 16.6,
+      "edge": -7.9,
+      "edge_pct": 18.6,
       "hit_rate": 70,
       "l5_hr": 100,
       "l10_hr": 70,
       "h2h_hr": 67,
+      "consistency": "MEDIUM",
+      "trend": "NEUTRAL",
+      "score": 70.7
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "opponent": "NY",
+      "prop": "Pts+Asts",
+      "line": 30.5,
+      "pick": "UNDER",
+      "projected": 25.3,
+      "edge": -5.2,
+      "edge_pct": 17.0,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 50,
       "consistency": "MEDIUM",
       "trend": "NEUTRAL",
       "score": 70.7
@@ -319,6 +319,24 @@
       "score": 70.0
     },
     {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "opponent": "SA",
+      "prop": "Points",
+      "line": 25.5,
+      "pick": "UNDER",
+      "projected": 20.2,
+      "edge": -5.3,
+      "edge_pct": 20.8,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": 67,
+      "consistency": "MEDIUM",
+      "trend": "COLD",
+      "score": 68.0
+    },
+    {
       "player": "Stephon Castle",
       "team": "SAS",
       "opponent": "NY",
@@ -335,24 +353,6 @@
       "consistency": "MEDIUM",
       "trend": "COLD",
       "score": 63.0
-    },
-    {
-      "player": "Victor Wembanyama",
-      "team": "SAS",
-      "opponent": "NY",
-      "prop": "Pts+Asts",
-      "line": 29.5,
-      "pick": "UNDER",
-      "projected": 25.3,
-      "edge": -4.2,
-      "edge_pct": 14.2,
-      "hit_rate": 60,
-      "l5_hr": 60,
-      "l10_hr": 60,
-      "h2h_hr": 50,
-      "consistency": "MEDIUM",
-      "trend": "NEUTRAL",
-      "score": 60.7
     },
     {
       "player": "Victor Wembanyama",
@@ -430,24 +430,6 @@
       "player": "Jalen Brunson",
       "team": "NYK",
       "opponent": "SA",
-      "prop": "Points",
-      "line": 26.5,
-      "pick": "UNDER",
-      "projected": 20.2,
-      "edge": -6.3,
-      "edge_pct": 23.8,
-      "hit_rate": 50,
-      "l5_hr": 60,
-      "l10_hr": 50,
-      "h2h_hr": 67,
-      "consistency": "MEDIUM",
-      "trend": "COLD",
-      "score": 58.0
-    },
-    {
-      "player": "Jalen Brunson",
-      "team": "NYK",
-      "opponent": "SA",
       "prop": "Pts+Rebs",
       "line": 29.5,
       "pick": "UNDER",
@@ -471,7 +453,7 @@
         "status": "Scheduled",
         "date": "2026-06-09T00:30Z",
         "spread": "NY -2.5",
-        "over_under": 216.5,
+        "over_under": 215.5,
         "provider": "DraftKings"
       }
     ]

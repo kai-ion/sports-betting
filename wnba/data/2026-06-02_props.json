@@ -70,7 +70,7 @@
       "team": "CHI",
       "position": "",
       "stat": "Points",
-      "line": 15.5,
+      "line": 16.5,
       "source": "underdog"
     },
     {
@@ -2402,6 +2402,14 @@
       "source": "underdog"
     },
     {
+      "player": "Cameron Brink",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
       "player": "Jackie Young",
       "team": "LVA",
       "position": "",
@@ -2414,28 +2422,20 @@
       "team": "LAS",
       "position": "",
       "stat": "Points",
-      "line": 8.5,
-      "source": "underdog"
-    },
-    {
-      "player": "Cameron Brink",
-      "team": "LAS",
-      "position": "",
-      "stat": "Points",
       "line": 5.5,
       "source": "underdog"
     },
     {
-      "player": "Cameron Brink",
-      "team": "LAS",
+      "player": "Jackie Young",
+      "team": "LVA",
       "position": "",
       "stat": "Points",
       "line": 11.5,
       "source": "underdog"
     },
     {
-      "player": "Jackie Young",
-      "team": "LVA",
+      "player": "Cameron Brink",
+      "team": "LAS",
       "position": "",
       "stat": "Points",
       "line": 11.5,
@@ -2498,16 +2498,16 @@
       "source": "underdog"
     },
     {
-      "player": "Jackie Young",
-      "team": "LVA",
+      "player": "Cameron Brink",
+      "team": "LAS",
       "position": "",
       "stat": "Rebounds",
       "line": 4.5,
       "source": "underdog"
     },
     {
-      "player": "Cameron Brink",
-      "team": "LAS",
+      "player": "Jackie Young",
+      "team": "LVA",
       "position": "",
       "stat": "Rebounds",
       "line": 4.5,
@@ -2522,27 +2522,19 @@
       "source": "underdog"
     },
     {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
       "player": "Cameron Brink",
       "team": "LAS",
       "position": "",
       "stat": "Rebounds",
       "line": 3.5,
-      "source": "underdog"
-    },
-    {
-      "player": "Jackie Young",
-      "team": "LVA",
-      "position": "",
-      "stat": "Rebounds",
-      "line": 3.5,
-      "source": "underdog"
-    },
-    {
-      "player": "Jackie Young",
-      "team": "LVA",
-      "position": "",
-      "stat": "Rebounds",
-      "line": 5.5,
       "source": "underdog"
     },
     {
@@ -2554,16 +2546,24 @@
       "source": "underdog"
     },
     {
-      "player": "Cameron Brink",
-      "team": "LAS",
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
       "position": "",
       "stat": "Rebounds",
       "line": 6.5,
       "source": "underdog"
     },
     {
-      "player": "Jackie Young",
-      "team": "LVA",
+      "player": "Cameron Brink",
+      "team": "LAS",
       "position": "",
       "stat": "Rebounds",
       "line": 6.5,
@@ -2714,19 +2714,19 @@
       "source": "underdog"
     },
     {
-      "player": "Cameron Brink",
-      "team": "LAS",
-      "position": "",
-      "stat": "Pts+Rebs",
-      "line": 13.5,
-      "source": "underdog"
-    },
-    {
       "player": "Jackie Young",
       "team": "LVA",
       "position": "",
       "stat": "Pts+Rebs",
       "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Cameron Brink",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 13.5,
       "source": "underdog"
     },
     {
@@ -5523,6 +5523,11 @@
       "Pts+Rebs": 29.5,
       "Rebs+Asts": 11.5
     },
+    "Cameron Brink": {
+      "Points": 11.5,
+      "Rebounds": 5.5,
+      "Pts+Rebs": 14.5
+    },
     "Jackie Young": {
       "Points": 19.5,
       "3-Pointers Made": 3.5,
@@ -5532,11 +5537,6 @@
       "Pts+Asts": 24.5,
       "Pts+Rebs": 24.5,
       "Rebs+Asts": 9.5
-    },
-    "Cameron Brink": {
-      "Points": 11.5,
-      "Rebounds": 5.5,
-      "Pts+Rebs": 14.5
     },
     "Nneka Ogwumike": {
       "Points": 19.5,

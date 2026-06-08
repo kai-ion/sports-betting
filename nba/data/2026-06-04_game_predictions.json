@@ -1,4 +1,36 @@
 {
   "date": "2026-06-04",
-  "predictions": []
+  "predictions": [
+    {
+      "home_team": "SA",
+      "away_team": "NY",
+      "home_projected": 109.3,
+      "away_projected": 112.9,
+      "projected_spread": 3.6,
+      "projected_total": 222.2,
+      "home_win_prob": 28.9,
+      "away_win_prob": 71.1,
+      "home_record": "62-20",
+      "away_record": "53-29",
+      "home_conf": "Western",
+      "away_conf": "Eastern",
+      "home_l10": "6-4",
+      "away_l10": "10-0",
+      "home_streak": "L1",
+      "away_streak": "W12",
+      "home_home_record": "32-8",
+      "away_away_record": "22-19",
+      "home_reg_record": "62-20",
+      "away_reg_record": "53-29",
+      "home_playoff_record": "12-7",
+      "away_playoff_record": "13-2",
+      "market_odds": {
+        "spread": "SA -5.5",
+        "over_under": 214.5,
+        "home_ml": "-225",
+        "away_ml": "+185",
+        "provider": "DraftKings"
+      }
+    }
+  ]
 }

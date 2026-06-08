@@ -26,9 +26,9 @@
       "away_playoff_record": "13-2",
       "market_odds": {
         "spread": "SA -6.5",
-        "over_under": 215.5,
-        "home_ml": "-218",
-        "away_ml": "+180",
+        "over_under": 216.5,
+        "home_ml": "-245",
+        "away_ml": "+200",
         "provider": "DraftKings"
       }
     }

@@ -3,13 +3,22 @@
   "sport": "WNBA",
   "picks": [
     {
-      "player": "Allisha Gray",
-      "prop": "Points",
-      "line": 19.5,
+      "player": "Myisha Hines-Allen",
+      "prop": "Assists",
+      "line": 3.5,
       "pick": "UNDER",
       "confidence": 9,
-      "projected": 16.4,
-      "score": 97.3
+      "projected": 2.2,
+      "score": 100
+    },
+    {
+      "player": "Breanna Stewart",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 0.7,
+      "score": 100
     },
     {
       "player": "Caitlin Clark",
@@ -18,34 +27,25 @@
       "pick": "UNDER",
       "confidence": 8,
       "projected": 2.2,
-      "score": 90.0
+      "score": 90
     },
     {
-      "player": "Breanna Stewart",
+      "player": "Allisha Gray",
+      "prop": "Assists",
+      "line": 2.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.8,
+      "score": 90
+    },
+    {
+      "player": "Aliyah Boston",
       "prop": "3-Pointers Made",
       "line": 1.5,
       "pick": "UNDER",
       "confidence": 8,
-      "projected": 0.7,
-      "score": 90.0
-    },
-    {
-      "player": "Jackie Young",
-      "prop": "Points",
-      "line": 17.5,
-      "pick": "UNDER",
-      "confidence": 8,
-      "projected": 12.6,
-      "score": 88.2
-    },
-    {
-      "player": "Natasha Howard",
-      "prop": "Assists",
-      "line": 2.5,
-      "pick": "OVER",
-      "confidence": 8,
-      "projected": 3.0,
-      "score": 90.0
+      "projected": 1.0,
+      "score": 90
     },
     {
       "player": "Jackie Young",
@@ -57,49 +57,13 @@
       "score": 84.1
     },
     {
-      "player": "Allisha Gray",
-      "prop": "Pts+Asts",
-      "line": 21.5,
-      "pick": "UNDER",
-      "confidence": 7,
-      "projected": 19.0,
-      "score": 84.5
-    },
-    {
-      "player": "A'ja Wilson",
-      "prop": "Assists",
-      "line": 3.5,
-      "pick": "UNDER",
-      "confidence": 7,
-      "projected": 2.6,
-      "score": 80.0
-    },
-    {
-      "player": "Breanna Stewart",
-      "prop": "Rebounds",
-      "line": 7.5,
+      "player": "Janelle Salaun",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
       "pick": "OVER",
       "confidence": 7,
-      "projected": 8.3,
-      "score": 80.0
-    },
-    {
-      "player": "A'ja Wilson",
-      "prop": "Pts+Asts",
-      "line": 29.5,
-      "pick": "UNDER",
-      "confidence": 7,
-      "projected": 26.4,
-      "score": 74.5
-    },
-    {
-      "player": "Olivia Miles",
-      "prop": "Pts+Rebs",
-      "line": 20.5,
-      "pick": "OVER",
-      "confidence": 7,
-      "projected": 22.7,
-      "score": 74.5
+      "projected": 2.7,
+      "score": 90
     },
     {
       "player": "Jackie Young",
@@ -120,40 +84,157 @@
       "score": 73.8
     },
     {
-      "player": "Jordin Canada",
-      "prop": "3-Pointers Made",
-      "line": 0.5,
-      "pick": "OVER",
-      "confidence": 6,
-      "projected": 0.9,
-      "score": 80.0
-    },
-    {
-      "player": "Nia Coffey",
+      "player": "A'ja Wilson",
       "prop": "Assists",
-      "line": 1.5,
-      "pick": "OVER",
-      "confidence": 6,
-      "projected": 1.9,
-      "score": 80.0
+      "line": 3.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 2.6,
+      "score": 80
     },
     {
-      "player": "Olivia Miles",
-      "prop": "3-Pointers Made",
-      "line": 0.5,
+      "player": "Janelle Salaun",
+      "prop": "Pts+Rebs",
+      "line": 16.5,
       "pick": "OVER",
-      "confidence": 5,
-      "projected": 1.2,
-      "score": 90.0
+      "confidence": 7,
+      "projected": 18.9,
+      "score": 80
     },
     {
       "player": "Breanna Stewart",
       "prop": "Assists",
       "line": 3.5,
       "pick": "UNDER",
+      "confidence": 7,
+      "projected": 2.7,
+      "score": 80
+    },
+    {
+      "player": "Jordin Canada",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
       "confidence": 6,
-      "projected": 2.5,
-      "score": 70.0
+      "projected": 0.9,
+      "score": 80
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 1.3,
+      "score": 90
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 4.1,
+      "score": 80
+    },
+    {
+      "player": "Olivia Miles",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 1.2,
+      "score": 90
+    },
+    {
+      "player": "Natasha Howard",
+      "prop": "Assists",
+      "line": 2.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 3.0,
+      "score": 90
+    },
+    {
+      "player": "Awa Fam",
+      "prop": "Rebounds",
+      "line": 4.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 5.0,
+      "score": 90
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Rebounds",
+      "line": 2.5,
+      "pick": "UNDER",
+      "confidence": 4,
+      "projected": 2.0,
+      "score": 90
+    },
+    {
+      "player": "Flau'jae Johnson",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 4,
+      "projected": 1.2,
+      "score": 80
+    },
+    {
+      "player": "Nia Coffey",
+      "prop": "Assists",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 1.9,
+      "score": 80
+    },
+    {
+      "player": "Courtney Williams",
+      "prop": "Assists",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 4.3,
+      "score": 80
+    },
+    {
+      "player": "Leonie Fiebich",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 1.2,
+      "score": 80
+    },
+    {
+      "player": "Janelle Salaun",
+      "prop": "Points",
+      "line": 12.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 14.5,
+      "score": 73.1
+    },
+    {
+      "player": "Leonie Fiebich",
+      "prop": "Points",
+      "line": 8.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 7.0,
+      "score": 72.5
+    },
+    {
+      "player": "Breanna Stewart",
+      "prop": "Points",
+      "line": 19.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 17.1,
+      "score": 71
     },
     {
       "player": "A'ja Wilson",
@@ -162,70 +243,16 @@
       "pick": "UNDER",
       "confidence": 6,
       "projected": 1.0,
-      "score": 70.0
+      "score": 70
     },
     {
-      "player": "Courtney Williams",
-      "prop": "Assists",
-      "line": 3.5,
-      "pick": "OVER",
-      "confidence": 5,
-      "projected": 4.3,
-      "score": 80.0
-    },
-    {
-      "player": "Aliyah Boston",
-      "prop": "Assists",
+      "player": "Marine Johannes",
+      "prop": "3-Pointers Made",
       "line": 2.5,
       "pick": "OVER",
-      "confidence": 6,
+      "confidence": 5,
       "projected": 3.0,
-      "score": 70.0
-    },
-    {
-      "player": "Olivia Miles",
-      "prop": "Points",
-      "line": 15.5,
-      "pick": "OVER",
-      "confidence": 6,
-      "projected": 17.5,
-      "score": 67.8
-    },
-    {
-      "player": "Breanna Stewart",
-      "prop": "Points",
-      "line": 19.5,
-      "pick": "UNDER",
-      "confidence": 5,
-      "projected": 17.1,
-      "score": 61.0
-    },
-    {
-      "player": "Rhyne Howard",
-      "prop": "3-Pointers Made",
-      "line": 2.5,
-      "pick": "OVER",
-      "confidence": 5,
-      "projected": 3.7,
-      "score": 60.0
-    },
-    {
-      "player": "Rhyne Howard",
-      "prop": "Assists",
-      "line": 3.5,
-      "pick": "UNDER",
-      "confidence": 5,
-      "projected": 2.8,
-      "score": 60.0
-    },
-    {
-      "player": "Allisha Gray",
-      "prop": "3-Pointers Made",
-      "line": 1.5,
-      "pick": "OVER",
-      "confidence": 4,
-      "projected": 1.8,
-      "score": 70.0
+      "score": 80
     },
     {
       "player": "Kayla Thornton",
@@ -234,62 +261,86 @@
       "pick": "OVER",
       "confidence": 4,
       "projected": 2.0,
-      "score": 70.0
+      "score": 70
     },
     {
-      "player": "Cecilia Zandalasini",
-      "prop": "3-Pointers Made",
-      "line": 1.5,
-      "pick": "OVER",
-      "confidence": 4,
-      "projected": 1.9,
-      "score": 60.0
-    },
-    {
-      "player": "Cecilia Zandalasini",
+      "player": "Aliyah Boston",
       "prop": "Assists",
-      "line": 1.5,
+      "line": 2.5,
       "pick": "OVER",
-      "confidence": 4,
-      "projected": 1.9,
-      "score": 60.0
-    },
-    {
-      "player": "Kayla McBride",
-      "prop": "3-Pointers Made",
-      "line": 1.5,
-      "pick": "OVER",
-      "confidence": 4,
-      "projected": 1.7,
-      "score": 60.0
-    },
-    {
-      "player": "Caitlin Clark",
-      "prop": "Points",
-      "line": 19.5,
-      "pick": "UNDER",
-      "confidence": 4,
-      "projected": 17.5,
-      "score": 59.9
+      "confidence": 5,
+      "projected": 3.0,
+      "score": 70
     }
   ],
   "ranked_edges": [
     {
-      "player": "Allisha Gray",
-      "prop": "Points",
-      "line": 19.5,
+      "player": "Myisha Hines-Allen",
+      "prop": "Assists",
+      "line": 3.5,
       "pick": "UNDER",
-      "projected": 16.4,
-      "edge": -3.1,
-      "edge_pct": 15.7,
+      "projected": 2.2,
+      "edge": -1.3,
+      "edge_pct": 36.7,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "COLD",
+      "score": 100,
+      "games_sample": 54,
+      "team": "IND"
+    },
+    {
+      "player": "Breanna Stewart",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.7,
+      "edge": -0.8,
+      "edge_pct": 52.8,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": 80,
+      "trend": "COLD",
+      "score": 100,
+      "games_sample": 48,
+      "team": "NYL"
+    },
+    {
+      "player": "Allisha Gray",
+      "prop": "Assists",
+      "line": 2.5,
+      "pick": "UNDER",
+      "projected": 1.8,
+      "edge": -0.7,
+      "edge_pct": 29.1,
       "hit_rate": 80,
       "l5_hr": 80,
       "l10_hr": 80,
-      "h2h_hr": 40,
-      "trend": "COLD",
-      "score": 97.3,
-      "games_sample": 48,
+      "h2h_hr": 33,
+      "trend": "NEUTRAL",
+      "score": 90,
+      "games_sample": 59,
       "team": "ATL"
+    },
+    {
+      "player": "Olivia Miles",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "projected": 1.2,
+      "edge": 0.7,
+      "edge_pct": 73.9,
+      "hit_rate": 30,
+      "l5_hr": 20,
+      "l10_hr": 30,
+      "h2h_hr": null,
+      "trend": "HOT",
+      "score": 90.0,
+      "games_sample": 13,
+      "team": "MIN"
     },
     {
       "player": "Caitlin Clark",
@@ -326,72 +377,89 @@
       "team": "MIN"
     },
     {
-      "player": "Olivia Miles",
-      "prop": "3-Pointers Made",
-      "line": 0.5,
-      "pick": "OVER",
-      "projected": 1.2,
-      "edge": 0.7,
-      "edge_pct": 73.9,
-      "hit_rate": 30,
-      "l5_hr": 20,
-      "l10_hr": 30,
-      "h2h_hr": null,
-      "trend": "HOT",
-      "score": 90.0,
-      "games_sample": 13,
-      "team": "MIN"
-    },
-    {
-      "player": "Breanna Stewart",
+      "player": "Aliyah Boston",
       "prop": "3-Pointers Made",
       "line": 1.5,
       "pick": "UNDER",
-      "projected": 0.7,
-      "edge": -0.8,
-      "edge_pct": 53.1,
+      "projected": 1.0,
+      "edge": -0.5,
+      "edge_pct": 33.4,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 90,
+      "games_sample": 66,
+      "team": "IND"
+    },
+    {
+      "player": "Janelle Salaun",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.7,
+      "edge": 1.2,
+      "edge_pct": 79.4,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 20,
+      "trend": "HOT",
+      "score": 90.0,
+      "games_sample": 48,
+      "team": "GSV"
+    },
+    {
+      "player": "Awa Fam",
+      "prop": "Rebounds",
+      "line": 4.5,
+      "pick": "OVER",
+      "projected": 5.0,
+      "edge": 0.5,
+      "edge_pct": 11.1,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "trend": "NEUTRAL",
+      "score": 90,
+      "games_sample": 5,
+      "team": "SEA"
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Rebounds",
+      "line": 2.5,
+      "pick": "UNDER",
+      "projected": 2.0,
+      "edge": -0.5,
+      "edge_pct": 19.8,
       "hit_rate": 90,
       "l5_hr": 80,
       "l10_hr": 90,
       "h2h_hr": null,
-      "trend": "NEUTRAL",
+      "trend": "HOT",
       "score": 90,
-      "games_sample": 12,
-      "team": "NYL"
+      "games_sample": 65,
+      "team": "SEA"
     },
     {
-      "player": "Jackie Young",
-      "prop": "Points",
-      "line": 17.5,
+      "player": "Sabrina Ionescu",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
       "pick": "UNDER",
-      "projected": 12.6,
-      "edge": -4.9,
-      "edge_pct": 28.2,
-      "hit_rate": 80,
-      "l5_hr": 80,
-      "l10_hr": 80,
-      "h2h_hr": 40,
-      "trend": "COLD",
-      "score": 88.2,
-      "games_sample": 70,
-      "team": "LVA"
-    },
-    {
-      "player": "Allisha Gray",
-      "prop": "Pts+Asts",
-      "line": 21.5,
-      "pick": "UNDER",
-      "projected": 19.0,
-      "edge": -2.5,
-      "edge_pct": 11.5,
+      "projected": 1.3,
+      "edge": -0.2,
+      "edge_pct": 10.2,
       "hit_rate": 70,
-      "l5_hr": 80,
+      "l5_hr": 60,
       "l10_hr": 70,
-      "h2h_hr": 40,
+      "h2h_hr": 20,
       "trend": "COLD",
-      "score": 84.5,
-      "games_sample": 48,
-      "team": "ATL"
+      "score": 90.0,
+      "games_sample": 47,
+      "team": "NYL"
     },
     {
       "player": "Jackie Young",
@@ -428,21 +496,21 @@
       "team": "LVA"
     },
     {
-      "player": "Jordin Canada",
+      "player": "Marine Johannes",
       "prop": "3-Pointers Made",
-      "line": 0.5,
+      "line": 2.5,
       "pick": "OVER",
-      "projected": 0.9,
-      "edge": 0.4,
-      "edge_pct": 37.3,
-      "hit_rate": 70,
+      "projected": 3.0,
+      "edge": 0.5,
+      "edge_pct": 20.8,
+      "hit_rate": 60,
       "l5_hr": 60,
-      "l10_hr": 70,
-      "h2h_hr": 60,
-      "trend": "NEUTRAL",
+      "l10_hr": 60,
+      "h2h_hr": 25,
+      "trend": "HOT",
       "score": 80.0,
-      "games_sample": 43,
-      "team": "ATL"
+      "games_sample": 58,
+      "team": "NYL"
     },
     {
       "player": "Nia Coffey",
@@ -479,140 +547,72 @@
       "team": "MIN"
     },
     {
-      "player": "Breanna Stewart",
-      "prop": "Rebounds",
-      "line": 7.5,
+      "player": "Jordin Canada",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
       "pick": "OVER",
-      "projected": 8.3,
-      "edge": 0.8,
-      "edge_pct": 10.9,
+      "projected": 0.9,
+      "edge": 0.4,
+      "edge_pct": 37.3,
+      "hit_rate": 70,
+      "l5_hr": 60,
+      "l10_hr": 70,
+      "h2h_hr": 60,
+      "trend": "NEUTRAL",
+      "score": 80.0,
+      "games_sample": 43,
+      "team": "ATL"
+    },
+    {
+      "player": "Breanna Stewart",
+      "prop": "Assists",
+      "line": 3.5,
+      "pick": "UNDER",
+      "projected": 2.7,
+      "edge": -0.8,
+      "edge_pct": 23.0,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 60,
+      "trend": "COLD",
+      "score": 80.0,
+      "games_sample": 48,
+      "team": "NYL"
+    },
+    {
+      "player": "Janelle Salaun",
+      "prop": "Pts+Rebs",
+      "line": 16.5,
+      "pick": "OVER",
+      "projected": 18.9,
+      "edge": 2.4,
+      "edge_pct": 14.7,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 40,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 48,
+      "team": "GSV"
+    },
+    {
+      "player": "Flau'jae Johnson",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.2,
+      "edge": -0.3,
+      "edge_pct": 23.2,
       "hit_rate": 70,
       "l5_hr": 60,
       "l10_hr": 70,
       "h2h_hr": null,
       "trend": "NEUTRAL",
       "score": 80.0,
-      "games_sample": 12,
-      "team": "NYL"
-    },
-    {
-      "player": "A'ja Wilson",
-      "prop": "Pts+Asts",
-      "line": 29.5,
-      "pick": "UNDER",
-      "projected": 26.4,
-      "edge": -3.1,
-      "edge_pct": 10.4,
-      "hit_rate": 80,
-      "l5_hr": 80,
-      "l10_hr": 80,
-      "h2h_hr": 40,
-      "trend": "NEUTRAL",
-      "score": 74.5,
-      "games_sample": 65,
-      "team": "LVA"
-    },
-    {
-      "player": "Olivia Miles",
-      "prop": "Pts+Rebs",
-      "line": 20.5,
-      "pick": "OVER",
-      "projected": 22.7,
-      "edge": 2.2,
-      "edge_pct": 10.8,
-      "hit_rate": 60,
-      "l5_hr": 100,
-      "l10_hr": 60,
-      "h2h_hr": null,
-      "trend": "HOT",
-      "score": 74.5,
       "games_sample": 13,
-      "team": "MIN"
-    },
-    {
-      "player": "Jackie Young",
-      "prop": "Pts+Rebs+Asts",
-      "line": 28.5,
-      "pick": "UNDER",
-      "projected": 23.3,
-      "edge": -5.2,
-      "edge_pct": 18.2,
-      "hit_rate": 70,
-      "l5_hr": 60,
-      "l10_hr": 70,
-      "h2h_hr": 40,
-      "trend": "COLD",
-      "score": 74.1,
-      "games_sample": 70,
-      "team": "LVA"
-    },
-    {
-      "player": "Jackie Young",
-      "prop": "Pts+Asts",
-      "line": 23.5,
-      "pick": "UNDER",
-      "projected": 18.8,
-      "edge": -4.7,
-      "edge_pct": 20.0,
-      "hit_rate": 70,
-      "l5_hr": 60,
-      "l10_hr": 70,
-      "h2h_hr": 40,
-      "trend": "COLD",
-      "score": 73.8,
-      "games_sample": 70,
-      "team": "LVA"
-    },
-    {
-      "player": "Allisha Gray",
-      "prop": "3-Pointers Made",
-      "line": 1.5,
-      "pick": "OVER",
-      "projected": 1.8,
-      "edge": 0.3,
-      "edge_pct": 17.1,
-      "hit_rate": 40,
-      "l5_hr": 40,
-      "l10_hr": 40,
-      "h2h_hr": 80,
-      "trend": "COLD",
-      "score": 70.0,
-      "games_sample": 48,
-      "team": "ATL"
-    },
-    {
-      "player": "A'ja Wilson",
-      "prop": "3-Pointers Made",
-      "line": 1.5,
-      "pick": "UNDER",
-      "projected": 1.0,
-      "edge": -0.5,
-      "edge_pct": 32.1,
-      "hit_rate": 60,
-      "l5_hr": 60,
-      "l10_hr": 60,
-      "h2h_hr": 100,
-      "trend": "NEUTRAL",
-      "score": 70.0,
-      "games_sample": 65,
-      "team": "LVA"
-    },
-    {
-      "player": "Kayla Thornton",
-      "prop": "3-Pointers Made",
-      "line": 1.5,
-      "pick": "OVER",
-      "projected": 2.0,
-      "edge": 0.5,
-      "edge_pct": 32.1,
-      "hit_rate": 40,
-      "l5_hr": 40,
-      "l10_hr": 40,
-      "h2h_hr": null,
-      "trend": "COLD",
-      "score": 70.0,
-      "games_sample": 36,
-      "team": "GSV"
+      "team": "SEA"
     }
   ],
   "games": [
@@ -625,11 +625,8 @@
         "abbr": "SEA",
         "name": "Seattle Storm"
       },
-      "odds": {
-        "spread": "MIN -13.5",
-        "over_under": 162.5
-      },
-      "status": "Scheduled"
+      "odds": {},
+      "status": "Halftime"
     },
     {
       "home": {
@@ -641,7 +638,7 @@
         "name": "Golden State Valkyries"
       },
       "odds": {
-        "spread": "LV -2.5",
+        "spread": "LV -3.5",
         "over_under": 167.5
       },
       "status": "Scheduled"
@@ -657,7 +654,7 @@
       },
       "odds": {
         "spread": "ATL -10.5",
-        "over_under": 158.5
+        "over_under": 157.5
       },
       "status": "Scheduled"
     },
@@ -672,10 +669,10 @@
       },
       "odds": {
         "spread": "NY -3.5",
-        "over_under": 174.5
+        "over_under": 175.5
       },
       "status": "Scheduled"
     }
   ],
-  "players_analyzed": 31
+  "players_analyzed": 33
 }
