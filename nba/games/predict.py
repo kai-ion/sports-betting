@@ -229,7 +229,7 @@ def main():
 
     predictions = []
     for game in games:
-        if game["status"] != "Scheduled":
+        if game["status"] == "Final":
             continue
 
         home_abbr = game["home"]["abbr"]

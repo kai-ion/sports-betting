@@ -293,10 +293,10 @@ def rank_all_edges(players_lines, player_team_map, games):
     """Score all props and rank by edge."""
     edges = []
 
-    # Build opponent lookup from games
+    # Build opponent lookup from games (skip only completed games)
     team_pitcher = {}
     for g in games:
-        if g.get("status") != "Scheduled":
+        if g.get("status") == "Final":
             continue
         away = g.get("away", {}).get("abbr", "")
         home = g.get("home", {}).get("abbr", "")
@@ -528,7 +528,7 @@ def main():
     game_context = {"games": [{"away": g["away"]["abbr"], "home": g["home"]["abbr"],
                                "odds": g["odds"], "away_pitcher": g["away"].get("probable_pitcher", ""),
                                "home_pitcher": g["home"].get("probable_pitcher", "")}
-                              for g in games if g["status"] == "Scheduled"]}
+                              for g in games if g["status"] != "Final"]}
 
     picks = get_claude_picks(viable_edges, game_context, sport="MLB", errors=errors)
 
@@ -571,8 +571,11 @@ def main():
         home_ml = g["odds"].get("home_ml") or ""
         ou = g["odds"].get("over_under") or ""
         status = g.get("status", "")
-        if not away_ml and not ou and status != "Scheduled":
-            fav_str = "In Progress"
+        if status == "Final":
+            fav_str = "Final"
+            ou_str = "—"
+        elif not away_ml and not ou:
+            fav_str = status if status else "TBD"
             ou_str = "—"
         else:
             # Determine favorite from ML
