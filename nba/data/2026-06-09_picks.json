@@ -1,0 +1,207 @@
+{
+  "date": "2026-06-09",
+  "picks": [
+    {
+      "player": "Devin Vassell",
+      "prop": "Pts+Rebs",
+      "line": 18.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 15.3,
+      "score": 67.3
+    },
+    {
+      "player": "Josh Hart",
+      "prop": "Pts+Rebs",
+      "line": 19.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 16.2,
+      "score": 67.7
+    },
+    {
+      "player": "Victor Wembanyama",
+      "prop": "Pts+Rebs+Asts",
+      "line": 42.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 36.1,
+      "score": 62.0
+    },
+    {
+      "player": "Jalen Brunson",
+      "prop": "Pts+Rebs+Asts",
+      "line": 36.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 30.7,
+      "score": 59.0
+    },
+    {
+      "player": "Josh Hart",
+      "prop": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 20.8,
+      "score": 57.7
+    },
+    {
+      "player": "Jalen Brunson",
+      "prop": "Pts+Asts",
+      "line": 32.5,
+      "pick": "UNDER",
+      "confidence": 5,
+      "projected": 27.6,
+      "score": 49.0
+    },
+    {
+      "player": "Jalen Brunson",
+      "prop": "Points",
+      "line": 26.5,
+      "pick": "UNDER",
+      "confidence": 5,
+      "projected": 22.4,
+      "score": 49.0
+    }
+  ],
+  "ranked_edges": [
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "opponent": "SA",
+      "prop": "Pts+Rebs",
+      "line": 19.5,
+      "pick": "UNDER",
+      "projected": 16.2,
+      "edge": -3.3,
+      "edge_pct": 16.9,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": 55,
+      "consistency": "MEDIUM",
+      "trend": "COLD",
+      "score": 67.7
+    },
+    {
+      "player": "Devin Vassell",
+      "team": "SAS",
+      "opponent": "NY",
+      "prop": "Pts+Rebs",
+      "line": 18.5,
+      "pick": "UNDER",
+      "projected": 15.3,
+      "edge": -3.2,
+      "edge_pct": 17.3,
+      "hit_rate": 50,
+      "l5_hr": 80,
+      "l10_hr": 50,
+      "h2h_hr": 71,
+      "consistency": "HIGH",
+      "trend": "COLD",
+      "score": 67.3
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "opponent": "NY",
+      "prop": "Pts+Rebs+Asts",
+      "line": 42.5,
+      "pick": "UNDER",
+      "projected": 36.1,
+      "edge": -6.4,
+      "edge_pct": 15.1,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 57,
+      "consistency": "MEDIUM",
+      "trend": "NEUTRAL",
+      "score": 62.0
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "opponent": "SA",
+      "prop": "Pts+Rebs+Asts",
+      "line": 36.5,
+      "pick": "UNDER",
+      "projected": 30.7,
+      "edge": -5.8,
+      "edge_pct": 15.9,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 60,
+      "consistency": "MEDIUM",
+      "trend": "NEUTRAL",
+      "score": 59.0
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "opponent": "SA",
+      "prop": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "pick": "UNDER",
+      "projected": 20.8,
+      "edge": -3.7,
+      "edge_pct": 15.1,
+      "hit_rate": 50,
+      "l5_hr": 60,
+      "l10_hr": 50,
+      "h2h_hr": 55,
+      "consistency": "MEDIUM",
+      "trend": "COLD",
+      "score": 57.7
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "opponent": "SA",
+      "prop": "Pts+Asts",
+      "line": 32.5,
+      "pick": "UNDER",
+      "projected": 27.6,
+      "edge": -4.9,
+      "edge_pct": 15.1,
+      "hit_rate": 50,
+      "l5_hr": 60,
+      "l10_hr": 50,
+      "h2h_hr": 60,
+      "consistency": "MEDIUM",
+      "trend": "NEUTRAL",
+      "score": 49.0
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "opponent": "SA",
+      "prop": "Points",
+      "line": 26.5,
+      "pick": "UNDER",
+      "projected": 22.4,
+      "edge": -4.1,
+      "edge_pct": 15.5,
+      "hit_rate": 50,
+      "l5_hr": 40,
+      "l10_hr": 50,
+      "h2h_hr": 60,
+      "consistency": "MEDIUM",
+      "trend": "NEUTRAL",
+      "score": 49.0
+    }
+  ],
+  "game_context": {
+    "games": [
+      {
+        "home_team": "NY",
+        "away_team": "SA",
+        "status": "Final",
+        "date": "2026-06-09T00:30Z"
+      }
+    ]
+  },
+  "players_analyzed": 15
+}
