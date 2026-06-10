@@ -149,9 +149,11 @@ def fetch_prizepicks_wnba():
 
 def get_games():
     """Get WNBA games from ESPN."""
+    from datetime import datetime
     try:
+        today = datetime.now().strftime("%Y%m%d")
         resp = requests.get(
-            "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard",
+            f"https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard?dates={today}",
             headers=HEADERS, timeout=10
         )
         if resp.status_code != 200:

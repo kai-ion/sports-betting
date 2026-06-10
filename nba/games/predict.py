@@ -16,9 +16,11 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleW
 
 def get_upcoming_games():
     """Get upcoming NBA games with odds from ESPN."""
+    from datetime import datetime
     try:
+        today = datetime.now().strftime("%Y%m%d")
         resp = requests.get(
-            "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard",
+            f"https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={today}",
             headers=HEADERS, timeout=10
         )
         if resp.status_code != 200:

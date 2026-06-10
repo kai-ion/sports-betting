@@ -107,9 +107,11 @@ def fetch_bettingpros(sport="mlb", limit=200):
 
 def get_games():
     """Get today's MLB games from ESPN."""
+    from datetime import datetime
     try:
+        today = datetime.now().strftime("%Y%m%d")
         resp = requests.get(
-            "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard",
+            f"https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates={today}",
             headers=HEADERS, timeout=10
         )
         if resp.status_code != 200:
