@@ -1,0 +1,881 @@
+{
+  "date": "2026-06-17",
+  "sport": "WNBA",
+  "picks": [
+    {
+      "player": "Cecilia Zandalasini",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "confidence": 10,
+      "projected": 1.9,
+      "score": 100
+    },
+    {
+      "player": "Lexi Held",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 1.8,
+      "score": 90
+    },
+    {
+      "player": "Diamond Miller",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 2.2,
+      "score": 90
+    },
+    {
+      "player": "Aneesah Morrow",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 1.0,
+      "score": 90
+    },
+    {
+      "player": "Jade Melbourne",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 2.0,
+      "score": 90
+    },
+    {
+      "player": "Lexi Held",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 1.0,
+      "score": 90
+    },
+    {
+      "player": "Marine Johannes",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 2.1,
+      "score": 90
+    },
+    {
+      "player": "Ariel Atkins",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 1.2,
+      "score": 90
+    },
+    {
+      "player": "Jacy Sheldon",
+      "prop": "Assists",
+      "line": 2.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 2.1,
+      "score": 90
+    },
+    {
+      "player": "Jessica Shepard",
+      "prop": "Points",
+      "line": 11.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 14.1,
+      "score": 87.2
+    },
+    {
+      "player": "Shakira Austin",
+      "prop": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 22.9,
+      "score": 79.5
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 22.8,
+      "score": 82.1
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Pts+Rebs",
+      "line": 15.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 18.5,
+      "score": 82.1
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Pts+Asts",
+      "line": 17.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 19.9,
+      "score": 81.5
+    },
+    {
+      "player": "Dearica Hamby",
+      "prop": "Assists",
+      "line": 2.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.8,
+      "score": 80
+    },
+    {
+      "player": "Olivia Miles",
+      "prop": "Assists",
+      "line": 6.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 5.4,
+      "score": 80
+    },
+    {
+      "player": "Jacy Sheldon",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 1.1,
+      "score": 80
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 0.9,
+      "score": 80
+    },
+    {
+      "player": "Alyssa Thomas",
+      "prop": "Pts+Rebs",
+      "line": 23.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 19.9,
+      "score": 77
+    },
+    {
+      "player": "Jonquel Jones",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 2.0,
+      "score": 80
+    },
+    {
+      "player": "Ariel Atkins",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 3.0,
+      "score": 80
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Rebounds",
+      "line": 2.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 3.0,
+      "score": 80
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Rebs+Asts",
+      "line": 6.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 7.3,
+      "score": 80
+    },
+    {
+      "player": "Jade Melbourne",
+      "prop": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 11.5,
+      "score": 76.7
+    },
+    {
+      "player": "Jade Melbourne",
+      "prop": "Pts+Asts",
+      "line": 11.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 9.5,
+      "score": 76.2
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "prop": "Points",
+      "line": 8.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 7.6,
+      "score": 76.8
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "prop": "Pts+Rebs+Asts",
+      "line": 12.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 11.1,
+      "score": 74.5
+    },
+    {
+      "player": "Shakira Austin",
+      "prop": "Points",
+      "line": 14.5,
+      "pick": "UNDER",
+      "confidence": 6,
+      "projected": 12.4,
+      "score": 74.6
+    },
+    {
+      "player": "Olivia Miles",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 1.9,
+      "score": 90
+    },
+    {
+      "player": "Chelsea Gray",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 2.8,
+      "score": 90
+    }
+  ],
+  "ranked_edges": [
+    {
+      "player": "Cecilia Zandalasini",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "projected": 1.9,
+      "edge": -1.6,
+      "edge_pct": 44.7,
+      "hit_rate": 90,
+      "l5_hr": 100,
+      "l10_hr": 90,
+      "h2h_hr": 100,
+      "trend": "COLD",
+      "score": 100,
+      "games_sample": 31,
+      "team": "GSV"
+    },
+    {
+      "player": "Chelsea Gray",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "projected": 2.8,
+      "edge": 0.3,
+      "edge_pct": 12.7,
+      "hit_rate": 30,
+      "l5_hr": 40,
+      "l10_hr": 30,
+      "h2h_hr": 10,
+      "trend": "HOT",
+      "score": 90.0,
+      "games_sample": 74,
+      "team": "LVA"
+    },
+    {
+      "player": "Ariel Atkins",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.2,
+      "edge": -0.3,
+      "edge_pct": 17.5,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 60,
+      "trend": "COLD",
+      "score": 90.0,
+      "games_sample": 51,
+      "team": "LAS"
+    },
+    {
+      "player": "Marine Johannes",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.1,
+      "edge": 0.6,
+      "edge_pct": 40.5,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 50,
+      "trend": "HOT",
+      "score": 90.0,
+      "games_sample": 62,
+      "team": "NYL"
+    },
+    {
+      "player": "Lexi Held",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "projected": 1.8,
+      "edge": -1.7,
+      "edge_pct": 48.4,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 90,
+      "games_sample": 51,
+      "team": "PHO"
+    },
+    {
+      "player": "Lexi Held",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "projected": 1.0,
+      "edge": 0.5,
+      "edge_pct": 53.1,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 75,
+      "trend": "HOT",
+      "score": 90.0,
+      "games_sample": 51,
+      "team": "PHO"
+    },
+    {
+      "player": "Aneesah Morrow",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.0,
+      "edge": -0.5,
+      "edge_pct": 35.1,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 90,
+      "games_sample": 56,
+      "team": "CON"
+    },
+    {
+      "player": "Diamond Miller",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "projected": 2.2,
+      "edge": -1.3,
+      "edge_pct": 37.4,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 90,
+      "games_sample": 59,
+      "team": "CON"
+    },
+    {
+      "player": "Jacy Sheldon",
+      "prop": "Assists",
+      "line": 2.5,
+      "pick": "UNDER",
+      "projected": 2.1,
+      "edge": -0.4,
+      "edge_pct": 16.5,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": 75,
+      "trend": "NEUTRAL",
+      "score": 90,
+      "games_sample": 47,
+      "team": "CHI"
+    },
+    {
+      "player": "Jade Melbourne",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "projected": 2.0,
+      "edge": -1.5,
+      "edge_pct": 43.4,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "NEUTRAL",
+      "score": 90,
+      "games_sample": 62,
+      "team": "SEA"
+    },
+    {
+      "player": "Olivia Miles",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.9,
+      "edge": 0.4,
+      "edge_pct": 30.0,
+      "hit_rate": 30,
+      "l5_hr": 60,
+      "l10_hr": 30,
+      "h2h_hr": null,
+      "trend": "HOT",
+      "score": 90.0,
+      "games_sample": 17,
+      "team": "MIN"
+    },
+    {
+      "player": "Jessica Shepard",
+      "prop": "Points",
+      "line": 11.5,
+      "pick": "OVER",
+      "projected": 14.1,
+      "edge": 2.6,
+      "edge_pct": 22.5,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": 33,
+      "trend": "HOT",
+      "score": 87.2,
+      "games_sample": 63,
+      "team": "DAL"
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "pick": "OVER",
+      "projected": 22.8,
+      "edge": 2.3,
+      "edge_pct": 11.4,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": 0,
+      "trend": "HOT",
+      "score": 82.1,
+      "games_sample": 69,
+      "team": "SEA"
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Pts+Rebs",
+      "line": 15.5,
+      "pick": "OVER",
+      "projected": 18.5,
+      "edge": 3.0,
+      "edge_pct": 19.1,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": 0,
+      "trend": "HOT",
+      "score": 82.1,
+      "games_sample": 69,
+      "team": "SEA"
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Pts+Asts",
+      "line": 17.5,
+      "pick": "OVER",
+      "projected": 19.9,
+      "edge": 2.4,
+      "edge_pct": 13.5,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": 0,
+      "trend": "HOT",
+      "score": 81.5,
+      "games_sample": 69,
+      "team": "SEA"
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "projected": 0.9,
+      "edge": 0.4,
+      "edge_pct": 40.9,
+      "hit_rate": 70,
+      "l5_hr": 60,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "trend": "COLD",
+      "score": 80.0,
+      "games_sample": 58,
+      "team": "CHI"
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Rebounds",
+      "line": 2.5,
+      "pick": "OVER",
+      "projected": 3.0,
+      "edge": 0.5,
+      "edge_pct": 18.7,
+      "hit_rate": 40,
+      "l5_hr": 80,
+      "l10_hr": 40,
+      "h2h_hr": 0,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 69,
+      "team": "SEA"
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "prop": "Rebs+Asts",
+      "line": 6.5,
+      "pick": "OVER",
+      "projected": 7.3,
+      "edge": 0.8,
+      "edge_pct": 12.8,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 0,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 69,
+      "team": "SEA"
+    },
+    {
+      "player": "Ariel Atkins",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "UNDER",
+      "projected": 3.0,
+      "edge": -0.5,
+      "edge_pct": 14.2,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 60,
+      "trend": "COLD",
+      "score": 80.0,
+      "games_sample": 51,
+      "team": "LAS"
+    },
+    {
+      "player": "Jonquel Jones",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.0,
+      "edge": 0.5,
+      "edge_pct": 32.8,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": 67,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 51,
+      "team": "NYL"
+    },
+    {
+      "player": "Jacy Sheldon",
+      "prop": "3-Pointers Made",
+      "line": 0.5,
+      "pick": "OVER",
+      "projected": 1.1,
+      "edge": 0.6,
+      "edge_pct": 58.1,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 50,
+      "trend": "NEUTRAL",
+      "score": 80.0,
+      "games_sample": 47,
+      "team": "CHI"
+    },
+    {
+      "player": "Dearica Hamby",
+      "prop": "Assists",
+      "line": 2.5,
+      "pick": "UNDER",
+      "projected": 1.8,
+      "edge": -0.7,
+      "edge_pct": 27.5,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 100,
+      "trend": "COLD",
+      "score": 80.0,
+      "games_sample": 61,
+      "team": "LAS"
+    },
+    {
+      "player": "Olivia Miles",
+      "prop": "Assists",
+      "line": 6.5,
+      "pick": "UNDER",
+      "projected": 5.4,
+      "edge": -1.1,
+      "edge_pct": 17.1,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 17,
+      "team": "MIN"
+    },
+    {
+      "player": "Shakira Austin",
+      "prop": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "pick": "UNDER",
+      "projected": 22.9,
+      "edge": -3.6,
+      "edge_pct": 13.5,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": 100,
+      "trend": "COLD",
+      "score": 79.5,
+      "games_sample": 50,
+      "team": "WAS"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "prop": "Pts+Rebs",
+      "line": 23.5,
+      "pick": "UNDER",
+      "projected": 19.9,
+      "edge": -3.6,
+      "edge_pct": 15.3,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 50,
+      "trend": "COLD",
+      "score": 77.0,
+      "games_sample": 69,
+      "team": "PHO"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "prop": "Points",
+      "line": 8.5,
+      "pick": "UNDER",
+      "projected": 7.6,
+      "edge": -0.9,
+      "edge_pct": 10.7,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 0,
+      "trend": "COLD",
+      "score": 76.8,
+      "games_sample": 31,
+      "team": "GSV"
+    },
+    {
+      "player": "Jade Melbourne",
+      "prop": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "pick": "UNDER",
+      "projected": 11.5,
+      "edge": -2.0,
+      "edge_pct": 14.8,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 100,
+      "trend": "NEUTRAL",
+      "score": 76.7,
+      "games_sample": 62,
+      "team": "SEA"
+    },
+    {
+      "player": "Jade Melbourne",
+      "prop": "Pts+Asts",
+      "line": 11.5,
+      "pick": "UNDER",
+      "projected": 9.5,
+      "edge": -2.0,
+      "edge_pct": 17.2,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 100,
+      "trend": "NEUTRAL",
+      "score": 76.2,
+      "games_sample": 62,
+      "team": "SEA"
+    },
+    {
+      "player": "Shakira Austin",
+      "prop": "Points",
+      "line": 14.5,
+      "pick": "UNDER",
+      "projected": 12.4,
+      "edge": -2.1,
+      "edge_pct": 14.6,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 100,
+      "trend": "COLD",
+      "score": 74.6,
+      "games_sample": 50,
+      "team": "WAS"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "prop": "Pts+Rebs+Asts",
+      "line": 12.5,
+      "pick": "UNDER",
+      "projected": 11.1,
+      "edge": -1.4,
+      "edge_pct": 11.5,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 0,
+      "trend": "COLD",
+      "score": 74.5,
+      "games_sample": 31,
+      "team": "GSV"
+    }
+  ],
+  "games": [
+    {
+      "home": {
+        "abbr": "CON",
+        "name": "Connecticut Sun"
+      },
+      "away": {
+        "abbr": "WSH",
+        "name": "Washington Mystics"
+      },
+      "odds": {
+        "spread": "WSH -1.5",
+        "over_under": 162.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Sky"
+      },
+      "away": {
+        "abbr": "NY",
+        "name": "New York Liberty"
+      },
+      "odds": {
+        "spread": "NY -11.5",
+        "over_under": 170.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "GS",
+        "name": "Golden State Valkyries"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Wings"
+      },
+      "odds": {
+        "spread": "GS -2.5",
+        "over_under": 166.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "LA",
+        "name": "Los Angeles Sparks"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Lynx"
+      },
+      "odds": {
+        "spread": "MIN -9.5",
+        "over_under": 176.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "PHX",
+        "name": "Phoenix Mercury"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Aces"
+      },
+      "odds": {
+        "spread": "LV -7.5",
+        "over_under": 171.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "POR",
+        "name": "Portland Fire"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Storm"
+      },
+      "odds": {
+        "spread": "POR -3.5",
+        "over_under": 161.5
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "players_analyzed": 61
+}
