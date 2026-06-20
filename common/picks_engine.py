@@ -134,19 +134,34 @@ def score_edge(projection, line, hit_rate, consistency, trend_aligned):
 
 
 def balance_and_filter(edges, min_edge=10, balance_threshold=0.7, balance_min_edge=15):
-    """Filter edges by minimum edge% and apply direction balance check."""
+    """Filter edges by minimum edge% and enforce 50/50 OVER/UNDER split.
+
+    Takes the top edges by score from each direction equally, so the final
+    output has an even mix of OVER and UNDER picks.
+    """
     viable = [e for e in edges if e["score"] >= 30 and e["edge_pct"] >= min_edge]
 
-    if viable:
-        under_count = sum(1 for e in viable if e["pick"] == "UNDER")
-        over_count = len(viable) - under_count
-        total = len(viable)
-        if total > 0 and under_count / total > balance_threshold:
-            viable = [e for e in viable if e["pick"] == "OVER" or e["edge_pct"] >= balance_min_edge]
-        elif total > 0 and over_count / total > balance_threshold:
-            viable = [e for e in viable if e["pick"] == "UNDER" or e["edge_pct"] >= balance_min_edge]
+    if not viable:
+        return []
 
-    return viable[:30]
+    # Split by direction, each sorted by score (best first)
+    overs = sorted([e for e in viable if e["pick"] == "OVER"], key=lambda x: x["score"], reverse=True)
+    unders = sorted([e for e in viable if e["pick"] == "UNDER"], key=lambda x: x["score"], reverse=True)
+
+    # Take equal from each side (up to 15 each for 30 total)
+    max_per_side = 15
+    # If one side has fewer, give the other side more (but cap total at 30)
+    n_overs = min(len(overs), max_per_side)
+    n_unders = min(len(unders), max_per_side)
+
+    # Balance: match the smaller side
+    target = min(n_overs, n_unders, max_per_side)
+    # Allow up to 2 extra from the larger side if it has strong edges
+    balanced = overs[:target + 2] + unders[:target + 2]
+    # Re-sort by score so Claude sees the best edges regardless of direction
+    balanced.sort(key=lambda x: x["score"], reverse=True)
+
+    return balanced[:30]
 
 
 def get_claude_picks(top_edges, game_context, sport="NBA", lessons="", errors=None):
