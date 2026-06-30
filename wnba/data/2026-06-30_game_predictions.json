@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-30",
+  "predictions": [
+    {
+      "home_team": "NY",
+      "away_team": "LV",
+      "home_projected": 88.7,
+      "away_projected": 87.4,
+      "projected_spread": -1.3,
+      "projected_total": 176.2,
+      "home_win_prob": 58.1,
+      "away_win_prob": 41.9,
+      "home_record": "12-8",
+      "away_record": "14-5",
+      "home_conf": "Eastern",
+      "away_conf": "Western",
+      "home_l10": "6-4",
+      "away_l10": "8-2",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "L2",
+      "away_streak": "W2",
+      "home_home_record": "6-4",
+      "away_away_record": "9-2",
+      "market_odds": {
+        "spread": "NY -6.5",
+        "over_under": 173.5,
+        "home_ml": "-238",
+        "away_ml": "+195",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
