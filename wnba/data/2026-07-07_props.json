@@ -1,0 +1,7265 @@
+{
+  "date": "2026-07-07",
+  "sport": "WNBA",
+  "games": [
+    {
+      "home": {
+        "abbr": "NY",
+        "name": "New York Liberty"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Wings"
+      },
+      "odds": {
+        "spread": "NY -4.5",
+        "over_under": 175.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "PHX",
+        "name": "Phoenix Mercury"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Sky"
+      },
+      "odds": {
+        "spread": "PHX -3.5",
+        "over_under": 172.5
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "total_props": 777,
+  "props": [
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 44.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 39.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 38.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 28.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 27.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 26.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 23.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 22.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 22.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 21.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 21.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 18.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 16.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 16.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 16.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 15.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 15.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 15.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marine Johannes",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 14.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marine Johannes",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 13.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 12.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 12.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marine Johannes",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 10.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marine Johannes",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 6.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marine Johannes",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 5.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marine Johannes",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Points",
+      "line": 4.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.0,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jessica Shepard",
+      "team": "DAL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "C",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Paige Bueckers",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Arike Ogunbowale",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azzi Fudd",
+      "team": "DAL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Pauline Astier",
+      "team": "NYL",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "start_time": "2026-07-07T20:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 25.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sydney Taylor",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 24.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 23.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 23.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 23.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 21.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 21.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sydney Taylor",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs",
+      "line": 18.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 18.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs",
+      "line": 18.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs+Asts",
+      "line": 18.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sydney Taylor",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 16.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 15.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 15.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sydney Taylor",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Lexi Held",
+      "team": "PHX",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Asts",
+      "line": 14.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 13.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 13.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 13.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 12.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sydney Taylor",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sydney Taylor",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Lexi Held",
+      "team": "PHX",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 10.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Sydney Taylor",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Pts+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebs+Asts",
+      "line": 9.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Lexi Held",
+      "team": "PHX",
+      "position": "G",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 8.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Lexi Held",
+      "team": "PHX",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebounds",
+      "line": 7.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Lexi Held",
+      "team": "PHX",
+      "position": "G",
+      "stat": "Points",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Lexi Held",
+      "team": "PHX",
+      "position": "G",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "DeWanna Bonner",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Points",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 4.0,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Valeriane Ayayi",
+      "team": "PHX",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "G-F",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Noemie Brochant",
+      "team": "PHX",
+      "position": "F-G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Azur\u00e1 Stevens",
+      "team": "CHI",
+      "position": "F-C",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "team": "CHI",
+      "position": "C",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Skylar Diggins",
+      "team": "CHI",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 1.5,
+      "start_time": "2026-07-07T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 17.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 16.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 16.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 16.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 13.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 13.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 12.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Points",
+      "line": 12.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Points",
+      "line": 11.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 10.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Points",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Points",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "F",
+      "stat": "Assists",
+      "line": 1.5,
+      "start_time": "2026-07-08T19:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 18.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T19:30:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 44.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 29.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 25.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 24.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 20.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 19.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "G-F",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 17.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 16.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 15.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Ariel Atkins",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "G-F",
+      "stat": "Points",
+      "line": 14.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Pts+Asts",
+      "line": 13.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 12.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 11.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 10.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 9.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Ariel Atkins",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 9.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 8.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 7.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Assists",
+      "line": 6.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Ariel Atkins",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "F",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "G-F",
+      "stat": "Assists",
+      "line": 5.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Points",
+      "line": 4.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Ariel Atkins",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Erica Wheeler",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "G-F",
+      "stat": "Assists",
+      "line": 3.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Ariel Atkins",
+      "team": "LAS",
+      "position": "G",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "G-F",
+      "stat": "Assists",
+      "line": 2.5,
+      "start_time": "2026-07-08T22:00:00.000-04:00",
+      "source": "prizepicks"
+    }
+  ],
+  "players": {
+    "Paige Bueckers": {
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Points": 22.5,
+      "Rebs+Asts": 10.5,
+      "Assists": 7.5,
+      "Rebounds": 4.5
+    },
+    "Breanna Stewart": {
+      "Pts+Rebs": 29.5,
+      "Pts+Rebs+Asts": 31.0,
+      "Pts+Asts": 24.5,
+      "Points": 21.5,
+      "Rebs+Asts": 12.5,
+      "Rebounds": 8.5,
+      "Assists": 4.5
+    },
+    "Jessica Shepard": {
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Rebs": 29.5,
+      "Pts+Asts": 19.5,
+      "Rebs+Asts": 17.5,
+      "Points": 14.5,
+      "Rebounds": 12.5,
+      "Assists": 6.5
+    },
+    "Jonquel Jones": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Pts+Asts": 19.5,
+      "Points": 14.0,
+      "Rebs+Asts": 13.5,
+      "Rebounds": 9.5,
+      "Assists": 4.5
+    },
+    "Sabrina Ionescu": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 24.5,
+      "Points": 17.5,
+      "Rebs+Asts": 9.5,
+      "Assists": 6.5,
+      "Rebounds": 4.5
+    },
+    "Azzi Fudd": {
+      "Pts+Rebs+Asts": 19.0,
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 19.5,
+      "Points": 14.0,
+      "Rebs+Asts": 5.5,
+      "Rebounds": 3.5,
+      "Assists": 3.5
+    },
+    "Arike Ogunbowale": {
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 19.5,
+      "Pts+Rebs+Asts": 19.5,
+      "Points": 14.5,
+      "Rebs+Asts": 5.5,
+      "Assists": 4.5,
+      "Rebounds": 3.5
+    },
+    "Pauline Astier": {
+      "Pts+Rebs+Asts": 17.5,
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 14.5,
+      "Points": 13.5,
+      "Rebs+Asts": 8.5,
+      "Assists": 5.5,
+      "Rebounds": 3.5
+    },
+    "Leonie Fiebich": {
+      "Points": 14.5,
+      "Pts+Rebs": 12.5,
+      "Rebounds": 5.5
+    },
+    "Marine Johannes": {
+      "Points": 11.5
+    },
+    "Alyssa Thomas": {
+      "Pts+Rebs+Asts": 31.0,
+      "Pts+Asts": 29.5,
+      "Pts+Rebs": 24.5,
+      "Points": 17.5,
+      "Rebs+Asts": 17.5,
+      "Assists": 10.5,
+      "Rebounds": 8.5
+    },
+    "Kahleah Copper": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Points": 23.5,
+      "Rebounds": 4.5
+    },
+    "Kamilla Cardoso": {
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Pts+Asts": 19.5,
+      "Points": 17.5,
+      "Rebs+Asts": 11.5,
+      "Rebounds": 9.5,
+      "Assists": 3.5
+    },
+    "Azur\u00e1 Stevens": {
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Rebs": 18.5,
+      "Points": 14.5,
+      "Pts+Asts": 14.0,
+      "Rebs+Asts": 11.5,
+      "Rebounds": 7.5,
+      "Assists": 3.5
+    },
+    "Skylar Diggins": {
+      "Pts+Asts": 24.5,
+      "Pts+Rebs+Asts": 17.5,
+      "Pts+Rebs": 19.5,
+      "Points": 11.0,
+      "Rebs+Asts": 6.5,
+      "Assists": 4.5,
+      "Rebounds": 3.5
+    },
+    "Valeriane Ayayi": {
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Rebs": 24.5,
+      "Points": 14.5,
+      "Rebounds": 6.5
+    },
+    "DeWanna Bonner": {
+      "Pts+Rebs+Asts": 23.5,
+      "Pts+Rebs": 19.5,
+      "Points": 14.5,
+      "Rebounds": 7.5
+    },
+    "Sydney Taylor": {
+      "Points": 14.5
+    },
+    "Noemie Brochant": {
+      "Pts+Rebs+Asts": 19.5,
+      "Points": 9.5,
+      "Rebs+Asts": 8.5,
+      "Assists": 4.5,
+      "Rebounds": 4.5
+    },
+    "Courtney Vandersloot": {
+      "Pts+Asts": 19.5,
+      "Points": 10.5,
+      "Assists": 7.5
+    },
+    "Lexi Held": {
+      "Points": 8.5
+    },
+    "Marina Mabrey": {
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Points": 20.5,
+      "Rebs+Asts": 9.5,
+      "Assists": 4.5,
+      "Rebounds": 4.5
+    },
+    "Gabby Williams": {
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 19.5,
+      "Pts+Rebs+Asts": 19.5,
+      "Points": 14.5,
+      "Rebounds": 4.5,
+      "Rebs+Asts": 5.5,
+      "Assists": 3.5
+    },
+    "Nyara Sabally": {
+      "Pts+Rebs": 19.5,
+      "Points": 14.5,
+      "Rebounds": 6.5
+    },
+    "Veronica Burton": {
+      "Pts+Asts": 19.5,
+      "Pts+Rebs+Asts": 19.5,
+      "Pts+Rebs": 13.5,
+      "Points": 11.5,
+      "Rebs+Asts": 9.5,
+      "Assists": 6.5,
+      "Rebounds": 4.5
+    },
+    "Kayla Thornton": {
+      "Pts+Rebs": 14.5,
+      "Points": 9.5,
+      "Rebounds": 5.5
+    },
+    "Olivia Miles": {
+      "Pts+Rebs+Asts": 29.5,
+      "Points": 18.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 23.5,
+      "Rebs+Asts": 9.5,
+      "Assists": 5.5,
+      "Rebounds": 5.5
+    },
+    "Caitlin Clark": {
+      "Pts+Rebs+Asts": 39.5,
+      "Pts+Asts": 34.5,
+      "Pts+Rebs": 25.5,
+      "Points": 20.5,
+      "Rebs+Asts": 14.5,
+      "Assists": 9.5,
+      "Rebounds": 4.5
+    },
+    "Nneka Ogwumike": {
+      "Pts+Rebs": 24.5,
+      "Points": 19.5,
+      "Rebounds": 9.5
+    },
+    "Dearica Hamby": {
+      "Pts+Rebs": 22.5,
+      "Points": 19.5,
+      "Rebounds": 9.5
+    },
+    "Rae Burrell": {
+      "Points": 15.5,
+      "Pts+Asts": 18.5,
+      "Assists": 3.5
+    },
+    "Ariel Atkins": {
+      "Points": 14.5,
+      "Rebounds": 3.5
+    },
+    "Erica Wheeler": {
+      "Points": 9.5,
+      "Pts+Asts": 13.5,
+      "Assists": 5.5
+    }
+  }
+}
