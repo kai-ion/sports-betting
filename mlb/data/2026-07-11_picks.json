@@ -1,0 +1,955 @@
+{
+  "date": "2026-07-11",
+  "sport": "MLB",
+  "picks": [
+    {
+      "player": "Paul Goldschmidt",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 0.6,
+      "score": 100
+    },
+    {
+      "player": "Tanner Bibee",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 4.9,
+      "score": 90
+    },
+    {
+      "player": "Trey Yesavage",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.2,
+      "score": 90
+    },
+    {
+      "player": "Eury Perez",
+      "prop": "Outs Recorded",
+      "line": 16.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.2,
+      "score": 90
+    },
+    {
+      "player": "Brooks Lee",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 0.7,
+      "score": 90
+    },
+    {
+      "player": "Nico Hoerner",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 0.9,
+      "score": 100
+    },
+    {
+      "player": "Eduardo Rivera",
+      "prop": "Pitcher Strikeouts",
+      "line": 2.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 2.9,
+      "score": 90
+    },
+    {
+      "player": "Luis Arraez",
+      "prop": "Hits+Runs+RBIs",
+      "line": 2,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 1.6,
+      "score": 100
+    },
+    {
+      "player": "Seiya Suzuki",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 1.0,
+      "score": 100
+    },
+    {
+      "player": "Elly De La Cruz",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 1.0,
+      "score": 100
+    },
+    {
+      "player": "Eury Perez",
+      "prop": "Earned Runs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 2.8,
+      "score": 90
+    },
+    {
+      "player": "Logan Gilbert",
+      "prop": "Hits Allowed",
+      "line": 4.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 5.5,
+      "score": 90
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "prop": "Outs Recorded",
+      "line": 14.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 4.2,
+      "score": 90
+    },
+    {
+      "player": "Yandy Diaz",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 3.2,
+      "score": 90
+    },
+    {
+      "player": "Reynaldo Lopez",
+      "prop": "Pitcher Strikeouts",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 4.7,
+      "score": 100
+    },
+    {
+      "player": "Brooks Lee",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.1,
+      "score": 90
+    },
+    {
+      "player": "Trevor Larnach",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 0.8,
+      "score": 90
+    },
+    {
+      "player": "Heliot Ramos",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.1,
+      "score": 90
+    },
+    {
+      "player": "Heliot Ramos",
+      "prop": "Hits+Runs+RBIs",
+      "line": 2.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.6,
+      "score": 90
+    },
+    {
+      "player": "Jung Hoo Lee",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 1.2,
+      "score": 90
+    },
+    {
+      "player": "Sal Stewart",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 2.7,
+      "score": 90
+    },
+    {
+      "player": "Mauricio Dubon",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 2.7,
+      "score": 90
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "prop": "Earned Runs",
+      "line": 3.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 2.7,
+      "score": 90
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "prop": "Hits Allowed",
+      "line": 5.5,
+      "pick": "UNDER",
+      "confidence": 7,
+      "projected": 3.9,
+      "score": 90
+    },
+    {
+      "player": "Tyler Mahle",
+      "prop": "Hits Allowed",
+      "line": 4.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 5.7,
+      "score": 80
+    },
+    {
+      "player": "Eury Perez",
+      "prop": "Hits Allowed",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 4.6,
+      "score": 80
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "prop": "Pitcher Strikeouts",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 5.0,
+      "score": 90
+    },
+    {
+      "player": "Jung Hoo Lee",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 1.8,
+      "score": 90
+    },
+    {
+      "player": "Mickey Moniak",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 2.5,
+      "score": 90
+    },
+    {
+      "player": "Paul Goldschmidt",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 1.8,
+      "score": 80
+    }
+  ],
+  "ranked_edges": [
+    {
+      "player": "Reynaldo Lopez",
+      "team": "ATL",
+      "opponent": "STL",
+      "prop": "Pitcher Strikeouts",
+      "line": 3.5,
+      "pick": "OVER",
+      "projected": 4.7,
+      "edge": 1.2,
+      "edge_pct": 34.3,
+      "hit_rate": 20,
+      "l5_hr": 40,
+      "l10_hr": 20,
+      "h2h_hr": null,
+      "score": 100.0
+    },
+    {
+      "player": "Paul Goldschmidt",
+      "team": "NYY",
+      "opponent": "WSH",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.6,
+      "edge": -0.9,
+      "edge_pct": 60.0,
+      "hit_rate": 90,
+      "l5_hr": 100,
+      "l10_hr": 90,
+      "h2h_hr": null,
+      "score": 100
+    },
+    {
+      "player": "Luis Arraez",
+      "team": "SF",
+      "opponent": "COL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 2,
+      "pick": "UNDER",
+      "projected": 1.6,
+      "edge": -0.4,
+      "edge_pct": 20.0,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": 67,
+      "score": 100
+    },
+    {
+      "player": "Seiya Suzuki",
+      "team": "CHC",
+      "opponent": "CIN",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.0,
+      "edge": -0.5,
+      "edge_pct": 33.3,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": 50,
+      "score": 100
+    },
+    {
+      "player": "Elly De La Cruz",
+      "team": "CIN",
+      "opponent": "CHC",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.0,
+      "edge": -0.5,
+      "edge_pct": 33.3,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": 60,
+      "score": 100
+    },
+    {
+      "player": "Nico Hoerner",
+      "team": "CHC",
+      "opponent": "CIN",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.9,
+      "edge": -0.6,
+      "edge_pct": 40.0,
+      "hit_rate": 90,
+      "l5_hr": 100,
+      "l10_hr": 90,
+      "h2h_hr": 80,
+      "score": 100
+    },
+    {
+      "player": "Eduardo Rivera",
+      "team": "BOS",
+      "opponent": "NYM",
+      "prop": "Pitcher Strikeouts",
+      "line": 2.5,
+      "pick": "OVER",
+      "projected": 2.9,
+      "edge": 0.4,
+      "edge_pct": 16.0,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Jung Hoo Lee",
+      "team": "SF",
+      "opponent": "COL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.8,
+      "edge": 0.3,
+      "edge_pct": 20.0,
+      "hit_rate": 30,
+      "l5_hr": 40,
+      "l10_hr": 30,
+      "h2h_hr": 25,
+      "score": 90.0
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "team": "ARI",
+      "opponent": "LAD",
+      "prop": "Pitcher Strikeouts",
+      "line": 3.5,
+      "pick": "OVER",
+      "projected": 5.0,
+      "edge": 1.5,
+      "edge_pct": 42.9,
+      "hit_rate": 30,
+      "l5_hr": 40,
+      "l10_hr": 30,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Eury Perez",
+      "team": "MIA",
+      "opponent": "CLE",
+      "prop": "Earned Runs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.8,
+      "edge": 1.2,
+      "edge_pct": 80.0,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Logan Gilbert",
+      "team": "SEA",
+      "opponent": "TB",
+      "prop": "Hits Allowed",
+      "line": 4.5,
+      "pick": "OVER",
+      "projected": 5.5,
+      "edge": 1.0,
+      "edge_pct": 22.2,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Mickey Moniak",
+      "team": "COL",
+      "opponent": "SF",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.5,
+      "edge": 1.0,
+      "edge_pct": 66.7,
+      "hit_rate": 30,
+      "l5_hr": 40,
+      "l10_hr": 30,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Yandy Diaz",
+      "team": "TB",
+      "opponent": "SEA",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 3.2,
+      "edge": 1.7,
+      "edge_pct": 113.3,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": 40,
+      "score": 90
+    },
+    {
+      "player": "Sal Stewart",
+      "team": "CIN",
+      "opponent": "CHC",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.7,
+      "edge": 1.2,
+      "edge_pct": 80.0,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Mauricio Dubon",
+      "team": "ATL",
+      "opponent": "STL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.7,
+      "edge": 1.2,
+      "edge_pct": 80.0,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Tanner Bibee",
+      "team": "CLE",
+      "opponent": "MIA",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 4.9,
+      "edge": -12.6,
+      "edge_pct": 72.0,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Trey Yesavage",
+      "team": "TOR",
+      "opponent": "SD",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.2,
+      "edge": -12.3,
+      "edge_pct": 70.3,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Trevor Larnach",
+      "team": "MIN",
+      "opponent": "LAA",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.8,
+      "edge": -0.7,
+      "edge_pct": 46.7,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Jung Hoo Lee",
+      "team": "SF",
+      "opponent": "COL",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.2,
+      "edge": -0.3,
+      "edge_pct": 20.0,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": 62,
+      "score": 90
+    },
+    {
+      "player": "Brooks Lee",
+      "team": "MIN",
+      "opponent": "LAA",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.1,
+      "edge": -0.4,
+      "edge_pct": 26.7,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Brooks Lee",
+      "team": "MIN",
+      "opponent": "LAA",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.7,
+      "edge": -0.8,
+      "edge_pct": 53.3,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "team": "ARI",
+      "opponent": "LAD",
+      "prop": "Outs Recorded",
+      "line": 14.5,
+      "pick": "UNDER",
+      "projected": 4.2,
+      "edge": -10.3,
+      "edge_pct": 71.0,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "team": "ARI",
+      "opponent": "LAD",
+      "prop": "Earned Runs",
+      "line": 3.5,
+      "pick": "UNDER",
+      "projected": 2.7,
+      "edge": -0.8,
+      "edge_pct": 22.9,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Brandon Pfaadt",
+      "team": "ARI",
+      "opponent": "LAD",
+      "prop": "Hits Allowed",
+      "line": 5.5,
+      "pick": "UNDER",
+      "projected": 3.9,
+      "edge": -1.6,
+      "edge_pct": 29.1,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Heliot Ramos",
+      "team": "SF",
+      "opponent": "COL",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.1,
+      "edge": -0.4,
+      "edge_pct": 26.7,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": 50,
+      "score": 90
+    },
+    {
+      "player": "Heliot Ramos",
+      "team": "SF",
+      "opponent": "COL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 2.5,
+      "pick": "UNDER",
+      "projected": 1.6,
+      "edge": -0.9,
+      "edge_pct": 36.0,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": 67,
+      "score": 90
+    },
+    {
+      "player": "Eury Perez",
+      "team": "MIA",
+      "opponent": "CLE",
+      "prop": "Outs Recorded",
+      "line": 16.5,
+      "pick": "UNDER",
+      "projected": 5.2,
+      "edge": -11.3,
+      "edge_pct": 68.5,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Paul Goldschmidt",
+      "team": "NYY",
+      "opponent": "WSH",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.8,
+      "edge": 0.3,
+      "edge_pct": 20.0,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": null,
+      "score": 80.0
+    },
+    {
+      "player": "Eury Perez",
+      "team": "MIA",
+      "opponent": "CLE",
+      "prop": "Hits Allowed",
+      "line": 3.5,
+      "pick": "OVER",
+      "projected": 4.6,
+      "edge": 1.1,
+      "edge_pct": 31.4,
+      "hit_rate": 70,
+      "l5_hr": 60,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 80.0
+    },
+    {
+      "player": "Tyler Mahle",
+      "team": "SF",
+      "opponent": "COL",
+      "prop": "Hits Allowed",
+      "line": 4.5,
+      "pick": "OVER",
+      "projected": 5.7,
+      "edge": 1.2,
+      "edge_pct": 26.7,
+      "hit_rate": 70,
+      "l5_hr": 60,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 80.0
+    }
+  ],
+  "games": {
+    "games": [
+      {
+        "away": "MIL",
+        "home": "PIT",
+        "odds": {
+          "spread": "PIT -117",
+          "over_under": 8.5,
+          "home_ml": "-117",
+          "away_ml": "-103"
+        },
+        "away_pitcher": "Brandon Sproat",
+        "home_pitcher": "Braxton Ashcraft"
+      },
+      {
+        "away": "LAA",
+        "home": "MIN",
+        "odds": {
+          "spread": "MIN -175",
+          "over_under": 9.0,
+          "home_ml": "-175",
+          "away_ml": "+144"
+        },
+        "away_pitcher": "Ryan Johnson",
+        "home_pitcher": "Joe Ryan"
+      },
+      {
+        "away": "ATH",
+        "home": "CHW",
+        "odds": {
+          "spread": "CHW -115",
+          "over_under": 8.5,
+          "home_ml": "-115",
+          "away_ml": "-105"
+        },
+        "away_pitcher": "Gage Jump",
+        "home_pitcher": "Bryan Hudson"
+      },
+      {
+        "away": "MIL",
+        "home": "PIT",
+        "odds": {
+          "spread": "MIL -126",
+          "over_under": 9.0,
+          "home_ml": "+104",
+          "away_ml": "-126"
+        },
+        "away_pitcher": "Shane Drohan",
+        "home_pitcher": "Bubba Chandler"
+      },
+      {
+        "away": "NYY",
+        "home": "WSH",
+        "odds": {
+          "spread": "NYY -198",
+          "over_under": 9.0,
+          "home_ml": "+162",
+          "away_ml": "-198"
+        },
+        "away_pitcher": "Cam Schlittler",
+        "home_pitcher": "Miles Mikolas"
+      },
+      {
+        "away": "COL",
+        "home": "SF",
+        "odds": {
+          "spread": "SF -149",
+          "over_under": 8.5,
+          "home_ml": "-149",
+          "away_ml": "+124"
+        },
+        "away_pitcher": "Kyle Freeland",
+        "home_pitcher": "Tyler Mahle"
+      },
+      {
+        "away": "BOS",
+        "home": "NYM",
+        "odds": {
+          "spread": "NYM -162",
+          "over_under": 8.0,
+          "home_ml": "-162",
+          "away_ml": "+134"
+        },
+        "away_pitcher": "Eduardo Rivera",
+        "home_pitcher": "Freddy Peralta"
+      },
+      {
+        "away": "CLE",
+        "home": "MIA",
+        "odds": {
+          "spread": "MIA -155",
+          "over_under": 8.0,
+          "home_ml": "-155",
+          "away_ml": "+128"
+        },
+        "away_pitcher": "Tanner Bibee",
+        "home_pitcher": "Eury Perez"
+      },
+      {
+        "away": "SEA",
+        "home": "TB",
+        "odds": {
+          "spread": "TB -115",
+          "over_under": 7.0,
+          "home_ml": "-115",
+          "away_ml": "-105"
+        },
+        "away_pitcher": "Logan Gilbert",
+        "home_pitcher": "Griffin Jax"
+      },
+      {
+        "away": "PHI",
+        "home": "DET",
+        "odds": {
+          "spread": "PHI -143",
+          "over_under": 7.5,
+          "home_ml": "+119",
+          "away_ml": "-143"
+        },
+        "away_pitcher": "Cristopher Sanchez",
+        "home_pitcher": "Casey Mize"
+      },
+      {
+        "away": "KC",
+        "home": "BAL",
+        "odds": {
+          "spread": "BAL -156",
+          "over_under": 9.0,
+          "home_ml": "-156",
+          "away_ml": "+129"
+        },
+        "away_pitcher": "Noah Cameron",
+        "home_pitcher": "Kyle Bradish"
+      },
+      {
+        "away": "HOU",
+        "home": "TEX",
+        "odds": {
+          "spread": "TEX -120",
+          "over_under": 8.5,
+          "home_ml": "-120",
+          "away_ml": "+100"
+        },
+        "away_pitcher": "Peter Lambert",
+        "home_pitcher": "Kumar Rocker"
+      },
+      {
+        "away": "CHC",
+        "home": "CIN",
+        "odds": {
+          "spread": "CIN -114",
+          "over_under": 10.0,
+          "home_ml": "-114",
+          "away_ml": "-105"
+        },
+        "away_pitcher": "Javier Assad",
+        "home_pitcher": "Nick Lodolo"
+      },
+      {
+        "away": "ATL",
+        "home": "STL",
+        "odds": {
+          "spread": "STL -112",
+          "over_under": 8.0,
+          "home_ml": "-112",
+          "away_ml": "-107"
+        },
+        "away_pitcher": "Reynaldo Lopez",
+        "home_pitcher": "Matthew Liberatore"
+      },
+      {
+        "away": "TOR",
+        "home": "SD",
+        "odds": {
+          "spread": "SD -112",
+          "over_under": 8.0,
+          "home_ml": "-112",
+          "away_ml": "-107"
+        },
+        "away_pitcher": "Trey Yesavage",
+        "home_pitcher": "Walker Buehler"
+      },
+      {
+        "away": "ARI",
+        "home": "LAD",
+        "odds": {
+          "spread": "LAD -283",
+          "over_under": 9.0,
+          "home_ml": "-283",
+          "away_ml": "+226"
+        },
+        "away_pitcher": "Brandon Pfaadt",
+        "home_pitcher": "Yoshinobu Yamamoto"
+      }
+    ]
+  },
+  "players_analyzed": 60
+}
