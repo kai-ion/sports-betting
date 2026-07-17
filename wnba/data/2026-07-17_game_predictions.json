@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-17",
+  "predictions": [
+    {
+      "home_team": "DAL",
+      "away_team": "NY",
+      "home_projected": 89.3,
+      "away_projected": 86.3,
+      "projected_spread": -3.0,
+      "projected_total": 175.6,
+      "home_win_prob": 67.9,
+      "away_win_prob": 32.1,
+      "home_record": "16-8",
+      "away_record": "13-11",
+      "home_conf": "Western",
+      "away_conf": "Eastern",
+      "home_l10": "7-3",
+      "away_l10": "3-7",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "W5",
+      "away_streak": "L3",
+      "home_home_record": "7-3",
+      "away_away_record": "6-6",
+      "market_odds": {}
+    }
+  ]
+}
