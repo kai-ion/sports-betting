@@ -1,0 +1,943 @@
+{
+  "date": "2026-07-25",
+  "sport": "MLB",
+  "picks": [
+    {
+      "player": "Brice Turang",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 10,
+      "projected": 3.0,
+      "score": 100
+    },
+    {
+      "player": "Julio Rodriguez",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 10,
+      "projected": 0.6,
+      "score": 100
+    },
+    {
+      "player": "James Wood",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 10,
+      "projected": 0.7,
+      "score": 100
+    },
+    {
+      "player": "Hunter Greene",
+      "prop": "Pitcher Strikeouts",
+      "line": 6.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 8.7,
+      "score": 90
+    },
+    {
+      "player": "Sean Burke",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.2,
+      "score": 90
+    },
+    {
+      "player": "Andre Pallante",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.2,
+      "score": 90
+    },
+    {
+      "player": "Ryan Johnson",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 3.2,
+      "score": 90
+    },
+    {
+      "player": "Tanner Bibee",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 4.9,
+      "score": 90
+    },
+    {
+      "player": "Mitch Bratt",
+      "prop": "Outs Recorded",
+      "line": 14.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 3.4,
+      "score": 90
+    },
+    {
+      "player": "Bryan Woo",
+      "prop": "Outs Recorded",
+      "line": 18.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 6.2,
+      "score": 90
+    },
+    {
+      "player": "Nathan Eovaldi",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.7,
+      "score": 90
+    },
+    {
+      "player": "Nolan McLean",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.8,
+      "score": 90
+    },
+    {
+      "player": "Eury Perez",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.2,
+      "score": 90
+    },
+    {
+      "player": "Nick Martinez",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.9,
+      "score": 90
+    },
+    {
+      "player": "Eury Perez",
+      "prop": "Earned Runs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 2.8,
+      "score": 90
+    },
+    {
+      "player": "Yordan Alvarez",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 2.9,
+      "score": 90
+    },
+    {
+      "player": "Drake Baldwin",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 2.9,
+      "score": 90
+    },
+    {
+      "player": "Byron Buxton",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 0.8,
+      "score": 90
+    },
+    {
+      "player": "Bryce Elder",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "confidence": 9,
+      "projected": 5.9,
+      "score": 90
+    },
+    {
+      "player": "Heliot Ramos",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 1.1,
+      "score": 90
+    },
+    {
+      "player": "Bryce Elder",
+      "prop": "Pitcher Strikeouts",
+      "line": 4.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 5.5,
+      "score": 90
+    },
+    {
+      "player": "Bryce Elder",
+      "prop": "Hits Allowed",
+      "line": 5.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 4.1,
+      "score": 90
+    },
+    {
+      "player": "Trevor Larnach",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "UNDER",
+      "confidence": 8,
+      "projected": 1.2,
+      "score": 90
+    },
+    {
+      "player": "Michael Harris II",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 2.0,
+      "score": 90
+    },
+    {
+      "player": "Jonathan Aranda",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 2.7,
+      "score": 80
+    },
+    {
+      "player": "Eury Perez",
+      "prop": "Hits Allowed",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 4.6,
+      "score": 80
+    },
+    {
+      "player": "Alec Burleson",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 2.4,
+      "score": 80
+    },
+    {
+      "player": "Hunter Goodman",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 2.3,
+      "score": 80
+    },
+    {
+      "player": "Freddie Freeman",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 1.9,
+      "score": 80
+    },
+    {
+      "player": "Hunter Goodman",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 1.9,
+      "score": 80
+    }
+  ],
+  "ranked_edges": [
+    {
+      "player": "Brice Turang",
+      "team": "MIL",
+      "opponent": "COL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 3.0,
+      "edge": 1.5,
+      "edge_pct": 100.0,
+      "hit_rate": 80,
+      "l5_hr": 100,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 100
+    },
+    {
+      "player": "Julio Rodriguez",
+      "team": "SEA",
+      "opponent": "TEX",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.6,
+      "edge": -0.9,
+      "edge_pct": 60.0,
+      "hit_rate": 90,
+      "l5_hr": 100,
+      "l10_hr": 90,
+      "h2h_hr": 100,
+      "score": 100
+    },
+    {
+      "player": "James Wood",
+      "team": "WSH",
+      "opponent": "ARI",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.7,
+      "edge": -0.8,
+      "edge_pct": 53.3,
+      "hit_rate": 90,
+      "l5_hr": 100,
+      "l10_hr": 90,
+      "h2h_hr": null,
+      "score": 100
+    },
+    {
+      "player": "Bryce Elder",
+      "team": "ATL",
+      "opponent": "BAL",
+      "prop": "Pitcher Strikeouts",
+      "line": 4.5,
+      "pick": "OVER",
+      "projected": 5.5,
+      "edge": 1.0,
+      "edge_pct": 22.2,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Eury Perez",
+      "team": "MIA",
+      "opponent": "SD",
+      "prop": "Earned Runs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.8,
+      "edge": 1.2,
+      "edge_pct": 80.0,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Michael Harris II",
+      "team": "ATL",
+      "opponent": "BAL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.0,
+      "edge": 0.5,
+      "edge_pct": 33.3,
+      "hit_rate": 30,
+      "l5_hr": 40,
+      "l10_hr": 30,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Drake Baldwin",
+      "team": "ATL",
+      "opponent": "BAL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.9,
+      "edge": 1.4,
+      "edge_pct": 93.3,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Yordan Alvarez",
+      "team": "HOU",
+      "opponent": "CHW",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.9,
+      "edge": 1.4,
+      "edge_pct": 93.3,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Hunter Greene",
+      "team": "CIN",
+      "opponent": "STL",
+      "prop": "Pitcher Strikeouts",
+      "line": 6.5,
+      "pick": "OVER",
+      "projected": 8.7,
+      "edge": 2.2,
+      "edge_pct": 33.8,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Sean Burke",
+      "team": "CWS",
+      "opponent": "",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.2,
+      "edge": -12.3,
+      "edge_pct": 70.3,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Heliot Ramos",
+      "team": "SF",
+      "opponent": "LAA",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.1,
+      "edge": -0.4,
+      "edge_pct": 26.7,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Andre Pallante",
+      "team": "STL",
+      "opponent": "CIN",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.2,
+      "edge": -12.3,
+      "edge_pct": 70.3,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Ryan Johnson",
+      "team": "LAA",
+      "opponent": "SF",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "projected": 3.2,
+      "edge": -12.3,
+      "edge_pct": 79.4,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Tanner Bibee",
+      "team": "CLE",
+      "opponent": "TB",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 4.9,
+      "edge": -12.6,
+      "edge_pct": 72.0,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Bryce Elder",
+      "team": "ATL",
+      "opponent": "BAL",
+      "prop": "Outs Recorded",
+      "line": 15.5,
+      "pick": "UNDER",
+      "projected": 5.9,
+      "edge": -9.6,
+      "edge_pct": 61.9,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Bryce Elder",
+      "team": "ATL",
+      "opponent": "BAL",
+      "prop": "Hits Allowed",
+      "line": 5.5,
+      "pick": "UNDER",
+      "projected": 4.1,
+      "edge": -1.4,
+      "edge_pct": 25.5,
+      "hit_rate": 70,
+      "l5_hr": 100,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Mitch Bratt",
+      "team": "ARI",
+      "opponent": "WSH",
+      "prop": "Outs Recorded",
+      "line": 14.5,
+      "pick": "UNDER",
+      "projected": 3.4,
+      "edge": -11.1,
+      "edge_pct": 76.6,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Bryan Woo",
+      "team": "SEA",
+      "opponent": "TEX",
+      "prop": "Outs Recorded",
+      "line": 18.5,
+      "pick": "UNDER",
+      "projected": 6.2,
+      "edge": -12.3,
+      "edge_pct": 66.5,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Nathan Eovaldi",
+      "team": "TEX",
+      "opponent": "SEA",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.7,
+      "edge": -11.8,
+      "edge_pct": 67.4,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Nolan McLean",
+      "team": "NYM",
+      "opponent": "LAD",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.8,
+      "edge": -11.7,
+      "edge_pct": 66.9,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Eury Perez",
+      "team": "MIA",
+      "opponent": "SD",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.2,
+      "edge": -12.3,
+      "edge_pct": 70.3,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Trevor Larnach",
+      "team": "MIN",
+      "opponent": "ATH",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 1.2,
+      "edge": -0.3,
+      "edge_pct": 20.0,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 90.0
+    },
+    {
+      "player": "Byron Buxton",
+      "team": "MIN",
+      "opponent": "ATH",
+      "prop": "Hits",
+      "line": 1.5,
+      "pick": "UNDER",
+      "projected": 0.8,
+      "edge": -0.7,
+      "edge_pct": 46.7,
+      "hit_rate": 90,
+      "l5_hr": 80,
+      "l10_hr": 90,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Nick Martinez",
+      "team": "TB",
+      "opponent": "CLE",
+      "prop": "Outs Recorded",
+      "line": 17.5,
+      "pick": "UNDER",
+      "projected": 5.9,
+      "edge": -11.6,
+      "edge_pct": 66.3,
+      "hit_rate": 100,
+      "l5_hr": 100,
+      "l10_hr": 100,
+      "h2h_hr": null,
+      "score": 90
+    },
+    {
+      "player": "Hunter Goodman",
+      "team": "COL",
+      "opponent": "MIL",
+      "prop": "Total Bases",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.9,
+      "edge": 0.4,
+      "edge_pct": 26.7,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": null,
+      "score": 80.0
+    },
+    {
+      "player": "Hunter Goodman",
+      "team": "COL",
+      "opponent": "MIL",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.3,
+      "edge": 0.8,
+      "edge_pct": 53.3,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": null,
+      "score": 80.0
+    },
+    {
+      "player": "Alec Burleson",
+      "team": "STL",
+      "opponent": "CIN",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.4,
+      "edge": 0.9,
+      "edge_pct": 60.0,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": null,
+      "score": 80.0
+    },
+    {
+      "player": "Eury Perez",
+      "team": "MIA",
+      "opponent": "SD",
+      "prop": "Hits Allowed",
+      "line": 3.5,
+      "pick": "OVER",
+      "projected": 4.6,
+      "edge": 1.1,
+      "edge_pct": 31.4,
+      "hit_rate": 70,
+      "l5_hr": 60,
+      "l10_hr": 70,
+      "h2h_hr": null,
+      "score": 80.0
+    },
+    {
+      "player": "Freddie Freeman",
+      "team": "LAD",
+      "opponent": "NYM",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.9,
+      "edge": 0.4,
+      "edge_pct": 26.7,
+      "hit_rate": 70,
+      "l5_hr": 40,
+      "l10_hr": 70,
+      "h2h_hr": 33,
+      "score": 80.0
+    },
+    {
+      "player": "Jonathan Aranda",
+      "team": "TB",
+      "opponent": "CLE",
+      "prop": "Hits+Runs+RBIs",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 2.7,
+      "edge": 1.2,
+      "edge_pct": 80.0,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 67,
+      "score": 80.0
+    }
+  ],
+  "games": {
+    "games": [
+      {
+        "away": "KC",
+        "home": "DET",
+        "odds": {
+          "spread": "DET -162",
+          "over_under": 8.0,
+          "home_ml": "-162",
+          "away_ml": "+134"
+        },
+        "away_pitcher": "Michael Wacha",
+        "home_pitcher": "Casey Mize"
+      },
+      {
+        "away": "ARI",
+        "home": "WSH",
+        "odds": {
+          "spread": "WSH -144",
+          "over_under": 9.0,
+          "home_ml": "-144",
+          "away_ml": "+119"
+        },
+        "away_pitcher": "Mitch Bratt",
+        "home_pitcher": "Foster Griffin"
+      },
+      {
+        "away": "LAA",
+        "home": "SF",
+        "odds": {
+          "spread": "SF -131",
+          "over_under": 9.0,
+          "home_ml": "-131",
+          "away_ml": "+109"
+        },
+        "away_pitcher": "Ryan Johnson",
+        "home_pitcher": "Robbie Ray"
+      },
+      {
+        "away": "SD",
+        "home": "MIA",
+        "odds": {
+          "spread": "MIA -137",
+          "over_under": 8.0,
+          "home_ml": "-137",
+          "away_ml": "+114"
+        },
+        "away_pitcher": "JP Sears",
+        "home_pitcher": "Eury Perez"
+      },
+      {
+        "away": "TOR",
+        "home": "BOS",
+        "odds": {
+          "spread": "TOR -110",
+          "over_under": 7.5,
+          "home_ml": "-109",
+          "away_ml": "-110"
+        },
+        "away_pitcher": "Dylan Cease",
+        "home_pitcher": "Sonny Gray"
+      },
+      {
+        "away": "NYY",
+        "home": "PHI",
+        "odds": {
+          "spread": "NYY -124",
+          "over_under": 9.0,
+          "home_ml": "+103",
+          "away_ml": "-124"
+        },
+        "away_pitcher": "Ryan Weathers",
+        "home_pitcher": ""
+      },
+      {
+        "away": "CLE",
+        "home": "TB",
+        "odds": {
+          "spread": "TB -122",
+          "over_under": 8.0,
+          "home_ml": "-122",
+          "away_ml": "+101"
+        },
+        "away_pitcher": "Tanner Bibee",
+        "home_pitcher": "Nick Martinez"
+      },
+      {
+        "away": "CHC",
+        "home": "PIT",
+        "odds": {
+          "spread": "PIT -120",
+          "over_under": 8.0,
+          "home_ml": "-120",
+          "away_ml": "+100"
+        },
+        "away_pitcher": "Shota Imanaga",
+        "home_pitcher": "Paul Skenes"
+      },
+      {
+        "away": "ATL",
+        "home": "BAL",
+        "odds": {
+          "spread": "BAL -114",
+          "over_under": 9.0,
+          "home_ml": "-114",
+          "away_ml": "-105"
+        },
+        "away_pitcher": "Bryce Elder",
+        "home_pitcher": "Brandon Young"
+      },
+      {
+        "away": "ATH",
+        "home": "MIN",
+        "odds": {
+          "spread": "MIN -159",
+          "over_under": 10.5,
+          "home_ml": "-159",
+          "away_ml": "+131"
+        },
+        "away_pitcher": "Mason Barnett",
+        "home_pitcher": ""
+      },
+      {
+        "away": "COL",
+        "home": "MIL",
+        "odds": {
+          "spread": "MIL -232",
+          "over_under": 9.0,
+          "home_ml": "-232",
+          "away_ml": "+188"
+        },
+        "away_pitcher": "Ryan Feltner",
+        "home_pitcher": "Robert Gasser"
+      },
+      {
+        "away": "HOU",
+        "home": "CHW",
+        "odds": {
+          "spread": "CHW -126",
+          "over_under": 8.5,
+          "home_ml": "-126",
+          "away_ml": "+105"
+        },
+        "away_pitcher": "Hunter Brown",
+        "home_pitcher": "Sean Burke"
+      },
+      {
+        "away": "LAD",
+        "home": "NYM",
+        "odds": {
+          "spread": "LAD -156",
+          "over_under": 7.5,
+          "home_ml": "+129",
+          "away_ml": "-156"
+        },
+        "away_pitcher": "Yoshinobu Yamamoto",
+        "home_pitcher": "Nolan McLean"
+      },
+      {
+        "away": "CIN",
+        "home": "STL",
+        "odds": {
+          "spread": "STL -112",
+          "over_under": 8.0,
+          "home_ml": "-112",
+          "away_ml": "-107"
+        },
+        "away_pitcher": "Hunter Greene",
+        "home_pitcher": "Andre Pallante"
+      },
+      {
+        "away": "SEA",
+        "home": "TEX",
+        "odds": {
+          "spread": "SEA -114",
+          "over_under": 7.5,
+          "home_ml": "-105",
+          "away_ml": "-114"
+        },
+        "away_pitcher": "Bryan Woo",
+        "home_pitcher": "Nathan Eovaldi"
+      }
+    ]
+  },
+  "players_analyzed": 60
+}
