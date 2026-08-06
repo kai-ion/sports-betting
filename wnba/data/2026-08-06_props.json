@@ -1,0 +1,4635 @@
+{
+  "date": "2026-08-06",
+  "sport": "WNBA",
+  "games": [],
+  "total_props": 554,
+  "props": [
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 44.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 30.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 44.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Caitlin Clark",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 27.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 0.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 49.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 44.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 54.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 41.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 44.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 31.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 49.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 44.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 37.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "A'ja Wilson",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 18.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 26.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Napheesa Collier",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 0.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Aliyah Boston",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Dearica Hamby",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 0.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Courtney Williams",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 18.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jackie Young",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 0.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 26.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 26.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Chelsea Gray",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 27.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marina Mabrey",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 18.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Howard",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla McBride",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "team": "LVA",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Bridget Carleton",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Monique Billings",
+      "team": "IND",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Nyara Sabally",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Assists",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Assists",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Assists",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Assists",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Assists",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 28.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Carla Leite",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Points",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Points",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 0.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Assists",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 39.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 18.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 26.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 18.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Megan DiLeo",
+      "team": "POR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 29.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 34.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Rae Burrell",
+      "team": "LAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Maria Conde",
+      "team": "TOR",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Olivia Miles",
+      "team": "MIN",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    }
+  ],
+  "players": {
+    "Caitlin Clark": {
+      "Points": 24.5,
+      "3-Pointers Made": 4.5,
+      "Rebounds": 5.5,
+      "Assists": 11.5,
+      "Pts+Rebs+Asts": 39.5,
+      "Pts+Asts": 39.5,
+      "Pts+Rebs": 29.5,
+      "Rebs+Asts": 14.5
+    },
+    "A'ja Wilson": {
+      "Points": 29.5,
+      "3-Pointers Made": 1.5,
+      "Rebounds": 12.5,
+      "Assists": 5.5,
+      "Pts+Rebs+Asts": 49.5,
+      "Pts+Asts": 39.5,
+      "Pts+Rebs": 44.5,
+      "Rebs+Asts": 14.5
+    },
+    "Napheesa Collier": {
+      "Points": 24.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 8.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 29.5,
+      "Rebs+Asts": 11.5
+    },
+    "Aliyah Boston": {
+      "Points": 17.5,
+      "3-Pointers Made": 1.5,
+      "Rebounds": 10.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 29.5,
+      "Rebs+Asts": 14.5
+    },
+    "Dearica Hamby": {
+      "Points": 17.5,
+      "Rebounds": 9.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Asts": 17.5,
+      "Pts+Rebs": 24.5,
+      "Rebs+Asts": 11.5
+    },
+    "Courtney Williams": {
+      "Points": 17.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 6.5,
+      "Assists": 5.5,
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 19.5,
+      "Rebs+Asts": 9.5
+    },
+    "Jackie Young": {
+      "Points": 18.5,
+      "3-Pointers Made": 3.5,
+      "Rebounds": 6.5,
+      "Assists": 8.5,
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Rebs+Asts": 14.5
+    },
+    "Nneka Ogwumike": {
+      "Points": 19.5,
+      "3-Pointers Made": 1.5,
+      "Rebounds": 11.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 34.5,
+      "Rebs+Asts": 14.5
+    },
+    "Kelsey Mitchell": {
+      "Points": 29.5,
+      "3-Pointers Made": 4.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 34.5
+    },
+    "Chelsea Gray": {
+      "Points": 14.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 4.5,
+      "Assists": 8.5,
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 19.5,
+      "Rebs+Asts": 11.5
+    },
+    "Marina Mabrey": {
+      "Points": 24.5,
+      "3-Pointers Made": 3.5,
+      "Rebounds": 5.5,
+      "Assists": 5.5,
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Rebs+Asts": 9.5
+    },
+    "Natasha Howard": {
+      "Points": 14.5,
+      "Rebounds": 7.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 24.5,
+      "Rebs+Asts": 8.5
+    },
+    "Kayla McBride": {
+      "Points": 19.5,
+      "3-Pointers Made": 4.5,
+      "Rebounds": 4.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Asts": 24.5,
+      "Pts+Rebs": 24.5,
+      "Rebs+Asts": 4.5
+    },
+    "NaLyssa Smith": {
+      "Points": 17.5,
+      "Rebounds": 7.5,
+      "Pts+Rebs+Asts": 17.5,
+      "Pts+Rebs": 19.5
+    },
+    "Bridget Carleton": {
+      "Points": 17.5,
+      "3-Pointers Made": 3.5,
+      "Rebounds": 5.5,
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Rebs": 24.5
+    },
+    "Monique Billings": {
+      "Points": 11.5,
+      "Rebounds": 7.5,
+      "Pts+Rebs": 19.5
+    },
+    "Nyara Sabally": {
+      "Points": 17.5,
+      "Rebounds": 6.5,
+      "Pts+Rebs": 24.5
+    },
+    "Carla Leite": {
+      "Points": 19.5,
+      "Rebounds": 3.5,
+      "Assists": 9.5,
+      "Pts+Rebs+Asts": 29.5,
+      "Pts+Asts": 29.5,
+      "Pts+Rebs": 24.5,
+      "Rebs+Asts": 11.5
+    },
+    "Megan DiLeo": {
+      "Points": 19.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 6.5,
+      "Pts+Rebs": 24.5
+    },
+    "Maria Conde": {
+      "Points": 14.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 6.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 19.5,
+      "Pts+Asts": 19.5,
+      "Pts+Rebs": 19.5,
+      "Rebs+Asts": 9.5
+    },
+    "Olivia Miles": {
+      "Points": 24.5,
+      "3-Pointers Made": 1.5,
+      "Rebounds": 6.5,
+      "Assists": 8.5,
+      "Pts+Rebs+Asts": 34.5,
+      "Pts+Asts": 29.5,
+      "Pts+Rebs": 29.5,
+      "Rebs+Asts": 11.5
+    },
+    "Rae Burrell": {
+      "Points": 17.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 4.5,
+      "Assists": 4.5,
+      "Pts+Rebs+Asts": 24.5,
+      "Pts+Asts": 18.5,
+      "Pts+Rebs": 18.5,
+      "Rebs+Asts": 5.5
+    }
+  }
+}
