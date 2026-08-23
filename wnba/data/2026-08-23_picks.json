@@ -1,0 +1,591 @@
+{
+  "date": "2026-08-23",
+  "sport": "WNBA",
+  "picks": [
+    {
+      "player": "Jackie Young",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 3.3,
+      "score": 100
+    },
+    {
+      "player": "Jackie Young",
+      "prop": "Points",
+      "line": 19.5,
+      "pick": "OVER",
+      "confidence": 9,
+      "projected": 21.9,
+      "score": 91.2
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "Pts+Rebs+Asts",
+      "line": 18.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 21.1,
+      "score": 88.6
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "Pts+Asts",
+      "line": 16.5,
+      "pick": "OVER",
+      "confidence": 8,
+      "projected": 19.1,
+      "score": 87.9
+    },
+    {
+      "player": "Bridget Carleton",
+      "prop": "Rebounds",
+      "line": 4.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 5.6,
+      "score": 90.0
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 4.9,
+      "score": 80.0
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Pts+Rebs",
+      "line": 16.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 20.4,
+      "score": 61.8
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 26.1,
+      "score": 61.8
+    },
+    {
+      "player": "Megan DiLeo",
+      "prop": "Rebounds",
+      "line": 4.5,
+      "pick": "OVER",
+      "confidence": 7,
+      "projected": 5.2,
+      "score": 80.0
+    },
+    {
+      "player": "Sonia Citron",
+      "prop": "Assists",
+      "line": 4.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 5.0,
+      "score": 70.0
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Points",
+      "line": 12.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 15.5,
+      "score": 66.9
+    },
+    {
+      "player": "Bridget Carleton",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 2.9,
+      "score": 80.0
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 2.8,
+      "score": 80.0
+    },
+    {
+      "player": "NaLyssa Smith",
+      "prop": "Rebounds",
+      "line": 6.5,
+      "pick": "OVER",
+      "confidence": 6,
+      "projected": 7.5,
+      "score": 70.0
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "Points",
+      "line": 14.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 16.6,
+      "score": 70.5
+    },
+    {
+      "player": "Sonia Citron",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 4.1,
+      "score": 60.0
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 5,
+      "projected": 1.7,
+      "score": 80.0
+    },
+    {
+      "player": "Sonia Citron",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 1.7,
+      "score": 70.0
+    },
+    {
+      "player": "Odyssey Sims",
+      "prop": "Pts+Rebs",
+      "line": 7.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 8.7,
+      "score": 61.5
+    },
+    {
+      "player": "Odyssey Sims",
+      "prop": "Pts+Asts",
+      "line": 8.5,
+      "pick": "OVER",
+      "confidence": 4,
+      "projected": 9.5,
+      "score": 61.0
+    }
+  ],
+  "ranked_edges": [
+    {
+      "player": "Jackie Young",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "projected": 3.3,
+      "edge": 0.8,
+      "edge_pct": 31.8,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 100,
+      "games_sample": 100,
+      "team": "LVA"
+    },
+    {
+      "player": "Jackie Young",
+      "prop": "Points",
+      "line": 19.5,
+      "pick": "OVER",
+      "projected": 21.9,
+      "edge": 2.4,
+      "edge_pct": 12.1,
+      "hit_rate": 80,
+      "l5_hr": 80,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 91.2,
+      "games_sample": 100,
+      "team": "LVA"
+    },
+    {
+      "player": "Bridget Carleton",
+      "prop": "Rebounds",
+      "line": 4.5,
+      "pick": "OVER",
+      "projected": 5.6,
+      "edge": 1.1,
+      "edge_pct": 24.7,
+      "hit_rate": 70,
+      "l5_hr": 80,
+      "l10_hr": 70,
+      "h2h_hr": 20,
+      "trend": "HOT",
+      "score": 90.0,
+      "games_sample": 89,
+      "team": "POR"
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "Pts+Rebs+Asts",
+      "line": 18.5,
+      "pick": "OVER",
+      "projected": 21.1,
+      "edge": 2.6,
+      "edge_pct": 14.3,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 88.6,
+      "games_sample": 32,
+      "team": "CHI"
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "Pts+Asts",
+      "line": 16.5,
+      "pick": "OVER",
+      "projected": 19.1,
+      "edge": 2.6,
+      "edge_pct": 15.8,
+      "hit_rate": 80,
+      "l5_hr": 60,
+      "l10_hr": 80,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 87.9,
+      "games_sample": 32,
+      "team": "CHI"
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.7,
+      "edge": 0.2,
+      "edge_pct": 13.9,
+      "hit_rate": 40,
+      "l5_hr": 40,
+      "l10_hr": 40,
+      "h2h_hr": 50,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 82,
+      "team": "CHI"
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "OVER",
+      "projected": 4.9,
+      "edge": 1.4,
+      "edge_pct": 40.6,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 67,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 82,
+      "team": "CHI"
+    },
+    {
+      "player": "Bridget Carleton",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "projected": 2.9,
+      "edge": 0.4,
+      "edge_pct": 15.0,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 20,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 89,
+      "team": "POR"
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "3-Pointers Made",
+      "line": 2.5,
+      "pick": "OVER",
+      "projected": 2.8,
+      "edge": 0.3,
+      "edge_pct": 11.4,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 32,
+      "team": "CHI"
+    },
+    {
+      "player": "Megan DiLeo",
+      "prop": "Rebounds",
+      "line": 4.5,
+      "pick": "OVER",
+      "projected": 5.2,
+      "edge": 0.7,
+      "edge_pct": 15.8,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 33,
+      "trend": "HOT",
+      "score": 80.0,
+      "games_sample": 65,
+      "team": "POR"
+    },
+    {
+      "player": "Sydney Taylor",
+      "prop": "Points",
+      "line": 14.5,
+      "pick": "OVER",
+      "projected": 16.6,
+      "edge": 2.1,
+      "edge_pct": 14.3,
+      "hit_rate": 60,
+      "l5_hr": 20,
+      "l10_hr": 60,
+      "h2h_hr": 100,
+      "trend": "HOT",
+      "score": 70.5,
+      "games_sample": 32,
+      "team": "CHI"
+    },
+    {
+      "player": "Sonia Citron",
+      "prop": "3-Pointers Made",
+      "line": 1.5,
+      "pick": "OVER",
+      "projected": 1.7,
+      "edge": 0.2,
+      "edge_pct": 11.5,
+      "hit_rate": 40,
+      "l5_hr": 20,
+      "l10_hr": 40,
+      "h2h_hr": 0,
+      "trend": "NEUTRAL",
+      "score": 70.0,
+      "games_sample": 83,
+      "team": "WAS"
+    },
+    {
+      "player": "Sonia Citron",
+      "prop": "Assists",
+      "line": 4.5,
+      "pick": "OVER",
+      "projected": 5.0,
+      "edge": 0.5,
+      "edge_pct": 10.4,
+      "hit_rate": 60,
+      "l5_hr": 80,
+      "l10_hr": 60,
+      "h2h_hr": 0,
+      "trend": "NEUTRAL",
+      "score": 70.0,
+      "games_sample": 83,
+      "team": "WAS"
+    },
+    {
+      "player": "NaLyssa Smith",
+      "prop": "Rebounds",
+      "line": 6.5,
+      "pick": "OVER",
+      "projected": 7.5,
+      "edge": 1.0,
+      "edge_pct": 15.6,
+      "hit_rate": 50,
+      "l5_hr": 60,
+      "l10_hr": 50,
+      "h2h_hr": 0,
+      "trend": "HOT",
+      "score": 70.0,
+      "games_sample": 99,
+      "team": "LVA"
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Points",
+      "line": 12.5,
+      "pick": "OVER",
+      "projected": 15.5,
+      "edge": 3.0,
+      "edge_pct": 23.6,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 50,
+      "trend": "HOT",
+      "score": 66.9,
+      "games_sample": 82,
+      "team": "CHI"
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Pts+Rebs+Asts",
+      "line": 22.5,
+      "pick": "OVER",
+      "projected": 26.1,
+      "edge": 3.6,
+      "edge_pct": 16.2,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 33,
+      "trend": "HOT",
+      "score": 61.8,
+      "games_sample": 82,
+      "team": "CHI"
+    },
+    {
+      "player": "Natasha Cloud",
+      "prop": "Pts+Rebs",
+      "line": 16.5,
+      "pick": "OVER",
+      "projected": 20.4,
+      "edge": 3.9,
+      "edge_pct": 23.5,
+      "hit_rate": 60,
+      "l5_hr": 60,
+      "l10_hr": 60,
+      "h2h_hr": 50,
+      "trend": "HOT",
+      "score": 61.8,
+      "games_sample": 82,
+      "team": "CHI"
+    },
+    {
+      "player": "Odyssey Sims",
+      "prop": "Pts+Rebs",
+      "line": 7.5,
+      "pick": "OVER",
+      "projected": 8.7,
+      "edge": 1.2,
+      "edge_pct": 15.4,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": 50,
+      "trend": "NEUTRAL",
+      "score": 61.5,
+      "games_sample": 63,
+      "team": "DAL"
+    },
+    {
+      "player": "Odyssey Sims",
+      "prop": "Pts+Asts",
+      "line": 8.5,
+      "pick": "OVER",
+      "projected": 9.5,
+      "edge": 1.0,
+      "edge_pct": 12.2,
+      "hit_rate": 40,
+      "l5_hr": 60,
+      "l10_hr": 40,
+      "h2h_hr": 50,
+      "trend": "NEUTRAL",
+      "score": 61.0,
+      "games_sample": 63,
+      "team": "DAL"
+    },
+    {
+      "player": "Sonia Citron",
+      "prop": "Rebounds",
+      "line": 3.5,
+      "pick": "OVER",
+      "projected": 4.1,
+      "edge": 0.6,
+      "edge_pct": 17.2,
+      "hit_rate": 50,
+      "l5_hr": 60,
+      "l10_hr": 50,
+      "h2h_hr": 100,
+      "trend": "NEUTRAL",
+      "score": 60.0,
+      "games_sample": 83,
+      "team": "WAS"
+    }
+  ],
+  "games": [
+    {
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Wings"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Storm"
+      },
+      "odds": {
+        "spread": "DAL -8.5",
+        "over_under": 174.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Sky"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indiana Fever"
+      },
+      "odds": {
+        "spread": "IND -3.5",
+        "over_under": 186.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "POR",
+        "name": "Portland Fire"
+      },
+      "away": {
+        "abbr": "WSH",
+        "name": "Washington Mystics"
+      },
+      "odds": {
+        "spread": "WSH -5.5",
+        "over_under": 166.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "TOR",
+        "name": "Toronto Tempo"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Aces"
+      },
+      "odds": {
+        "spread": "LV -14.5",
+        "over_under": 180.5
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "players_analyzed": 32
+}
