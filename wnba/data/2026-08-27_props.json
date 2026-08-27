@@ -1,0 +1,929 @@
+{
+  "date": "2026-08-27",
+  "sport": "WNBA",
+  "games": [
+    {
+      "home": {
+        "abbr": "NY",
+        "name": "New York Liberty"
+      },
+      "away": {
+        "abbr": "GS",
+        "name": "Golden State Valkyries"
+      },
+      "odds": {
+        "spread": "NY -2.5",
+        "over_under": 161.5
+      },
+      "status": "Scheduled"
+    },
+    {
+      "home": {
+        "abbr": "PHX",
+        "name": "Phoenix Mercury"
+      },
+      "away": {
+        "abbr": "WSH",
+        "name": "Washington Mystics"
+      },
+      "odds": {
+        "spread": "WSH -3.5",
+        "over_under": 167.5
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "total_props": 94,
+  "props": [
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "Points",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "Assists",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sabrina Ionescu",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 21.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Plum",
+      "team": "PHX",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Plum",
+      "team": "PHX",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kelsey Plum",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 18.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "",
+      "stat": "Assists",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Alyssa Thomas",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Gabby Williams",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "",
+      "stat": "Points",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 31.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 28.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Breanna Stewart",
+      "team": "NYL",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Veronica Burton",
+      "team": "GSV",
+      "position": "",
+      "stat": "Assists",
+      "line": 6.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "Points",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Sonia Citron",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kayla Thornton",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiki Iriafen",
+      "team": "WAS",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiki Iriafen",
+      "team": "WAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiki Iriafen",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiki Iriafen",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 24.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiki Iriafen",
+      "team": "WAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiki Iriafen",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "",
+      "stat": "Points",
+      "line": 14.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 8.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 26.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Jonquel Jones",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 16.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Shakira Austin",
+      "team": "WAS",
+      "position": "",
+      "stat": "Points",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Shakira Austin",
+      "team": "WAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 9.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Shakira Austin",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 30.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Shakira Austin",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 27.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Shakira Austin",
+      "team": "WAS",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Shakira Austin",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 20.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Janelle Salaun",
+      "team": "GSV",
+      "position": "",
+      "stat": "Points",
+      "line": 13.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Janelle Salaun",
+      "team": "GSV",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "",
+      "stat": "Points",
+      "line": 19.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 2.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 25.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 22.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kahleah Copper",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 23.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "",
+      "stat": "Points",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs+Asts",
+      "line": 15.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Leonie Fiebich",
+      "team": "NYL",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 12.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Georgia Amoore",
+      "team": "WAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Georgia Amoore",
+      "team": "WAS",
+      "position": "",
+      "stat": "Assists",
+      "line": 3.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Georgia Amoore",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Asts",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "",
+      "stat": "Rebs+Asts",
+      "line": 4.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Cecilia Zandalasini",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Marine Johannes",
+      "team": "NYL",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Michaela Onyenwere",
+      "team": "WAS",
+      "position": "",
+      "stat": "3-Pointers Made",
+      "line": 1.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Michaela Onyenwere",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 10.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Lauren Betts",
+      "team": "WAS",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiah Stokes",
+      "team": "GSV",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 5.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Mack",
+      "team": "PHX",
+      "position": "",
+      "stat": "Rebounds",
+      "line": 7.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Natasha Mack",
+      "team": "PHX",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 17.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Lauren Betts",
+      "team": "WAS",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 11.5,
+      "source": "underdog"
+    },
+    {
+      "player": "Kiah Stokes",
+      "team": "GSV",
+      "position": "",
+      "stat": "Pts+Rebs",
+      "line": 10.5,
+      "source": "underdog"
+    }
+  ],
+  "players": {
+    "Sabrina Ionescu": {
+      "Points": 16.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 4.5,
+      "Pts+Rebs+Asts": 25.5,
+      "Pts+Rebs": 20.5,
+      "Rebs+Asts": 9.5,
+      "Assists": 4.5,
+      "Pts+Asts": 21.5
+    },
+    "Kelsey Plum": {
+      "Points": 13.5,
+      "3-Pointers Made": 1.5,
+      "Pts+Rebs+Asts": 18.5
+    },
+    "Alyssa Thomas": {
+      "Points": 14.5,
+      "Rebounds": 8.5,
+      "Pts+Rebs+Asts": 31.5,
+      "Rebs+Asts": 16.5,
+      "Pts+Asts": 23.5,
+      "Assists": 7.5,
+      "Pts+Rebs": 23.5
+    },
+    "Gabby Williams": {
+      "Points": 13.5,
+      "3-Pointers Made": 1.5,
+      "Pts+Rebs+Asts": 19.5,
+      "Pts+Asts": 15.5,
+      "Rebs+Asts": 5.5,
+      "Pts+Rebs": 16.5
+    },
+    "Breanna Stewart": {
+      "Points": 20.5,
+      "Rebounds": 7.5,
+      "Pts+Rebs+Asts": 31.5,
+      "Pts+Asts": 23.5,
+      "Pts+Rebs": 28.5,
+      "Assists": 3.5,
+      "Rebs+Asts": 11.5
+    },
+    "Veronica Burton": {
+      "Points": 13.5,
+      "Rebounds": 3.5,
+      "Pts+Rebs": 17.5,
+      "Assists": 6.5
+    },
+    "Sonia Citron": {
+      "Points": 16.5,
+      "3-Pointers Made": 1.5,
+      "Rebounds": 3.5,
+      "Pts+Rebs+Asts": 25.5,
+      "Assists": 5.5,
+      "Rebs+Asts": 8.5,
+      "Pts+Asts": 22.5,
+      "Pts+Rebs": 20.5
+    },
+    "Kayla Thornton": {
+      "3-Pointers Made": 1.5,
+      "Rebounds": 4.5,
+      "Pts+Rebs": 11.5
+    },
+    "Kiki Iriafen": {
+      "Points": 14.5,
+      "Rebounds": 9.5,
+      "Pts+Rebs+Asts": 26.5,
+      "Pts+Rebs": 24.5,
+      "Rebs+Asts": 11.5,
+      "Pts+Asts": 16.5
+    },
+    "Jonquel Jones": {
+      "Points": 14.5,
+      "3-Pointers Made": 1.5,
+      "Rebounds": 8.5,
+      "Pts+Rebs+Asts": 26.5,
+      "Rebs+Asts": 11.5,
+      "Pts+Rebs": 23.5,
+      "Pts+Asts": 16.5
+    },
+    "Shakira Austin": {
+      "Points": 17.5,
+      "Rebounds": 9.5,
+      "Pts+Rebs+Asts": 30.5,
+      "Pts+Rebs": 27.5,
+      "Rebs+Asts": 12.5,
+      "Pts+Asts": 20.5
+    },
+    "Janelle Salaun": {
+      "Points": 13.5,
+      "3-Pointers Made": 2.5
+    },
+    "Kahleah Copper": {
+      "Points": 19.5,
+      "3-Pointers Made": 2.5,
+      "Rebounds": 3.5,
+      "Pts+Rebs+Asts": 25.5,
+      "Rebs+Asts": 5.5,
+      "Pts+Asts": 22.5,
+      "Pts+Rebs": 23.5
+    },
+    "Leonie Fiebich": {
+      "Points": 10.5,
+      "3-Pointers Made": 1.5,
+      "Pts+Rebs+Asts": 15.5,
+      "Pts+Rebs": 12.5
+    },
+    "Georgia Amoore": {
+      "3-Pointers Made": 1.5,
+      "Assists": 3.5,
+      "Pts+Asts": 10.5
+    },
+    "Cecilia Zandalasini": {
+      "3-Pointers Made": 1.5,
+      "Pts+Asts": 10.5,
+      "Rebs+Asts": 4.5,
+      "Pts+Rebs": 10.5
+    },
+    "Marine Johannes": {
+      "3-Pointers Made": 1.5
+    },
+    "Michaela Onyenwere": {
+      "3-Pointers Made": 1.5,
+      "Pts+Rebs": 10.5
+    },
+    "Lauren Betts": {
+      "Rebounds": 5.5,
+      "Pts+Rebs": 11.5
+    },
+    "Kiah Stokes": {
+      "Rebounds": 5.5,
+      "Pts+Rebs": 10.5
+    },
+    "Natasha Mack": {
+      "Rebounds": 7.5,
+      "Pts+Rebs": 17.5
+    }
+  }
+}
