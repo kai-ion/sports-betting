@@ -1,0 +1,1934 @@
+{
+  "date": "2026-08-31",
+  "sport": "MLB",
+  "source": "bettingpros",
+  "games": [
+    {
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco Giants",
+        "probable_pitcher": "Anthony Molina"
+      },
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Braves",
+        "probable_pitcher": "Bryce Elder"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "SD",
+        "name": "San Diego Padres",
+        "probable_pitcher": "Michael King"
+      },
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Reds",
+        "probable_pitcher": "Brady Singer"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "NYM",
+        "name": "New York Mets",
+        "probable_pitcher": "Robert Stock"
+      },
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Rays",
+        "probable_pitcher": "Ian Seymour"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Mariners",
+        "probable_pitcher": "George Kirby"
+      },
+      "home": {
+        "abbr": "BOS",
+        "name": "Boston Red Sox",
+        "probable_pitcher": "Payton Tolle"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Marlins",
+        "probable_pitcher": "Ryan Gusto"
+      },
+      "home": {
+        "abbr": "WSH",
+        "name": "Washington Nationals",
+        "probable_pitcher": "Will Dion"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Tigers",
+        "probable_pitcher": "Jackson Jobe"
+      },
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Twins",
+        "probable_pitcher": "Taj Bradley"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "MIL",
+        "name": "Milwaukee Brewers",
+        "probable_pitcher": "Kyle Harrison"
+      },
+      "home": {
+        "abbr": "CHC",
+        "name": "Chicago Cubs",
+        "probable_pitcher": "Clay Holmes"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "ATH",
+        "name": "Athletics",
+        "probable_pitcher": "Gage Jump"
+      },
+      "home": {
+        "abbr": "TEX",
+        "name": "Texas Rangers",
+        "probable_pitcher": "Jacob deGrom"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "CWS",
+        "name": "Chicago White Sox",
+        "probable_pitcher": "Anthony Kay"
+      },
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Astros",
+        "probable_pitcher": "Peter Lambert"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Orioles",
+        "probable_pitcher": ""
+      },
+      "home": {
+        "abbr": "COL",
+        "name": "Colorado Rockies",
+        "probable_pitcher": "Tanner Gordon"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "NYY",
+        "name": "New York Yankees",
+        "probable_pitcher": "Elmer Rodr\u00edguez"
+      },
+      "home": {
+        "abbr": "LAA",
+        "name": "Los Angeles Angels",
+        "probable_pitcher": "Walbert Ure\u00f1a"
+      },
+      "odds": {},
+      "status": "Scheduled"
+    },
+    {
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Phillies",
+        "probable_pitcher": "Aaron Nola"
+      },
+      "home": {
+        "abbr": "AZ",
+        "name": "Arizona Diamondbacks",
+        "probable_pitcher": ""
+      },
+      "odds": {},
+      "status": "Scheduled"
+    }
+  ],
+  "total_props": 1329,
+  "players": {
+    "Fernando Tatis": {
+      "Hits+Runs+RBIs": 2.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Cal Raleigh": {
+      "Hits+Runs+RBIs": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Kyle Schwarber": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Juan Soto": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Mike Trout": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Manny Machado": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Corbin Carroll": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Bryce Harper": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Rafael Devers": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Corey Seager": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ronald Acu\u00f1a Jr.": {
+      "Hits+Runs+RBIs": 3.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jose Altuve": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Pete Alonso": {
+      "Hits+Runs+RBIs": 2.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Pete Crow-Armstrong": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Francisco Lindor": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jacob deGrom": {
+      "Pitcher Strikeouts": 6.5,
+      "Hits Allowed": 4.5
+    },
+    "Matt Olson": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Christian Yelich": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Julio Rodr\u00edguez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Gunnar Henderson": {
+      "Hits+Runs+RBIs": 2.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Trea Turner": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Cody Bellinger": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Sal Stewart": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Junior Caminero": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Seiya Suzuki": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Alex Bregman": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Taylor Ward": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Eugenio Su\u00e1rez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "George Kirby": {
+      "Pitcher Strikeouts": 4.5,
+      "Hits Allowed": 6.5
+    },
+    "Jackson Chourio": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Lawrence Butler": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Luis Arraez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Jung Hoo Lee": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Jarren Duran": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Spencer Torkelson": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Zach Neto": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Kyle Stowers": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "CJ Abrams": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Josh Naylor": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Bo Bichette": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Austin Riley": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Brady Singer": {
+      "Pitcher Strikeouts": 4.5,
+      "Hits Allowed": 5.5
+    },
+    "Randy Arozarena": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Taj Bradley": {
+      "Pitcher Strikeouts": 5.5,
+      "Hits Allowed": 4.5
+    },
+    "Clay Holmes": {
+      "Pitcher Strikeouts": 3.5,
+      "Hits Allowed": 5.5
+    },
+    "Wyatt Langford": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jackson Merrill": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jackson Holliday": {
+      "Hits+Runs+RBIs": 2.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Marcus Semien": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Trevor Story": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Yandy D\u00edaz": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Bryce Elder": {
+      "Pitcher Strikeouts": 5.5
+    },
+    "Max Muncy": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jeremy Pe\u00f1a": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "William Contreras": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Bryce Eldridge": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 2.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Gleyber Torres": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Nolan Arenado": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Nico Hoerner": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Brandon Nimmo": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Michael King": {
+      "Pitcher Strikeouts": 5.5,
+      "Hits Allowed": 5.5
+    },
+    "Hunter Goodman": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Lars Nootbaar": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Christian Walker": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Adley Rutschman": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jonathan Aranda": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Roman Anthony": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Aaron Nola": {
+      "Pitcher Strikeouts": 4.5,
+      "Hits Allowed": 5.5
+    },
+    "Ben Rice": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Brice Turang": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ozzie Albies": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Geraldo Perdomo": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Xander Bogaerts": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Yordan Alvarez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Michael Busch": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Isaac Paredes": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Mike Yastrzemski": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "Walks": 0.5
+    },
+    "Cedric Mullins": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Trent Grisham": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Mickey Moniak": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Wilyer Abreu": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Alec Bohm": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Javier B\u00e1ez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Ezequiel Tovar": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Sal Frelick": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Andrew Benintendi": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Trevor Larnach": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Royce Lewis": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Matt McLain": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ty France": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Agust\u00edn Ram\u00edrez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Bryson Stott": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ryan Gusto": {
+      "Pitcher Strikeouts": 3.5,
+      "Hits Allowed": 5.5
+    },
+    "Josh Bell": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Cam Smith": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ceddanne Rafaela": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Miguel Vargas": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Colt Keith": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Josh Lowe": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jackson Jobe": {
+      "Pitcher Strikeouts": 3.5,
+      "Hits Allowed": 4.5
+    },
+    "Brooks Lee": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Otto Lopez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Zach McKinstry": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Kyle Harrison": {
+      "Pitcher Strikeouts": 5.5,
+      "Hits Allowed": 4.5
+    },
+    "Austin Wells": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jake Burger": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Max Kepler": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Chandler Simpson": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Sean Murphy": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Luis Garc\u00eda": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jake Cronenworth": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Drake Baldwin": {
+      "Hits+Runs+RBIs": 3.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Chase Meidroth": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ryan Jeffers": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Willi Castro": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Brandon Marsh": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Colson Montgomery": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Tanner Gordon": {
+      "Pitcher Strikeouts": 4.5,
+      "Hits Allowed": 6.5
+    },
+    "Keibert Ruiz": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Carson Kelly": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Caleb Durbin": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jeff McNeil": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Jonah Heim": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Dylan Crews": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Dillon Dingler": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Tyler Stephenson": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Daulton Varsho": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Colton Cowser": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Kody Clemens": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "JJ Bleday": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Mauricio Dub\u00f3n": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Matt Shaw": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Connor Norby": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Christopher Morel": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Evan Carter": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Taylor Walls": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Francisco Alvarez": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Dominic Canzone": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Liam Hicks": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Luke Keaschall": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Dane Myers": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jakob Marsee": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jos\u00e9 Caballero": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Tyrone Taylor": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Cole Young": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Gabriel Moreno": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Javier Sanoja": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Tim Tawa": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Elias D\u00edaz": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Coby Mayo": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Christian V\u00e1zquez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jacob Young": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Daylen Lile": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Brady House": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Zac Veen": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Leody Taveras": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Christian Moore": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Heriberto Hern\u00e1ndez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jake McCarthy": {
+      "Hits+Runs+RBIs": 2.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ezequiel Duran": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jose Trevino": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Christian Koss": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5
+    },
+    "Jake Bauers": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "David Hamilton": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Tyler Heineman": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "RBIs": 0.5
+    },
+    "Weston Wilson": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Zack Gelof": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Garrett Mitchell": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Anthony Molina": {
+      "Pitcher Strikeouts": 2.5
+    },
+    "Jorbit Vivas": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jonny DeLuca": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "RBIs": 0.5
+    },
+    "Dustin Harris": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Shay Whitcomb": {
+      "Total Bases": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Esteury Ruiz": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Carlos Cortes": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Justin Foscue": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Troy Johnston": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Nasim Nu\u00f1ez": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ildemaro Vargas": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Cody Freeman": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Nick Sogard": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Dylan Beavers": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Leo Jim\u00e9nez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "RBIs": 0.5
+    },
+    "Gage Jump": {
+      "Pitcher Strikeouts": 5.5,
+      "Hits Allowed": 4.5
+    },
+    "Walbert Ure\u00f1a": {
+      "Pitcher Strikeouts": 5.5,
+      "Hits Allowed": 4.5
+    },
+    "Peter Lambert": {
+      "Pitcher Strikeouts": 5.5,
+      "Hits Allowed": 4.5
+    },
+    "Will Dion": {
+      "Pitcher Strikeouts": 3.5,
+      "Hits Allowed": 3.5
+    },
+    "Ian Seymour": {
+      "Pitcher Strikeouts": 5.5,
+      "Hits Allowed": 4.5
+    },
+    "Payton Tolle": {
+      "Pitcher Strikeouts": 6.5,
+      "Hits Allowed": 4.5
+    },
+    "Anthony Kay": {
+      "Pitcher Strikeouts": 4.5,
+      "Hits Allowed": 4.5
+    },
+    "Elmer Rodr\u00edguez": {
+      "Pitcher Strikeouts": 4.5,
+      "Hits Allowed": 4.5
+    },
+    "Robert Stock": {
+      "Pitcher Strikeouts": 3.5,
+      "Hits Allowed": 4.5
+    },
+    "Denzer Guzman": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "LaMonte Wade": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Sam Antonacci": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Drew Gilbert": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "Walks": 0.5
+    },
+    "Cooper Pratt": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Tristan Peters": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "H\u00e9ctor Rodr\u00edguez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Donovan Walton": {
+      "Hits+Runs+RBIs": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "Walks": 0.5
+    },
+    "Drew Cavanaugh": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Henry Bolte": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Michael Harris": {
+      "Hits+Runs+RBIs": 3.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "TJ Rumfield": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Abimelec Ortiz": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Turner Hill": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Munetaka Murakami": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Richie Palacios": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Luis Campusano": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Samuel Basallo": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Christian Encarnacion-Strand": {
+      "Hits+Runs+RBIs": 2.5,
+      "Total Bases": 1.5,
+      "Hits": 1.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Tommy White": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Wade Meckler": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Vaughn Grissom": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Jazz Chisholm": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Edwin Arroyo": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5
+    },
+    "Pedro Ramirez": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "J.T. Realmuto": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Walker Jenkins": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Eduardo Valencia": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "A.J. Ewing": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "J.P. Crawford": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Brian Navarreto": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5
+    },
+    "Max Clark": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Samad Taylor": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Kaelen Culpepper": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Justin Crawford": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Carson Benge": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "George Lombard": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Mois\u00e9s Ballesteros": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Spencer Jones": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Nate Furman": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "Walks": 0.5
+    },
+    "Braden Montgomery": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Drew Romo": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Kevin McGonigle": {
+      "Hits+Runs+RBIs": 1.5,
+      "Total Bases": 1.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    },
+    "Ryan Waldschmidt": {
+      "Hits+Runs+RBIs": 0.5,
+      "Total Bases": 0.5,
+      "Hits": 0.5,
+      "Runs": 0.5,
+      "RBIs": 0.5,
+      "Walks": 0.5
+    }
+  },
+  "props_with_projections": []
+}
