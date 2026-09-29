@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-29",
+  "predictions": [
+    {
+      "home_team": "IND",
+      "away_team": "LV",
+      "home_projected": 92.7,
+      "away_projected": 91.1,
+      "projected_spread": -1.6,
+      "projected_total": 183.8,
+      "home_win_prob": 59.9,
+      "away_win_prob": 40.1,
+      "home_record": "28-16",
+      "away_record": "31-13",
+      "home_conf": "Eastern",
+      "away_conf": "Western",
+      "home_l10": "6-4",
+      "away_l10": "8-2",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "L1",
+      "away_streak": "W7",
+      "home_home_record": "15-7",
+      "away_away_record": "16-6",
+      "market_odds": {
+        "spread": "IND -1.5",
+        "over_under": 183.5,
+        "home_ml": "-120",
+        "away_ml": "+100",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "NY",
+      "away_team": "MIN",
+      "home_projected": 88.2,
+      "away_projected": 89.0,
+      "projected_spread": 0.8,
+      "projected_total": 177.2,
+      "home_win_prob": 45.0,
+      "away_win_prob": 55.0,
+      "home_record": "26-18",
+      "away_record": "33-11",
+      "home_conf": "Eastern",
+      "away_conf": "Western",
+      "home_l10": "6-4",
+      "away_l10": "6-4",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "L2",
+      "away_streak": "W1",
+      "home_home_record": "14-8",
+      "away_away_record": "18-4",
+      "market_odds": {
+        "spread": "MIN -3.5",
+        "over_under": 173.5,
+        "home_ml": "+130",
+        "away_ml": "-155",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
