@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-02",
+  "predictions": [
+    {
+      "home_team": "GS",
+      "away_team": "DAL",
+      "home_projected": 86.0,
+      "away_projected": 82.0,
+      "projected_spread": -4.0,
+      "projected_total": 168.0,
+      "home_win_prob": 73.1,
+      "away_win_prob": 26.9,
+      "home_record": "32-12",
+      "away_record": "27-17",
+      "home_conf": "Western",
+      "away_conf": "Western",
+      "home_l10": "7-3",
+      "away_l10": "7-3",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "W1",
+      "away_streak": "W1",
+      "home_home_record": "17-5",
+      "away_away_record": "11-11",
+      "market_odds": {
+        "spread": "GS -7.5",
+        "over_under": 159.5,
+        "home_ml": "-325",
+        "away_ml": "+260",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
