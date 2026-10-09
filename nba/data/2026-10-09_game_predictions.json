@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-09",
+  "predictions": [
+    {
+      "home_team": "CHI",
+      "away_team": "MEM",
+      "home_projected": 128.2,
+      "away_projected": 119.0,
+      "projected_spread": -9.2,
+      "projected_total": 247.2,
+      "home_win_prob": 90.9,
+      "away_win_prob": 9.1,
+      "home_record": "1-0",
+      "away_record": "1-1",
+      "home_conf": "Eastern",
+      "away_conf": "Western",
+      "home_l10": "1-0",
+      "away_l10": "1-1",
+      "home_streak": "W1",
+      "away_streak": "L1",
+      "home_home_record": "1-0",
+      "away_away_record": "1-0",
+      "home_reg_record": "1-0",
+      "away_reg_record": "1-1",
+      "home_playoff_record": "",
+      "away_playoff_record": "",
+      "market_odds": {
+        "spread": "CHI -2.5",
+        "over_under": 239.5,
+        "home_ml": "-142",
+        "away_ml": "+120",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
