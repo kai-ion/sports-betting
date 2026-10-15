@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-15",
+  "predictions": [
+    {
+      "home_team": "NY",
+      "away_team": "TOR",
+      "home_projected": 106.8,
+      "away_projected": 126.5,
+      "projected_spread": 19.6,
+      "projected_total": 233.3,
+      "home_win_prob": 0.7,
+      "away_win_prob": 99.3,
+      "home_record": "0-4",
+      "away_record": "2-1",
+      "home_conf": "Eastern",
+      "away_conf": "Eastern",
+      "home_l10": "0-4",
+      "away_l10": "2-1",
+      "home_streak": "L4",
+      "away_streak": "W2",
+      "home_home_record": "0-2",
+      "away_away_record": "0-0",
+      "home_reg_record": "0-4",
+      "away_reg_record": "2-1",
+      "home_playoff_record": "",
+      "away_playoff_record": "",
+      "market_odds": {
+        "spread": "NY -5.5",
+        "over_under": 228.5,
+        "home_ml": "-205",
+        "away_ml": "+170",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "HOU",
+      "away_team": "OKC",
+      "home_projected": 125.1,
+      "away_projected": 118.8,
+      "projected_spread": -6.4,
+      "projected_total": 243.9,
+      "home_win_prob": 83.2,
+      "away_win_prob": 16.8,
+      "home_record": "1-1",
+      "away_record": "1-3",
+      "home_conf": "Western",
+      "away_conf": "Western",
+      "home_l10": "1-1",
+      "away_l10": "1-3",
+      "home_streak": "L1",
+      "away_streak": "W1",
+      "home_home_record": "0-0",
+      "away_away_record": "0-1",
+      "home_reg_record": "1-1",
+      "away_reg_record": "1-3",
+      "home_playoff_record": "",
+      "away_playoff_record": "",
+      "market_odds": {
+        "spread": "OKC -4.5",
+        "over_under": 223.5,
+        "home_ml": "+150",
+        "away_ml": "-180",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
