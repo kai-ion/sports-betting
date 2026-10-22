@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-22",
+  "predictions": [
+    {
+      "home_team": "PHI",
+      "away_team": "CLE",
+      "home_projected": 60.0,
+      "away_projected": 46.0,
+      "projected_spread": -14.0,
+      "projected_total": 106.0,
+      "home_win_prob": 97.1,
+      "away_win_prob": 2.9,
+      "home_record": "1-0",
+      "away_record": "0-0",
+      "home_conf": "Eastern",
+      "away_conf": "Eastern",
+      "home_l10": "1-0",
+      "away_l10": "",
+      "home_streak": "W1",
+      "away_streak": "-",
+      "home_home_record": "0-0",
+      "away_away_record": "0-0",
+      "home_reg_record": "1-0",
+      "away_reg_record": "0-0",
+      "home_playoff_record": "",
+      "away_playoff_record": "",
+      "market_odds": {
+        "spread": "PHI -3.5",
+        "over_under": 236.5,
+        "home_ml": "-142",
+        "away_ml": "+120",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "OKC",
+      "away_team": "DEN",
+      "home_projected": 65.0,
+      "away_projected": 48.0,
+      "projected_spread": -17.0,
+      "projected_total": 113.0,
+      "home_win_prob": 98.6,
+      "away_win_prob": 1.4,
+      "home_record": "1-0",
+      "away_record": "0-0",
+      "home_conf": "Western",
+      "away_conf": "Western",
+      "home_l10": "1-0",
+      "away_l10": "",
+      "home_streak": "W1",
+      "away_streak": "-",
+      "home_home_record": "0-0",
+      "away_away_record": "0-0",
+      "home_reg_record": "1-0",
+      "away_reg_record": "0-0",
+      "home_playoff_record": "",
+      "away_playoff_record": "",
+      "market_odds": {
+        "spread": "OKC -8.5",
+        "over_under": 235.5,
+        "home_ml": "-340",
+        "away_ml": "+270",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
