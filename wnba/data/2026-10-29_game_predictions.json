@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-29",
+  "predictions": [
+    {
+      "home_team": "ATL",
+      "away_team": "GS",
+      "home_projected": 85.1,
+      "away_projected": 83.4,
+      "projected_spread": -1.7,
+      "projected_total": 168.5,
+      "home_win_prob": 60.5,
+      "away_win_prob": 39.5,
+      "home_record": "30-14",
+      "away_record": "32-12",
+      "home_conf": "Eastern",
+      "away_conf": "Western",
+      "home_l10": "9-1",
+      "away_l10": "7-3",
+      "home_l5": "",
+      "away_l5": "",
+      "home_streak": "W5",
+      "away_streak": "W1",
+      "home_home_record": "15-7",
+      "away_away_record": "15-7",
+      "market_odds": {
+        "spread": "ATL -4.5",
+        "over_under": 147.5,
+        "home_ml": "-192",
+        "away_ml": "+160",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
