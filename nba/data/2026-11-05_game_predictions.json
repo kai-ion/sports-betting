@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-05",
+  "predictions": [
+    {
+      "home_team": "PHX",
+      "away_team": "ORL",
+      "home_projected": 116.5,
+      "away_projected": 115.5,
+      "projected_spread": -1.0,
+      "projected_total": 232.0,
+      "home_win_prob": 56.2,
+      "away_win_prob": 43.8,
+      "home_record": "1-5",
+      "away_record": "2-5",
+      "home_conf": "Western",
+      "away_conf": "Eastern",
+      "home_l10": "1-5",
+      "away_l10": "2-5",
+      "home_streak": "L4",
+      "away_streak": "L2",
+      "home_home_record": "1-2",
+      "away_away_record": "2-1",
+      "home_reg_record": "1-5",
+      "away_reg_record": "2-5",
+      "home_playoff_record": "",
+      "away_playoff_record": "",
+      "market_odds": {
+        "spread": "PHX -1.5",
+        "over_under": 222.5,
+        "home_ml": "-110",
+        "away_ml": "-108",
+        "provider": "DraftKings"
+      }
+    },
+    {
+      "home_team": "GS",
+      "away_team": "MIA",
+      "home_projected": 124.2,
+      "away_projected": 115.3,
+      "projected_spread": -8.9,
+      "projected_total": 239.5,
+      "home_win_prob": 90.2,
+      "away_win_prob": 9.8,
+      "home_record": "5-3",
+      "away_record": "3-5",
+      "home_conf": "Western",
+      "away_conf": "Eastern",
+      "home_l10": "5-3",
+      "away_l10": "3-5",
+      "home_streak": "W5",
+      "away_streak": "W1",
+      "home_home_record": "3-1",
+      "away_away_record": "2-2",
+      "home_reg_record": "5-3",
+      "away_reg_record": "3-5",
+      "home_playoff_record": "",
+      "away_playoff_record": "",
+      "market_odds": {
+        "spread": "GS -7.5",
+        "over_under": 235.5,
+        "home_ml": "-279",
+        "away_ml": "+228",
+        "provider": "DraftKings"
+      }
+    }
+  ]
+}
